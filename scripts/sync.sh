@@ -6,7 +6,7 @@
 #     scripts/sync.sh lfkdsk wish     # only one list
 set -euo pipefail
 
-USER="${1:-lfkdsk}"
+USER="${1:-141769761}"
 shift || true
 TYPES=("$@")
 if [ "${#TYPES[@]}" -eq 0 ]; then
