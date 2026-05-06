@@ -4,9 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨自动同步一次
 
 permissions:
-  contents: read
+  contents: write # 必须改为 write，否则无法把抓到的数据保存回仓库
   pages: write
   id-token: write
 
@@ -20,9 +22,33 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stage deploy bundle (without poster cache)
-        # Posters live in main for jsDelivr to serve, but excluding them from
-        # the Pages artifact keeps the deploy under a few MB.
+      # --- 新增步骤 1: 设置 Python 环境 ---
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 
+
+      # --- 新增步骤 2: 运行抓取脚本 ---
+      - name: Sync Douban Data
+        env:
+          DOUBAN_USER_ID: ${{ secrets.DOUBAN_USER_ID }}
+        run: |
+          # 使用你在 Secrets 里配置的 ID 运行同步
+          bash scripts/sync.sh "$DOUBAN_USER_ID"
+          
+          # 将抓取到的新数据提交回仓库
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore: automated douban sync [skip ci]" || echo "No changes to commit"
+          git push
+
+      # --- 原有步骤: 部署到 Pages ---
+      - name: Stage deploy bundle
         run: |
           mkdir -p _site
           rsync -a \
@@ -32,9 +58,6 @@ jobs:
             --exclude='_site' \
             --exclude='data/posters' \
             ./ _site/
-          echo "── deploy bundle layout ──"
-          ls -la _site
-          du -sh _site _site/data 2>/dev/null || true
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
