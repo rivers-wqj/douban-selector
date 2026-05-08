@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 425,
   "fetched": 416,
-  "fetched_at": "2026-05-07T03:38:05+0000",
+  "fetched_at": "2026-05-08T03:32:25+0000",
   "movies": [
     {
       "id": "1309066",
@@ -843,7 +843,7 @@
         "詹姆斯·乔伊斯 James Joyce",
         "托尼·休斯顿 Tony Huston"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p472337566.jpg"
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2594607258.jpg"
     },
     {
       "id": "36125819",
@@ -2680,7 +2680,7 @@
       "aka": [
         "Mon meilleur ami",
         "My Best Friend",
-        "我最好的朋友"
+        "我最好的朋友 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1938174/",
       "cover": "data/posters/1938174.jpg",
