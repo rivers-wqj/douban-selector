@@ -2,10 +2,55 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 782,
-  "fetched": 780,
-  "fetched_at": "2026-05-25T04:18:22+0000",
+  "total_declared": 783,
+  "fetched": 781,
+  "fetched_at": "2026-05-26T04:04:21+0000",
   "movies": [
+    {
+      "id": "37116446",
+      "cid": "4850684992",
+      "title": "给阿嬷的情书",
+      "aka": [
+        "Dear You"
+      ],
+      "url": "https://movie.douban.com/subject/37116446/",
+      "cover": "data/posters/37116446.jpg",
+      "year": "2026",
+      "mark_date": "2026-05-25",
+      "rating": 5,
+      "comment": "要鼠，从两人谈恋爱就开始哭。",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "家庭"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "118分钟",
+      "intro_raw": "2026-04-30(中国大陆) / 李思潼 / 王彦桐 / 吴少卿 / 郑润奇 / 王晓慧 / 赵曙光 / 李德如 / 李树浩 / 乌萨·萨梅坎姆 / 方培松 / 中国大陆 / 蓝鸿春 / 2026-04-17 / 118分钟 / 剧情 / 家庭 / 蓝鸿春 Hongchun Lan / 郑萱轩 Xuanxuan Zheng / 杨冷 / 朱丽云 Liyun Zhu / 汉语普通话 / 潮汕话",
+      "people": [
+        "李思潼",
+        "王彦桐",
+        "吴少卿",
+        "郑润奇",
+        "王晓慧",
+        "赵曙光",
+        "李德如",
+        "李树浩",
+        "乌萨·萨梅坎姆",
+        "方培松",
+        "蓝鸿春",
+        "蓝鸿春 Hongchun Lan",
+        "郑萱轩 Xuanxuan Zheng",
+        "杨冷",
+        "朱丽云 Liyun Zhu",
+        "潮汕话"
+      ],
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931851430.jpg"
+    },
     {
       "id": "26967871",
       "cid": "4834179863",
