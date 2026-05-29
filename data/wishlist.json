@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 425,
   "fetched": 416,
-  "fetched_at": "2026-05-28T04:02:38+0000",
+  "fetched_at": "2026-05-29T04:05:19+0000",
   "movies": [
     {
       "id": "1309066",
@@ -16289,12 +16289,18 @@
         "英语"
       ],
       "runtime": "101分钟",
-      "intro_raw": "2009-06-13 / 康妮·尼尔森 / 艾丹·奎因 / 杰克·格里森 / 约翰·贝尔 / 加拿大 / 爱尔兰 / 维克·萨林 / 101分钟 / 彩虹照耀 / 剧情 / 家庭 / 维克·萨林 Vic Sarin / 英语",
+      "intro_raw": "2009-06-13(上海国际电影节) / 2009-09-13(多伦多国际电影节) / 2010-04-09(加拿大) / 康妮·尼尔森 / 艾丹·奎因 / 约翰·贝尔 / 杰克·格里森 / Tara Alice Scully / Niamh Shaw / Kieran Lagan / Frances Quinn / 卡尔·奥尼尔 / Joy McBrinn / 加拿大 / 爱尔兰 / 维克·萨林 / 101分钟 / 彩虹照耀 / 剧情 / 家庭 / 维克·萨林 Vic Sarin / 英语",
       "people": [
         "康妮·尼尔森",
         "艾丹·奎因",
-        "杰克·格里森",
         "约翰·贝尔",
+        "杰克·格里森",
+        "Tara Alice Scully",
+        "Niamh Shaw",
+        "Kieran Lagan",
+        "Frances Quinn",
+        "卡尔·奥尼尔",
+        "Joy McBrinn",
         "维克·萨林",
         "彩虹照耀",
         "维克·萨林 Vic Sarin"
