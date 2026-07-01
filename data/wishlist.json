@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 425,
   "fetched": 416,
-  "fetched_at": "2026-06-30T04:02:58+0000",
+  "fetched_at": "2026-07-01T04:18:29+0000",
   "movies": [
     {
       "id": "1309066",
@@ -2780,7 +2780,7 @@
       "aka": [
         "Le dîner de cons",
         "傻瓜晚宴",
-        "傻瓜晚餐会 [可播放]"
+        "傻瓜晚餐会"
       ],
       "url": "https://movie.douban.com/subject/1306472/",
       "cover": "data/posters/1306472.jpg",
