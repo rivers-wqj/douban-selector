@@ -2,10 +2,57 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 785,
-  "fetched": 783,
-  "fetched_at": "2026-07-04T03:37:10+0000",
+  "total_declared": 786,
+  "fetched": 784,
+  "fetched_at": "2026-07-06T04:02:01+0000",
   "movies": [
+    {
+      "id": "36742572",
+      "cid": "4776543113",
+      "title": "巴黎夏日",
+      "aka": [
+        "Le Rendez-vous de l&#39;été",
+        "巴黎哈哈夏(港)",
+        "夏日约会 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/36742572/",
+      "cover": "data/posters/36742572.jpg",
+      "year": "2025",
+      "mark_date": "2026-07-05",
+      "rating": 4,
+      "comment": "明年就三十岁了。",
+      "countries": [
+        "法国"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "法语",
+        "英语",
+        "希腊语"
+      ],
+      "runtime": "77分钟",
+      "intro_raw": "2025-02-15(柏林国际电影节) / 2025-06-11(法国) / 布兰迪尼·马德克 / 英迪亚·海尔 / 阿卡帝·拉德夫 / 马蒂亚斯·雅克金 / 卢·德卢兹 / 贝里尔·加斯塔尔德洛 / 皮埃尔·塞瓦尔 / 洛蕾特·尼森 / 奥拉利亚·佩蒂特 / 艾哈迈德·法塔特 / 法国 / 瓦伦丁·卡迪奇 / 77分钟 / 巴黎夏日 / 剧情 / 喜剧 / 瓦伦丁·卡迪奇 Valentine Cadic / 玛里埃特·黛塞尔 Mariette Désert / 法语 / 英语 / 希腊语",
+      "people": [
+        "布兰迪尼·马德克",
+        "英迪亚·海尔",
+        "阿卡帝·拉德夫",
+        "马蒂亚斯·雅克金",
+        "卢·德卢兹",
+        "贝里尔·加斯塔尔德洛",
+        "皮埃尔·塞瓦尔",
+        "洛蕾特·尼森",
+        "奥拉利亚·佩蒂特",
+        "艾哈迈德·法塔特",
+        "瓦伦丁·卡迪奇",
+        "巴黎夏日",
+        "瓦伦丁·卡迪奇 Valentine Cadic",
+        "玛里埃特·黛塞尔 Mariette Désert"
+      ],
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919689159.jpg"
+    },
     {
       "id": "36474027",
       "cid": "4870114565",
