@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 424,
   "fetched": 415,
-  "fetched_at": "2026-07-08T03:18:08+0000",
+  "fetched_at": "2026-07-09T03:42:38+0000",
   "movies": [
     {
       "id": "1309066",
@@ -892,7 +892,8 @@
       "title": "副总统 第二季",
       "aka": [
         "Veep Season 2",
-        "二当家 第二季 [可播放]"
+        "二当家 第二季",
+        "副人之仁 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/10797516/",
       "cover": "data/posters/10797516.jpg",
