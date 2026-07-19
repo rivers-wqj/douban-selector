@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 424,
   "fetched": 415,
-  "fetched_at": "2026-07-17T02:57:16+0000",
+  "fetched_at": "2026-07-19T03:20:04+0000",
   "movies": [
     {
       "id": "1309066",
@@ -380,17 +380,17 @@
         "英语"
       ],
       "runtime": "30分钟",
-      "intro_raw": "2024-10-07(英国) / 索菲·威兰 / 亚当·伍利 / 洛琳·阿什伯恩 / 尼古拉斯·阿斯伯里 / 希欧布罕·芬内朗 / Pegeen Murphy / Carla Henry / 杰德·亚当斯 / Dave Jones / John Quinn / 英国 / 安德鲁·卓别林 / 阿尔玛不是一般人 / 30分钟 / 阿尔玛不是一般人 / 喜剧 / 苏菲·沃伦 Sophie Willan / 英语",
+      "intro_raw": "2024-10-07(英国) / 洛琳·阿什伯恩 / 希欧布罕·芬内朗 / Dave Jones / 肯尼斯·克拉德 / Shahzeb Aslam / Deborah Beck / 埃米·格莱德希尔 / Pegeen Murphy / Carla Henry / John Quinn / 英国 / 安德鲁·卓别林 / 阿尔玛不是一般人 / 30分钟 / 阿尔玛不是一般人 / 喜剧 / 苏菲·沃伦 Sophie Willan / 英语",
       "people": [
-        "索菲·威兰",
-        "亚当·伍利",
         "洛琳·阿什伯恩",
-        "尼古拉斯·阿斯伯里",
         "希欧布罕·芬内朗",
+        "Dave Jones",
+        "肯尼斯·克拉德",
+        "Shahzeb Aslam",
+        "Deborah Beck",
+        "埃米·格莱德希尔",
         "Pegeen Murphy",
         "Carla Henry",
-        "杰德·亚当斯",
-        "Dave Jones",
         "John Quinn",
         "安德鲁·卓别林",
         "阿尔玛不是一般人",
@@ -18044,7 +18044,7 @@
         "日语"
       ],
       "runtime": "29分钟",
-      "intro_raw": "2013-01-11(日本) / 永山瑛太 / 松田龙平 / 三浦诚己 / 渡边真起子 / 永泽俊矢 / 坂井真纪 / 川村雪绘 / 磨赤儿 / 正名仆蔵 / 新井浩文 / 日本 / www.tv-tokyo.co.jp/mahoro / 大根仁 / 29分钟 / 真幌站前番外地 / 剧情 / 大根仁 Hitoshi Ohne / 日语",
+      "intro_raw": "2013-01-11(日本) / 永山瑛太 / 松田龙平 / 三浦诚己 / 渡边真起子 / 永泽俊矢 / 坂井真纪 / 川村雪绘 / 磨赤儿 / 正名仆藏 / 新井浩文 / 日本 / www.tv-tokyo.co.jp/mahoro / 大根仁 / 29分钟 / 真幌站前番外地 / 剧情 / 大根仁 Hitoshi Ohne / 日语",
       "people": [
         "永山瑛太",
         "松田龙平",
@@ -18054,7 +18054,7 @@
         "坂井真纪",
         "川村雪绘",
         "磨赤儿",
-        "正名仆蔵",
+        "正名仆藏",
         "新井浩文",
         "www.tv-tokyo.co.jp",
         "mahoro",
