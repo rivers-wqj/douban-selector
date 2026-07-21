@@ -2,10 +2,56 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 787,
-  "fetched": 785,
-  "fetched_at": "2026-07-20T03:36:52+0000",
+  "total_declared": 788,
+  "fetched": 786,
+  "fetched_at": "2026-07-21T03:16:52+0000",
   "movies": [
+    {
+      "id": "37067461",
+      "cid": "4894124267",
+      "title": "女士优先",
+      "aka": [
+        "Ladies First",
+        "男人要自爱(美版)"
+      ],
+      "url": "https://movie.douban.com/subject/37067461/",
+      "cover": "data/posters/37067461.jpg",
+      "year": "2026",
+      "mark_date": "2026-07-20",
+      "rating": 3,
+      "comment": "前面还行，后面还是男人的世界可恶，或者本身就是以男性世界展开的啊。",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧",
+        "爱情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "90分钟",
+      "intro_raw": "2026-05-22(美国网络) / 萨莎·拜伦·科恩 / 裴淳华 / 汤姆·戴维斯 / 艾米莉·莫迪默 / 韦鲁切·欧皮亚 / 查尔斯·丹斯 / 费奥纳·肖 / 理查德·E·格兰特 / 雷德·滕南特 / 凯瑟琳·亨特 / 美国 / 西娅·夏罗克 / 90分钟 / 女士优先 / 喜剧 / 爱情 / 纳塔利·克林斯基 Natalie Krinsky / 辛科·保罗 Cinco Paul / 凯瑟琳·西尔伯曼 Katie Silberman / 埃莱奥诺尔·普里亚 Eleonore Pourriat / 英语",
+      "people": [
+        "萨莎·拜伦·科恩",
+        "裴淳华",
+        "汤姆·戴维斯",
+        "艾米莉·莫迪默",
+        "韦鲁切·欧皮亚",
+        "查尔斯·丹斯",
+        "费奥纳·肖",
+        "理查德·E·格兰特",
+        "雷德·滕南特",
+        "凯瑟琳·亨特",
+        "西娅·夏罗克",
+        "女士优先",
+        "纳塔利·克林斯基 Natalie Krinsky",
+        "辛科·保罗 Cinco Paul",
+        "凯瑟琳·西尔伯曼 Katie Silberman",
+        "埃莱奥诺尔·普里亚 Eleonore Pourriat"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932533733.jpg"
+    },
     {
       "id": "35512487",
       "cid": "4887176762",
@@ -5315,7 +5361,8 @@
       "cid": "4612155730",
       "title": "东游记",
       "aka": [
-        "Legends of the Eight Immortals"
+        "Legends of the Eight Immortals",
+        "八仙传"
       ],
       "url": "https://movie.douban.com/subject/2229596/",
       "cover": "data/posters/2229596.jpg",
@@ -36339,7 +36386,7 @@
         "韩语"
       ],
       "runtime": "148分钟",
-      "intro_raw": "2018-05-16(戛纳电影节) / 2018-05-17(韩国) / 刘亚仁 / 史蒂文·元 / 全钟瑞 / 金秀京 / 崔承浩 / 玉子妍 / 赵勇俊 / 张元亨 / 文成根 / 李仲玉 / 韩国 / 李沧东 / 148分钟 / 燃烧 / 剧情 / 犯罪 / 悬疑 / 李沧东 Chang-dong Lee / Jungmi Oh / 村上春树 Haruki Murakami / 韩语",
+      "intro_raw": "2018-05-16(戛纳电影节) / 2018-05-17(韩国) / 刘亚仁 / 史蒂文·元 / 全钟瑞 / 金秀京 / 崔承浩 / 玉子妍 / 赵勇俊 / 张元亨 / 文成根 / 李仲玉 / 韩国 / 李沧东 / 148分钟 / 燃烧 / 剧情 / 犯罪 / 悬疑 / 李沧东 Chang-dong Lee / Jungmi Oh / 韩语",
       "people": [
         "刘亚仁",
         "史蒂文·元",
@@ -36354,8 +36401,7 @@
         "李沧东",
         "燃烧",
         "李沧东 Chang-dong Lee",
-        "Jungmi Oh",
-        "村上春树 Haruki Murakami"
+        "Jungmi Oh"
       ],
       "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520095279.jpg"
     },
