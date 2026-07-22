@@ -2,10 +2,122 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 788,
-  "fetched": 786,
-  "fetched_at": "2026-07-21T03:16:52+0000",
+  "total_declared": 790,
+  "fetched": 788,
+  "fetched_at": "2026-07-22T03:00:48+0000",
   "movies": [
+    {
+      "id": "35082407",
+      "cid": "4895556369",
+      "title": "好想做一次 第二季",
+      "aka": [
+        "Never Have I Ever Season 2",
+        "我从来没有"
+      ],
+      "url": "https://movie.douban.com/subject/35082407/",
+      "cover": "data/posters/35082407.jpg",
+      "year": "2021",
+      "mark_date": "2026-07-22",
+      "rating": 4,
+      "comment": "雨夜爬床真的ohmygod",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2021-07-15(美国) / 麦特里伊·拉玛克里斯南 / 芮查·莫佳妮 / 嘉伦·李维森 / 达伦·巴内特 / 李·罗德里格斯 / 雷蒙娜·杨 / 约翰·麦肯罗 / 普娜·贾甘纳坦 / 梅根·苏丽 / 亚当·沙皮罗 / 美国 / 卡比尔·阿克塔 / 莉娜·汗 / 玛姬·盖瑞 / 特斯塔姆·莎佩罗 / 阿奴·瓦利亚 / 克莱尔·斯坎伦 / 朗·费希尔 / 好想做一次 / 30分钟 / 好想做一次 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 阿克沙拉·塞卡 Akshara Sekar / 阿米娜·穆尼尔 Amina Munir / 亚伦·盖瑞 Aaron Geary / 本·斯坦纳 Ben Steiner / 玛丽娜·科肯伯格 / 万斯·斯特林格 Vance Stringer / 阿斯米塔·帕兰杰普 / 克里斯蒂娜·赫伊尔姆 / 大卫·金 David King / 克里斯·施莱彻 / 英语",
+      "people": [
+        "麦特里伊·拉玛克里斯南",
+        "芮查·莫佳妮",
+        "嘉伦·李维森",
+        "达伦·巴内特",
+        "李·罗德里格斯",
+        "雷蒙娜·杨",
+        "约翰·麦肯罗",
+        "普娜·贾甘纳坦",
+        "梅根·苏丽",
+        "亚当·沙皮罗",
+        "卡比尔·阿克塔",
+        "莉娜·汗",
+        "玛姬·盖瑞",
+        "特斯塔姆·莎佩罗",
+        "阿奴·瓦利亚",
+        "克莱尔·斯坎伦",
+        "朗·费希尔",
+        "好想做一次",
+        "好想做一次",
+        "敏迪·卡灵 Mindy Kaling",
+        "阿克沙拉·塞卡 Akshara Sekar",
+        "阿米娜·穆尼尔 Amina Munir",
+        "亚伦·盖瑞 Aaron Geary",
+        "本·斯坦纳 Ben Steiner",
+        "玛丽娜·科肯伯格",
+        "万斯·斯特林格 Vance Stringer",
+        "阿斯米塔·帕兰杰普",
+        "克里斯蒂娜·赫伊尔姆",
+        "大卫·金 David King",
+        "克里斯·施莱彻"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2660708434.jpg"
+    },
+    {
+      "id": "34463436",
+      "cid": "4895305284",
+      "title": "好想做一次 第一季",
+      "aka": [
+        "Never Have I Ever Season 1",
+        "我从来没有"
+      ],
+      "url": "https://movie.douban.com/subject/34463436/",
+      "cover": "data/posters/34463436.jpg",
+      "year": "2020",
+      "mark_date": "2026-07-21",
+      "rating": 5,
+      "comment": "第一次get到美高drama，都是把伤痛问题前置🥹",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2020-04-27(美国) / 麦特里伊·拉玛克里斯南 / 李·罗德里格斯 / 雷蒙娜·杨 / 嘉伦·李维森 / 达伦·巴内特 / 森德希·拉玛莫西 / 普娜·贾甘纳坦 / 本杰明·诺里斯 / 芮查·莫佳妮 / 亚当·沙皮罗 / 美国 / 特斯塔姆·莎佩罗 / 琳达·门多萨 / 卡比尔·阿克塔 / 阿奴·瓦利亚 / 好想做一次 / 30分钟 / 好想做一次 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 朗·费希尔 Lang Fisher / 艾瑞克·奥雅玛 Erica Oyama / 马特·沃尔伯顿 Matt Warburton / 贾斯汀·诺布尔 Justin Noble / 阿米娜·穆尼尔 Amina Munir / 克里斯·施莱彻 Chris Schleicher / 阿克沙拉·塞卡 Akshara Sekar / 英语",
+      "people": [
+        "麦特里伊·拉玛克里斯南",
+        "李·罗德里格斯",
+        "雷蒙娜·杨",
+        "嘉伦·李维森",
+        "达伦·巴内特",
+        "森德希·拉玛莫西",
+        "普娜·贾甘纳坦",
+        "本杰明·诺里斯",
+        "芮查·莫佳妮",
+        "亚当·沙皮罗",
+        "特斯塔姆·莎佩罗",
+        "琳达·门多萨",
+        "卡比尔·阿克塔",
+        "阿奴·瓦利亚",
+        "好想做一次",
+        "好想做一次",
+        "敏迪·卡灵 Mindy Kaling",
+        "朗·费希尔 Lang Fisher",
+        "艾瑞克·奥雅玛 Erica Oyama",
+        "马特·沃尔伯顿 Matt Warburton",
+        "贾斯汀·诺布尔 Justin Noble",
+        "阿米娜·穆尼尔 Amina Munir",
+        "克里斯·施莱彻 Chris Schleicher",
+        "阿克沙拉·塞卡 Akshara Sekar"
+      ],
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2600916370.jpg"
+    },
     {
       "id": "37067461",
       "cid": "4894124267",
@@ -16795,7 +16907,7 @@
         "爱乐之城",
         "达米恩·查泽雷 Damien Chazelle"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929224846.jpg"
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934269059.jpg"
     },
     {
       "id": "1291555",
