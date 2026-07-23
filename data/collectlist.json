@@ -2,10 +2,70 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 790,
-  "fetched": 788,
-  "fetched_at": "2026-07-22T03:00:48+0000",
+  "total_declared": 791,
+  "fetched": 789,
+  "fetched_at": "2026-07-23T03:23:50+0000",
   "movies": [
+    {
+      "id": "35571004",
+      "cid": "4896394656",
+      "title": "好想做一次 第三季",
+      "aka": [
+        "Never Have I Ever Season 3",
+        "我从来没有"
+      ],
+      "url": "https://movie.douban.com/subject/35571004/",
+      "cover": "data/posters/35571004.jpg",
+      "year": "2022",
+      "mark_date": "2026-07-23",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "32分钟",
+      "intro_raw": "2022-08-12(美国) / 麦特里伊·拉玛克里斯南 / 嘉伦·李维森 / 达伦·巴内特 / 芮查·莫佳妮 / 普娜·贾甘纳坦 / 李·罗德里格斯 / 雷蒙娜·杨 / 约翰·麦肯罗 / 安迪·萨姆伯格 / 梅根·苏丽 / 美国 / 玛姬·凯瑞 / 斯里蒂·穆德拉 / 卡比尔·阿克塔 / 阮金 / 艾瑞克·奥雅玛 / 朗·费希尔 / 好想做一次 / 32分钟 / 好想做一次 / 剧情 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 玛丽娜·科肯伯格 Marina Cockenberg / 阿斯米塔·帕兰杰普 Asmita Paranjape / 阿克沙拉·塞卡 Akshara Sekar / 加布·里德曼 Gabe Liedman / 阿米娜·穆尼尔 Amina Munir / 本·斯坦纳 Ben Steiner / 亚伦·盖瑞 Aaron Geary / 克里斯蒂娜·赫伊尔姆 Christina Hjelm / 贝丝·阿贝尔 Beth Appel / 艾瑞克·奥雅玛 Erica Oyama / 朗·费希尔 Lang Fisher / 英语",
+      "people": [
+        "麦特里伊·拉玛克里斯南",
+        "嘉伦·李维森",
+        "达伦·巴内特",
+        "芮查·莫佳妮",
+        "普娜·贾甘纳坦",
+        "李·罗德里格斯",
+        "雷蒙娜·杨",
+        "约翰·麦肯罗",
+        "安迪·萨姆伯格",
+        "梅根·苏丽",
+        "玛姬·凯瑞",
+        "斯里蒂·穆德拉",
+        "卡比尔·阿克塔",
+        "阮金",
+        "艾瑞克·奥雅玛",
+        "朗·费希尔",
+        "好想做一次",
+        "好想做一次",
+        "敏迪·卡灵 Mindy Kaling",
+        "玛丽娜·科肯伯格 Marina Cockenberg",
+        "阿斯米塔·帕兰杰普 Asmita Paranjape",
+        "阿克沙拉·塞卡 Akshara Sekar",
+        "加布·里德曼 Gabe Liedman",
+        "阿米娜·穆尼尔 Amina Munir",
+        "本·斯坦纳 Ben Steiner",
+        "亚伦·盖瑞 Aaron Geary",
+        "克里斯蒂娜·赫伊尔姆 Christina Hjelm",
+        "贝丝·阿贝尔 Beth Appel",
+        "艾瑞克·奥雅玛 Erica Oyama",
+        "朗·费希尔 Lang Fisher"
+      ],
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2876878128.jpg"
+    },
     {
       "id": "35082407",
       "cid": "4895556369",
@@ -355,7 +415,7 @@
       "cid": "4850684992",
       "title": "给阿嬷的情书",
       "aka": [
-        "Dear You"
+        "Dear You [可播放]"
       ],
       "url": "https://movie.douban.com/subject/37116446/",
       "cover": "data/posters/37116446.jpg",
@@ -2926,7 +2986,7 @@
       "aka": [
         "Le renard et l&#39;enfant",
         "伴狐同行",
-        "狐狸与孩子"
+        "狐狸与孩子 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/2028659/",
       "cover": "data/posters/2028659.jpg",
@@ -3225,18 +3285,18 @@
         "日语"
       ],
       "runtime": "23分钟",
-      "intro_raw": "1990-01-07(日本) / 鳕子 / 水谷优子 / 一龙斋贞友 / 屋良有作 / 富山敬 / 青野武 / 岛田敏 / 佐佐木优子 / 渡边菜生子 / 川田妙子 / 日本 / 芝山努 / 棚桥一德 / 楠叶宏三 / 佐藤龙雄 / 高木淳 / 高松信司 / 小林常夫 / 宫下新平 / 片渊须直 / 西田健一 / 23分钟 / 樱桃小丸子 / 动画 / 喜剧 / 剧情 / 家庭 / 樱桃子 Momoko Sakura / 芝山努 Tsutomu Shibayama / 叶山阳一郎 Yôichirô Hayama / 日语",
+      "intro_raw": "1990-01-07(日本) / 鳕子 / 水谷优子 / 一龙斋贞友 / 屋良有作 / 富山敬 / 佐佐木优子 / 渡边菜生子 / 川田妙子 / 楢桥美纪 / 田野惠 / 日本 / 芝山努 / 棚桥一德 / 楠叶宏三 / 佐藤龙雄 / 高木淳 / 高松信司 / 小林常夫 / 宫下新平 / 片渊须直 / 西田健一 / 23分钟 / 樱桃小丸子 / 动画 / 喜剧 / 剧情 / 家庭 / 樱桃子 Momoko Sakura / 芝山努 Tsutomu Shibayama / 叶山阳一郎 Yôichirô Hayama / 日语",
       "people": [
         "鳕子",
         "水谷优子",
         "一龙斋贞友",
         "屋良有作",
         "富山敬",
-        "青野武",
-        "岛田敏",
         "佐佐木优子",
         "渡边菜生子",
         "川田妙子",
+        "楢桥美纪",
+        "田野惠",
         "芝山努",
         "棚桥一德",
         "楠叶宏三",
@@ -4566,7 +4626,7 @@
       "cid": "4612161013",
       "title": "康熙秘史",
       "aka": [
-        "康朝秘史"
+        "康朝秘史 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/2253598/",
       "cover": "data/posters/2253598.jpg",
@@ -4702,7 +4762,7 @@
       "cid": "4612160100",
       "title": "太子妃升职记",
       "aka": [
-        "Go Princess Go"
+        "Go Princess Go [可播放]"
       ],
       "url": "https://movie.douban.com/subject/26657015/",
       "cover": "data/posters/26657015.jpg",
@@ -5044,7 +5104,7 @@
       "title": "情深深雨濛濛",
       "aka": [
         "新烟雨濛濛",
-        "情深深雨蒙蒙"
+        "情深深雨蒙蒙 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1786742/",
       "cover": "data/posters/1786742.jpg",
@@ -5132,7 +5192,7 @@
       "cid": "4612157061",
       "title": "上错花轿嫁对郎",
       "aka": [
-        "Wrong Carriage, Right Groom"
+        "Wrong Carriage, Right Groom [可播放]"
       ],
       "url": "https://movie.douban.com/subject/2229576/",
       "cover": "data/posters/2229576.jpg",
@@ -5824,7 +5884,7 @@
       "aka": [
         "惡作劇之吻",
         "恶作剧之吻第一部",
-        "梦幻华尔兹"
+        "梦幻华尔兹 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/2085020/",
       "cover": "data/posters/2085020.jpg",
@@ -7028,7 +7088,9 @@
       "id": "4891786",
       "cid": "4612111746",
       "title": "夏家三千金",
-      "aka": [],
+      "aka": [
+        "[可播放]"
+      ],
       "url": "https://movie.douban.com/subject/4891786/",
       "cover": "data/posters/4891786.jpg",
       "year": "2011",
@@ -15197,7 +15259,7 @@
       "aka": [
         "となりのトトロ",
         "邻居托托罗",
-        "邻家的豆豆龙"
+        "邻家的豆豆龙 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1291560/",
       "cover": "data/posters/1291560.jpg",
@@ -15287,7 +15349,7 @@
       "aka": [
         "崖の上のポニョ",
         "悬崖上的金鱼姬",
-        "悬崖上的金鱼公主"
+        "悬崖上的金鱼公主 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1959877/",
       "cover": "data/posters/1959877.jpg",
@@ -16184,7 +16246,7 @@
       "aka": [
         "紅の豚",
         "飞天红猪侠(港)",
-        "Porco Rosso"
+        "Porco Rosso [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1291838/",
       "cover": "data/posters/1291838.jpg",
@@ -23031,7 +23093,7 @@
       "aka": [
         "The First Slam Dunk",
         "灌篮高手电影版",
-        "灌篮高手：THE FIRST"
+        "灌篮高手：THE FIRST [可播放]"
       ],
       "url": "https://movie.douban.com/subject/35315950/",
       "cover": "data/posters/35315950.jpg",
@@ -23197,7 +23259,7 @@
       "aka": [
         "Ferris Bueller&#39;s Day Off",
         "跷课天才(台)",
-        "咪走堂(港)"
+        "咪走堂(港) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1295437/",
       "cover": "data/posters/1295437.jpg",
@@ -24571,7 +24633,7 @@
       "aka": [
         "Eyes Wide Shut",
         "紧闭双眼",
-        "睁大双眼"
+        "睁大双眼 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1300275/",
       "cover": "data/posters/1300275.jpg",
@@ -25791,7 +25853,8 @@
       "cid": "3127305467",
       "title": "德伯家的苔丝",
       "aka": [
-        "Tess of the D&#39;Urbervilles"
+        "Tess of the D&#39;Urbervilles",
+        "[可播放]"
       ],
       "url": "https://movie.douban.com/subject/3123230/",
       "cover": "data/posters/3123230.jpg",
@@ -28346,7 +28409,7 @@
       "title": "囧妈",
       "aka": [
         "俄囧",
-        "Lost in Russia"
+        "Lost in Russia [可播放]"
       ],
       "url": "https://movie.douban.com/subject/30306570/",
       "cover": "data/posters/30306570.jpg",
@@ -30637,7 +30700,7 @@
         "Bodyguard Season 1",
         "内政保镖(港",
         "台)",
-        "保镖"
+        "保镖 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/27163287/",
       "cover": "data/posters/27163287.jpg",
@@ -31071,7 +31134,7 @@
       "cid": "1666762967",
       "title": "疯狂的外星人",
       "aka": [
-        "Crazy Alien"
+        "Crazy Alien [可播放]"
       ],
       "url": "https://movie.douban.com/subject/25986662/",
       "cover": "data/posters/25986662.jpg",
@@ -31395,7 +31458,7 @@
       "aka": [
         "PicNic",
         "Pikunikku",
-        "梦旅人"
+        "梦旅人 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1301948/",
       "cover": "data/posters/1301948.jpg",
@@ -31712,7 +31775,7 @@
       "aka": [
         "京都太秦物語",
         "Kyoto Story",
-        "Kyoto uzumasa monogatari"
+        "Kyoto uzumasa monogatari [可播放]"
       ],
       "url": "https://movie.douban.com/subject/4097122/",
       "cover": "data/posters/4097122.jpg",
@@ -35765,7 +35828,7 @@
       "aka": [
         "3 Idiots",
         "三个傻瓜(台)",
-        "作死不离3兄弟(港)"
+        "作死不离3兄弟(港) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/3793023/",
       "cover": "data/posters/3793023.jpg",

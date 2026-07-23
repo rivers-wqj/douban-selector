@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 424,
   "fetched": 415,
-  "fetched_at": "2026-07-22T02:57:58+0000",
+  "fetched_at": "2026-07-23T03:20:25+0000",
   "movies": [
     {
       "id": "1309066",
@@ -13,7 +13,7 @@
       "aka": [
         "De battre mon coeur s&#39;est arrêté",
         "我心跳跃",
-        "心跳停顿"
+        "心跳停顿 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1309066/",
       "cover": "data/posters/1309066.jpg",
@@ -2070,7 +2070,7 @@
       "aka": [
         "Orlando",
         "奥兰度(港)",
-        "美丽佳人欧兰朵(台)"
+        "美丽佳人欧兰朵(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1301895/",
       "cover": "data/posters/1301895.jpg",
@@ -2402,7 +2402,7 @@
       "title": "花神咖啡馆的情人们",
       "aka": [
         "Les amants du Flore",
-        "花神咖啡馆的情人们"
+        "花神咖啡馆的情人们 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1935146/",
       "cover": "data/posters/1935146.jpg",
@@ -2734,7 +2734,7 @@
       "aka": [
         "Le dîner de cons",
         "傻瓜晚宴",
-        "傻瓜晚餐会"
+        "傻瓜晚餐会 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1306472/",
       "cover": "data/posters/1306472.jpg",
@@ -3500,7 +3500,7 @@
       "aka": [
         "鋼の錬金術師 FULLMETAL ALCHEMIST",
         "钢之炼金术师 FULLMETAL ALCHEMIST",
-        "钢之炼金术师2009"
+        "钢之炼金术师2009 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/3430169/",
       "cover": "data/posters/3430169.jpg",
@@ -4250,7 +4250,7 @@
       "aka": [
         "مسافر",
         "Le Passager",
-        "Mossafer"
+        "Mossafer [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1478142/",
       "cover": "data/posters/1478142.jpg",
@@ -4424,7 +4424,7 @@
       "aka": [
         "طعم گیلاس",
         "樱桃之味",
-        "Taste of Cherry"
+        "Taste of Cherry [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1296177/",
       "cover": "data/posters/1296177.jpg",
@@ -6193,7 +6193,8 @@
       "cid": "4068896892",
       "title": "丹麦女孩",
       "aka": [
-        "The Danish Girl"
+        "The Danish Girl",
+        "[可播放]"
       ],
       "url": "https://movie.douban.com/subject/3071604/",
       "cover": "data/posters/3071604.jpg",
@@ -6781,7 +6782,7 @@
       "title": "钢琴教师",
       "aka": [
         "La pianiste",
-        "The Piano Teacher"
+        "The Piano Teacher [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1306730/",
       "cover": "data/posters/1306730.jpg",
@@ -9624,7 +9625,7 @@
       "aka": [
         "Mandariinid",
         "橘子收成时(台)",
-        "橘子"
+        "橘子 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/24869803/",
       "cover": "data/posters/24869803.jpg",
@@ -11820,7 +11821,7 @@
       "aka": [
         "변호인",
         "逆权大状(港)",
-        "正义辩护人(台)"
+        "正义辩护人(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/21937445/",
       "cover": "data/posters/21937445.jpg",
@@ -13184,7 +13185,7 @@
       "title": "纵横四海",
       "aka": [
         "縱橫四海",
-        "Once a Thief"
+        "Once a Thief [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1295409/",
       "cover": "data/posters/1295409.jpg",
@@ -13652,11 +13653,11 @@
         "英语"
       ],
       "runtime": "105 分钟",
-      "intro_raw": "1992-04-16(墨西哥) / 马克·莱昂纳蒂 / 卢米·卡范佐斯 / Regina Torné / 马里奥·伊万·马丁内斯 / Pilar Aranda / 玛加丽塔·伊莎贝尔 / 法尔内西奥·德贝尔纳尔 / Gabriela Canudas / 亚蕾莉·阿里吉门德 / Rodolfo Arias / 墨西哥 / 阿方索·阿雷奥 / 105 分钟 / Mexico: 113 分钟(R Rated NTSC Version) / 巧克力情人 / 剧情 / 爱情 / Laura Esquivel / 西班牙语 / 英语",
+      "intro_raw": "1992-04-16(墨西哥) / 马克·莱昂纳蒂 / 卢米·卡范佐斯 / 雷吉娜·托恩 / 马里奥·伊万·马丁内斯 / Pilar Aranda / 玛加丽塔·伊莎贝尔 / 法尔内西奥·德贝尔纳尔 / Gabriela Canudas / 亚蕾莉·阿里吉门德 / Rodolfo Arias / 墨西哥 / 阿方索·阿雷奥 / 105 分钟 / Mexico: 113 分钟(R Rated NTSC Version) / 巧克力情人 / 剧情 / 爱情 / Laura Esquivel / 西班牙语 / 英语",
       "people": [
         "马克·莱昂纳蒂",
         "卢米·卡范佐斯",
-        "Regina Torné",
+        "雷吉娜·托恩",
         "马里奥·伊万·马丁内斯",
         "Pilar Aranda",
         "玛加丽塔·伊莎贝尔",
@@ -14486,7 +14487,7 @@
       "aka": [
         "Her",
         "触不到的她(港)",
-        "云端情人(台)"
+        "云端情人(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/6722879/",
       "cover": "data/posters/6722879.jpg",
@@ -16274,7 +16275,7 @@
       "aka": [
         "Второе рождение Поднебесной. Китай глазами советских операторов",
         "中国的重生：苏联摄影师眼中的中国",
-        "重生：苏联摄影师眼中的中国"
+        "重生：苏联摄影师眼中的中国 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/34834426/",
       "cover": "data/posters/34834426.jpg",
@@ -18026,7 +18027,8 @@
       "cid": "1643994615",
       "title": "真幌站前番外地",
       "aka": [
-        "まほろ駅前番外地"
+        "まほろ駅前番外地",
+        "[可播放]"
       ],
       "url": "https://movie.douban.com/subject/10553029/",
       "cover": "data/posters/10553029.jpg",
@@ -18326,7 +18328,7 @@
       "title": "日日是好日",
       "aka": [
         "每天都是好日子",
-        "天天是个好日子"
+        "天天是个好日子 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/27185563/",
       "cover": "data/posters/27185563.jpg",
