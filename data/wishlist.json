@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 424,
   "fetched": 415,
-  "fetched_at": "2026-07-23T03:20:25+0000",
+  "fetched_at": "2026-07-24T02:58:33+0000",
   "movies": [
     {
       "id": "1309066",
@@ -3122,7 +3122,7 @@
       "aka": [
         "Céline et Julie vont en bateau",
         "塞琳和朱莉出航记",
-        "Celine and Julie Go Boating"
+        "Celine and Julie Go Boating [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1418141/",
       "cover": "data/posters/1418141.jpg",
@@ -8515,8 +8515,8 @@
       "title": "爱情魔术师",
       "aka": [
         "El amor brujo",
-        "A Love Bewitched",
-        "爱情魔术师"
+        "魔恋",
+        "A Love Bewitched"
       ],
       "url": "https://movie.douban.com/subject/1436721/",
       "cover": "data/posters/1436721.jpg",
@@ -8622,12 +8622,13 @@
         "西班牙语"
       ],
       "runtime": "72分钟",
-      "intro_raw": "1981-03-09 / 安东尼奥·加德斯 / 克里斯蒂娜·霍约斯 / José Mercé / 马里索尔 / 西班牙 / 法国 / 卡洛斯·绍拉 / 72分钟 / 血婚 / 剧情 / Juanjo Artero / 安东尼奥·加德斯 Antonio Gades / 西班牙语",
+      "intro_raw": "1981-03-09 / 安东尼奥·加德斯 / 克里斯蒂娜·霍约斯 / 马里索尔 / José Mercé / Pepe Blanco / 西班牙 / 法国 / 卡洛斯·绍拉 / 72分钟 / 血婚 / 剧情 / Juanjo Artero / 安东尼奥·加德斯 Antonio Gades / 西班牙语",
       "people": [
         "安东尼奥·加德斯",
         "克里斯蒂娜·霍约斯",
-        "José Mercé",
         "马里索尔",
+        "José Mercé",
+        "Pepe Blanco",
         "卡洛斯·绍拉",
         "血婚",
         "Juanjo Artero",
@@ -9573,7 +9574,7 @@
       "aka": [
         "Carne trémula",
         "颤抖的欲望(台)",
-        "活着的肉体"
+        "活着的肉体 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1302369/",
       "cover": "data/posters/1302369.jpg",
@@ -13449,7 +13450,7 @@
       "aka": [
         "L&#39;avenir",
         "从前·现在·将来(港)",
-        "爱情未来(台)"
+        "爱情未来(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/26215216/",
       "cover": "data/posters/26215216.jpg",
@@ -17880,7 +17881,7 @@
       "aka": [
         "ジョジョの奇妙な冒険 黄金の風",
         "JOJO的奇妙冒险 第五季",
-        "JoJo's Bizarre Adventure: Golden Wind"
+        "JoJo's Bizarre Adventure: Golden Wind [可播放]"
       ],
       "url": "https://movie.douban.com/subject/27666505/",
       "cover": "data/posters/27666505.jpg",

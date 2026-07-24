@@ -2,10 +2,70 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 791,
-  "fetched": 789,
-  "fetched_at": "2026-07-23T03:23:50+0000",
+  "total_declared": 792,
+  "fetched": 790,
+  "fetched_at": "2026-07-24T03:01:08+0000",
   "movies": [
+    {
+      "id": "35796339",
+      "cid": "4897215829",
+      "title": "好想做一次 第四季",
+      "aka": [
+        "Never Have I Ever Season 4",
+        "好想做一次 最终季",
+        "我从来没有"
+      ],
+      "url": "https://movie.douban.com/subject/35796339/",
+      "cover": "data/posters/35796339.jpg",
+      "year": "2023",
+      "mark_date": "2026-07-24",
+      "rating": 5,
+      "comment": "最后一季好牛，完全被治愈了🥹",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2023-06-08(美国) / 麦特里伊·拉玛克里斯南 / 嘉伦·李维森 / 达伦·巴内特 / 芮查·莫佳妮 / 李·罗德里格斯 / 雷蒙娜·杨 / 约翰·麦肯罗 / 普娜·贾甘纳坦 / 兰吉塔·查克拉瓦蒂 / 南希·纳什 / 美国 / 艾瑞克·奥雅玛 / 莉娜·汗 / 迪恩·霍兰德 / 卡比尔·阿克塔 / 亚当·康提 / 朗·费希尔 / 好想做一次 / 30分钟 / 好想做一次 / 剧情 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 朗·费希尔 Lang Fisher / 艾瑞克·奥雅玛 Erica Oyama / 加布·里德曼 Gabe Liedman / 阿米娜·穆尼尔 Amina Munir / 卡蕾·惠特 / 阿斯米塔·帕兰杰普 Asmita Paranjape / 玛丽娜·科肯伯格 Marina Cockenberg / 阿克沙拉·塞卡 Akshara Sekar / 亚伦·盖瑞 Aaron Geary / 本·斯坦纳 Ben Steiner / 英语",
+      "people": [
+        "麦特里伊·拉玛克里斯南",
+        "嘉伦·李维森",
+        "达伦·巴内特",
+        "芮查·莫佳妮",
+        "李·罗德里格斯",
+        "雷蒙娜·杨",
+        "约翰·麦肯罗",
+        "普娜·贾甘纳坦",
+        "兰吉塔·查克拉瓦蒂",
+        "南希·纳什",
+        "艾瑞克·奥雅玛",
+        "莉娜·汗",
+        "迪恩·霍兰德",
+        "卡比尔·阿克塔",
+        "亚当·康提",
+        "朗·费希尔",
+        "好想做一次",
+        "好想做一次",
+        "敏迪·卡灵 Mindy Kaling",
+        "朗·费希尔 Lang Fisher",
+        "艾瑞克·奥雅玛 Erica Oyama",
+        "加布·里德曼 Gabe Liedman",
+        "阿米娜·穆尼尔 Amina Munir",
+        "卡蕾·惠特",
+        "阿斯米塔·帕兰杰普 Asmita Paranjape",
+        "玛丽娜·科肯伯格 Marina Cockenberg",
+        "阿克沙拉·塞卡 Akshara Sekar",
+        "亚伦·盖瑞 Aaron Geary",
+        "本·斯坦纳 Ben Steiner"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892241985.jpg"
+    },
     {
       "id": "35571004",
       "cid": "4896394656",
@@ -10372,7 +10432,7 @@
       "title": "爱的抉择",
       "aka": [
         "L&#39;embarras du choix",
-        "爱的抉择"
+        "爱的抉择 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/26999192/",
       "cover": "data/posters/26999192.jpg",
@@ -12414,7 +12474,9 @@
       "id": "36206689",
       "cid": "4200404726",
       "title": "历史那些事 第三季",
-      "aka": [],
+      "aka": [
+        "[可播放]"
+      ],
       "url": "https://movie.douban.com/subject/36206689/",
       "cover": "data/posters/36206689.jpg",
       "year": "2023",
@@ -14168,7 +14230,7 @@
         "英语"
       ],
       "runtime": "111分钟",
-      "intro_raw": "1995-07-15(日本) / 本名阳子 / 小林桂树 / 高山南 / 高桥一生 / 山下容莉枝 / 室井滋 / 露口茂 / 饭冢雅弓 / 加利·艾尔维斯 / 珍·斯玛特 / 日本 / 近藤喜文 / 111分钟 / 侧耳倾听 / 剧情 / 爱情 / 动画 / 宫崎骏 Hayao Miyazaki / 柊葵 Aoi Hîragi / 日语 / 英语",
+      "intro_raw": "1995-07-15(日本) / 本名阳子 / 小林桂树 / 高山南 / 高桥一生 / 山下容莉枝 / 室井滋 / 露口茂 / 饭冢雅弓 / 加利·艾尔维斯 / 布里特妮·斯诺 / 日本 / 近藤喜文 / 111分钟 / 侧耳倾听 / 剧情 / 爱情 / 动画 / 宫崎骏 Hayao Miyazaki / 柊葵 Aoi Hîragi / 日语 / 英语",
       "people": [
         "本名阳子",
         "小林桂树",
@@ -14179,7 +14241,7 @@
         "露口茂",
         "饭冢雅弓",
         "加利·艾尔维斯",
-        "珍·斯玛特",
+        "布里特妮·斯诺",
         "近藤喜文",
         "侧耳倾听",
         "宫崎骏 Hayao Miyazaki",
@@ -17421,7 +17483,7 @@
         "安德雷斯·拜兹 Andrés Baiz",
         "哈特姆·科莱切 Hatem Khraiche"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1671800784.jpg"
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2258872500.jpg"
     },
     {
       "id": "27109435",
@@ -28356,7 +28418,7 @@
         "乔·斯沃林 Jo Swerling",
         "约翰·范·德鲁登 John Van Druten"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p700729909.jpg"
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg"
     },
     {
       "id": "26611804",
@@ -28707,7 +28769,7 @@
       "aka": [
         "부산행",
         "尸杀列车(港)",
-        "尸速列车(台)"
+        "尸速列车(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/25986180/",
       "cover": "data/posters/25986180.jpg",
