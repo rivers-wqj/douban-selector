@@ -2,10 +2,63 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 792,
-  "fetched": 790,
-  "fetched_at": "2026-07-24T03:01:08+0000",
+  "total_declared": 793,
+  "fetched": 791,
+  "fetched_at": "2026-07-25T03:00:36+0000",
   "movies": [
+    {
+      "id": "30122641",
+      "cid": "4898030839",
+      "title": "难以置信",
+      "aka": [
+        "Unbelievable",
+        "不可置信(港)",
+        "难，置信(台)"
+      ],
+      "url": "https://movie.douban.com/subject/30122641/",
+      "cover": "data/posters/30122641.jpg",
+      "year": "2019",
+      "mark_date": "2026-07-24",
+      "rating": 5,
+      "comment": "姐姐妹妹都好棒！",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "犯罪"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "58分钟",
+      "intro_raw": "2019-09-13(美国) / 梅里特·韦弗 / 托妮·科莱特 / 凯特琳·德弗 / 丹妮尔·麦克唐纳 / 戴尔·迪奇 / 莉萨·拉皮拉 / 卡伊·伦诺克斯 / 布莱克·埃利斯 / 奥马尔·马卡迪 / 奥斯汀·赫伯特 / 美国 / 丽莎·查罗登科 / 迈克尔·丁纳 / 苏珊娜·格兰特 / 难以置信 / 58分钟 / 难以置信 / 剧情 / 犯罪 / 苏珊娜·格兰特 Susannah Grant / 迈克尔·夏邦 Michael Chabon / Becky Mode / Ayelet Waldman / 珍妮弗·舒尔 Jennifer Schuur / 肯·阿姆斯特朗 Ken Armstrong / T·克里斯蒂安·米勒 T. Christian Miller / 英语",
+      "people": [
+        "梅里特·韦弗",
+        "托妮·科莱特",
+        "凯特琳·德弗",
+        "丹妮尔·麦克唐纳",
+        "戴尔·迪奇",
+        "莉萨·拉皮拉",
+        "卡伊·伦诺克斯",
+        "布莱克·埃利斯",
+        "奥马尔·马卡迪",
+        "奥斯汀·赫伯特",
+        "丽莎·查罗登科",
+        "迈克尔·丁纳",
+        "苏珊娜·格兰特",
+        "难以置信",
+        "难以置信",
+        "苏珊娜·格兰特 Susannah Grant",
+        "迈克尔·夏邦 Michael Chabon",
+        "Becky Mode",
+        "Ayelet Waldman",
+        "珍妮弗·舒尔 Jennifer Schuur",
+        "肯·阿姆斯特朗 Ken Armstrong",
+        "T·克里斯蒂安·米勒 T. Christian Miller"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567974355.jpg"
+    },
     {
       "id": "35796339",
       "cid": "4897215829",
@@ -475,7 +528,7 @@
       "cid": "4850684992",
       "title": "给阿嬷的情书",
       "aka": [
-        "Dear You [可播放]"
+        "Dear You"
       ],
       "url": "https://movie.douban.com/subject/37116446/",
       "cover": "data/posters/37116446.jpg",
@@ -3046,7 +3099,7 @@
       "aka": [
         "Le renard et l&#39;enfant",
         "伴狐同行",
-        "狐狸与孩子 [可播放]"
+        "狐狸与孩子"
       ],
       "url": "https://movie.douban.com/subject/2028659/",
       "cover": "data/posters/2028659.jpg",
@@ -4686,7 +4739,7 @@
       "cid": "4612161013",
       "title": "康熙秘史",
       "aka": [
-        "康朝秘史 [可播放]"
+        "康朝秘史"
       ],
       "url": "https://movie.douban.com/subject/2253598/",
       "cover": "data/posters/2253598.jpg",
@@ -4822,7 +4875,7 @@
       "cid": "4612160100",
       "title": "太子妃升职记",
       "aka": [
-        "Go Princess Go [可播放]"
+        "Go Princess Go"
       ],
       "url": "https://movie.douban.com/subject/26657015/",
       "cover": "data/posters/26657015.jpg",
@@ -5164,7 +5217,7 @@
       "title": "情深深雨濛濛",
       "aka": [
         "新烟雨濛濛",
-        "情深深雨蒙蒙 [可播放]"
+        "情深深雨蒙蒙"
       ],
       "url": "https://movie.douban.com/subject/1786742/",
       "cover": "data/posters/1786742.jpg",
@@ -5252,7 +5305,7 @@
       "cid": "4612157061",
       "title": "上错花轿嫁对郎",
       "aka": [
-        "Wrong Carriage, Right Groom [可播放]"
+        "Wrong Carriage, Right Groom"
       ],
       "url": "https://movie.douban.com/subject/2229576/",
       "cover": "data/posters/2229576.jpg",
@@ -5944,7 +5997,7 @@
       "aka": [
         "惡作劇之吻",
         "恶作剧之吻第一部",
-        "梦幻华尔兹 [可播放]"
+        "梦幻华尔兹"
       ],
       "url": "https://movie.douban.com/subject/2085020/",
       "cover": "data/posters/2085020.jpg",
@@ -7148,9 +7201,7 @@
       "id": "4891786",
       "cid": "4612111746",
       "title": "夏家三千金",
-      "aka": [
-        "[可播放]"
-      ],
+      "aka": [],
       "url": "https://movie.douban.com/subject/4891786/",
       "cover": "data/posters/4891786.jpg",
       "year": "2011",
@@ -10432,7 +10483,7 @@
       "title": "爱的抉择",
       "aka": [
         "L&#39;embarras du choix",
-        "爱的抉择 [可播放]"
+        "爱的抉择"
       ],
       "url": "https://movie.douban.com/subject/26999192/",
       "cover": "data/posters/26999192.jpg",
@@ -12474,9 +12525,7 @@
       "id": "36206689",
       "cid": "4200404726",
       "title": "历史那些事 第三季",
-      "aka": [
-        "[可播放]"
-      ],
+      "aka": [],
       "url": "https://movie.douban.com/subject/36206689/",
       "cover": "data/posters/36206689.jpg",
       "year": "2023",
@@ -15321,7 +15370,7 @@
       "aka": [
         "となりのトトロ",
         "邻居托托罗",
-        "邻家的豆豆龙 [可播放]"
+        "邻家的豆豆龙"
       ],
       "url": "https://movie.douban.com/subject/1291560/",
       "cover": "data/posters/1291560.jpg",
@@ -15411,7 +15460,7 @@
       "aka": [
         "崖の上のポニョ",
         "悬崖上的金鱼姬",
-        "悬崖上的金鱼公主 [可播放]"
+        "悬崖上的金鱼公主"
       ],
       "url": "https://movie.douban.com/subject/1959877/",
       "cover": "data/posters/1959877.jpg",
@@ -16308,7 +16357,7 @@
       "aka": [
         "紅の豚",
         "飞天红猪侠(港)",
-        "Porco Rosso [可播放]"
+        "Porco Rosso"
       ],
       "url": "https://movie.douban.com/subject/1291838/",
       "cover": "data/posters/1291838.jpg",
@@ -18868,22 +18917,19 @@
       ],
       "genres": [
         "剧情",
-        "喜剧",
-        "爱情"
+        "喜剧"
       ],
       "languages": [
         "粤语",
         "汉语普通话"
       ],
-      "runtime": "",
-      "intro_raw": "1989-12-21 / 洪金宝 / 张艾嘉 / 谢伟雄 / 中国香港 / 张婉婷 / 100分钟(美国) / 104分钟(英国) / 八两金 / 剧情 / 喜剧 / 爱情 / 罗启锐 / 张婉婷 / 粤语 / 汉语普通话",
+      "runtime": "106分钟",
+      "intro_raw": "1989-12-21 / 洪金宝 / 张艾嘉 / 谢伟雄 / 中国香港 / 张婉婷 / 106分钟 / 八两金 / 剧情 / 喜剧 / 罗启锐 / 张婉婷 / 粤语 / 汉语普通话",
       "people": [
         "洪金宝",
         "张艾嘉",
         "谢伟雄",
         "张婉婷",
-        "100分钟(美国)",
-        "104分钟(英国)",
         "八两金",
         "罗启锐",
         "张婉婷"
@@ -23155,7 +23201,7 @@
       "aka": [
         "The First Slam Dunk",
         "灌篮高手电影版",
-        "灌篮高手：THE FIRST [可播放]"
+        "灌篮高手：THE FIRST"
       ],
       "url": "https://movie.douban.com/subject/35315950/",
       "cover": "data/posters/35315950.jpg",
@@ -23321,7 +23367,7 @@
       "aka": [
         "Ferris Bueller&#39;s Day Off",
         "跷课天才(台)",
-        "咪走堂(港) [可播放]"
+        "咪走堂(港)"
       ],
       "url": "https://movie.douban.com/subject/1295437/",
       "cover": "data/posters/1295437.jpg",
@@ -24695,7 +24741,7 @@
       "aka": [
         "Eyes Wide Shut",
         "紧闭双眼",
-        "睁大双眼 [可播放]"
+        "睁大双眼"
       ],
       "url": "https://movie.douban.com/subject/1300275/",
       "cover": "data/posters/1300275.jpg",
@@ -25915,8 +25961,7 @@
       "cid": "3127305467",
       "title": "德伯家的苔丝",
       "aka": [
-        "Tess of the D&#39;Urbervilles",
-        "[可播放]"
+        "Tess of the D&#39;Urbervilles"
       ],
       "url": "https://movie.douban.com/subject/3123230/",
       "cover": "data/posters/3123230.jpg",
@@ -27949,7 +27994,7 @@
         "当幸福来敲门",
         "史帝文·康拉德 Steve Conrad"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1312700628.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220721286.jpg"
     },
     {
       "id": "30170448",
@@ -28471,7 +28516,7 @@
       "title": "囧妈",
       "aka": [
         "俄囧",
-        "Lost in Russia [可播放]"
+        "Lost in Russia"
       ],
       "url": "https://movie.douban.com/subject/30306570/",
       "cover": "data/posters/30306570.jpg",
@@ -28769,7 +28814,7 @@
       "aka": [
         "부산행",
         "尸杀列车(港)",
-        "尸速列车(台) [可播放]"
+        "尸速列车(台)"
       ],
       "url": "https://movie.douban.com/subject/25986180/",
       "cover": "data/posters/25986180.jpg",
@@ -30762,7 +30807,7 @@
         "Bodyguard Season 1",
         "内政保镖(港",
         "台)",
-        "保镖 [可播放]"
+        "保镖"
       ],
       "url": "https://movie.douban.com/subject/27163287/",
       "cover": "data/posters/27163287.jpg",
@@ -31196,7 +31241,7 @@
       "cid": "1666762967",
       "title": "疯狂的外星人",
       "aka": [
-        "Crazy Alien [可播放]"
+        "Crazy Alien"
       ],
       "url": "https://movie.douban.com/subject/25986662/",
       "cover": "data/posters/25986662.jpg",
@@ -31520,7 +31565,7 @@
       "aka": [
         "PicNic",
         "Pikunikku",
-        "梦旅人 [可播放]"
+        "梦旅人"
       ],
       "url": "https://movie.douban.com/subject/1301948/",
       "cover": "data/posters/1301948.jpg",
@@ -31837,7 +31882,7 @@
       "aka": [
         "京都太秦物語",
         "Kyoto Story",
-        "Kyoto uzumasa monogatari [可播放]"
+        "Kyoto uzumasa monogatari"
       ],
       "url": "https://movie.douban.com/subject/4097122/",
       "cover": "data/posters/4097122.jpg",
@@ -35890,7 +35935,7 @@
       "aka": [
         "3 Idiots",
         "三个傻瓜(台)",
-        "作死不离3兄弟(港) [可播放]"
+        "作死不离3兄弟(港)"
       ],
       "url": "https://movie.douban.com/subject/3793023/",
       "cover": "data/posters/3793023.jpg",
@@ -36170,7 +36215,7 @@
         "艾瑞克·罗斯 Eric Roth",
         "Winston Groom"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2500944103.jpg"
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876609.jpg"
     },
     {
       "id": "1295644",
