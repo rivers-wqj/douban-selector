@@ -2,10 +2,56 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 793,
-  "fetched": 791,
-  "fetched_at": "2026-07-31T03:27:18+0000",
+  "total_declared": 794,
+  "fetched": 792,
+  "fetched_at": "2026-08-03T03:27:19+0000",
   "movies": [
+    {
+      "id": "1900121",
+      "cid": "4906313850",
+      "title": "波特小姐",
+      "aka": [
+        "Miss Potter",
+        "波特小姐：比得兔的故事(港)",
+        "波特小姐：比得兔的诞生(台)"
+      ],
+      "url": "https://movie.douban.com/subject/1900121/",
+      "cover": "data/posters/1900121.jpg",
+      "year": "2007",
+      "mark_date": "2026-08-01",
+      "rating": 4,
+      "comment": "舒适的英国乡村生活！",
+      "countries": [
+        "英国",
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "传记"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "88分钟",
+      "intro_raw": "2007-01-05(英国) / 蕾妮·齐薇格 / 伊万·麦克格雷格 / 艾米丽·沃森 / 芭芭拉·弗林 / 比尔·帕特森 / 劳埃德·欧文 / 安东·莱瑟 / 莎拉·克劳登 / 约翰·伍德温 / 露西·宝通 / 英国 / 美国 / 马恩岛 / 克里斯·努安 / 88分钟 / 波特小姐 / 剧情 / 传记 / 理查德·迈特比 Richard Maltby Jr. / 英语",
+      "people": [
+        "蕾妮·齐薇格",
+        "伊万·麦克格雷格",
+        "艾米丽·沃森",
+        "芭芭拉·弗林",
+        "比尔·帕特森",
+        "劳埃德·欧文",
+        "安东·莱瑟",
+        "莎拉·克劳登",
+        "约翰·伍德温",
+        "露西·宝通",
+        "马恩岛",
+        "克里斯·努安",
+        "波特小姐",
+        "理查德·迈特比 Richard Maltby Jr."
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p788078742.jpg"
+    },
     {
       "id": "30122641",
       "cid": "4898030839",
@@ -2189,7 +2235,7 @@
         "冯勉恒 Min Hun Fung",
         "梁嘉杰 Ka-Kit Leung"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917778954.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2618313392.jpg"
     },
     {
       "id": "4202982",
