@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 794,
   "fetched": 792,
-  "fetched_at": "2026-08-07T02:53:52+0000",
+  "fetched_at": "2026-08-08T01:57:09+0000",
   "movies": [
     {
       "id": "1900121",
@@ -22898,18 +22898,18 @@
         "阿拉伯语"
       ],
       "runtime": "128 分钟",
-      "intro_raw": "2007-10(芝加哥电影节) / 2008-01-11(美国) / 赫立德·阿卜杜拉 / 阿托莎·利奥妮 / 肖恩·托布 / 纳赛尔·米马齐亚 / 埃勒姆·埃哈斯 / 萨伊德·塔格马奥 / 赫玛永·厄沙迪 / Charles Lewis III / Brian Vowell / 哈莫尼·布洛萨姆 / 美国 / 中国大陆 / 马克·福斯特 / 128 分钟 / 追风筝的人 / 剧情 / 戴维·贝尼奥夫 David Benioff / 卡勒德·胡赛尼 Khaled Hosseini / 英语 / 俄语 / 乌尔都语 / 阿拉伯语",
+      "intro_raw": "2007-10(芝加哥电影节) / 2008-01-11(美国) / 赫立德·阿卜杜拉 / 阿托莎·利奥妮 / 肖恩·托布 / 萨伊德·塔格马奥 / 卡勒德·胡赛尼 / 约翰·德·兰西 / 蒂姆·哈尔平 / 哈莫尼·布洛萨姆 / Brian Vowell / Charles Lewis III / 美国 / 中国大陆 / 马克·福斯特 / 128 分钟 / 追风筝的人 / 剧情 / 戴维·贝尼奥夫 David Benioff / 卡勒德·胡赛尼 Khaled Hosseini / 英语 / 俄语 / 乌尔都语 / 阿拉伯语",
       "people": [
         "赫立德·阿卜杜拉",
         "阿托莎·利奥妮",
         "肖恩·托布",
-        "纳赛尔·米马齐亚",
-        "埃勒姆·埃哈斯",
         "萨伊德·塔格马奥",
-        "赫玛永·厄沙迪",
-        "Charles Lewis III",
-        "Brian Vowell",
+        "卡勒德·胡赛尼",
+        "约翰·德·兰西",
+        "蒂姆·哈尔平",
         "哈莫尼·布洛萨姆",
+        "Brian Vowell",
+        "Charles Lewis III",
         "马克·福斯特",
         "追风筝的人",
         "戴维·贝尼奥夫 David Benioff",
@@ -36269,7 +36269,7 @@
         "艾瑞克·罗斯 Eric Roth",
         "Winston Groom"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876609.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510876253.jpg"
     },
     {
       "id": "1295644",
