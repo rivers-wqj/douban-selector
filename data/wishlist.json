@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 424,
   "fetched": 415,
-  "fetched_at": "2026-08-14T02:16:16+0000",
+  "fetched_at": "2026-08-15T01:26:41+0000",
   "movies": [
     {
       "id": "1309066",
@@ -16406,8 +16406,8 @@
       "title": "朝圣之路",
       "aka": [
         "The Way",
-        "拿破仑之路",
-        "圣雅各之路 [可播放]"
+        "朝圣之路：圣雅各(台)",
+        "拿破仑之路 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/3750104/",
       "cover": "data/posters/3750104.jpg",
