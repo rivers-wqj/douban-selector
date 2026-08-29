@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 795,
   "fetched": 793,
-  "fetched_at": "2026-08-28T10:29:43+0000",
+  "fetched_at": "2026-08-29T06:31:53+0000",
   "movies": [
     {
       "id": "35811064",
@@ -668,7 +668,7 @@
       "aka": [
         "Silent Friend",
         "你是不会当树吗(台)",
-        "喑哑的友人"
+        "喑哑的友人 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/26967871/",
       "cover": "data/posters/26967871.jpg",
@@ -26991,8 +26991,7 @@
       "title": "蛇蝎女佣 第二季",
       "aka": [
         "Devious Maids Season 2",
-        "魔鬼女佣 第二季",
-        "心机女佣 第二季（台译） [可播放]"
+        "魔鬼女佣 第二季 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/25714127/",
       "cover": "data/posters/25714127.jpg",
