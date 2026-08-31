@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 795,
   "fetched": 793,
-  "fetched_at": "2026-08-30T04:41:31+0000",
+  "fetched_at": "2026-08-31T04:45:57+0000",
   "movies": [
     {
       "id": "35811064",
@@ -6742,7 +6742,7 @@
         "汉语普通话"
       ],
       "runtime": "45分钟",
-      "intro_raw": "2003-09 / 贾静雯 / 赵文卓 / 寇振海 / 杨童舒 / 保剑锋 / 孙兴 / 张彤 / 张明健 / 方圆 / 季天赋 / 中国大陆 / 颢然 / 45分钟 / 剧情 / 爱情 / 古装 / 单喆 Zhe Shan / 汉语普通话",
+      "intro_raw": "2003-09 / 贾静雯 / 赵文卓 / 寇振海 / 杨童舒 / 保剑锋 / 孙兴 / 张彤 / 张明健 / 李立群 / 戴春荣 / 中国大陆 / 颢然 / 45分钟 / 剧情 / 爱情 / 古装 / 单喆 Zhe Shan / 汉语普通话",
       "people": [
         "贾静雯",
         "赵文卓",
@@ -6752,8 +6752,8 @@
         "孙兴",
         "张彤",
         "张明健",
-        "方圆",
-        "季天赋",
+        "李立群",
+        "戴春荣",
         "颢然",
         "单喆 Zhe Shan"
       ],
@@ -27029,7 +27029,7 @@
         "蛇蝎女佣",
         "马克·切利 Marc Cherry"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2152103508.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935323412.jpg"
     },
     {
       "id": "26628824",
