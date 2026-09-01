@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 424,
   "fetched": 415,
-  "fetched_at": "2026-08-31T04:42:49+0000",
+  "fetched_at": "2026-09-01T04:23:32+0000",
   "movies": [
     {
       "id": "1309066",
@@ -663,7 +663,7 @@
         "书虫侦探",
         "马克·加蒂斯 Mark Gatiss"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923439459.jpg"
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2935408271.jpg"
     },
     {
       "id": "1293942",
@@ -11971,7 +11971,7 @@
         "意大利语"
       ],
       "runtime": "87 分钟",
-      "intro_raw": "1967-03-17 / 安妮·杜普蕾 / 玛丽娜·维拉迪 / 拉乌尔·莱维 / 朱丽叶·贝尔托 / 克洛德·米勒 / 让-吕克·戈达尔 / Yves Beneyton / 克里斯托弗·伯勒 / Marie Cardinal / Blandine Jeanson / 法国 / 让-吕克·戈达尔 / 87 分钟 / 我略知她一二 / 喜剧 / 剧情 / Catherine Vimenet / Jean-Luc Godard / 法语 / 意大利语",
+      "intro_raw": "1967-03-17 / 安妮·杜普蕾 / 玛丽娜·维拉迪 / 拉乌尔·莱维 / 朱丽叶·贝尔托 / 克洛德·米勒 / 让-吕克·戈达尔 / Yves Beneyton / 克里斯托弗·伯勒 / 玛丽·卡迪纳尔 / Blandine Jeanson / 法国 / 让-吕克·戈达尔 / 87 分钟 / 我略知她一二 / 喜剧 / 剧情 / Catherine Vimenet / Jean-Luc Godard / 法语 / 意大利语",
       "people": [
         "安妮·杜普蕾",
         "玛丽娜·维拉迪",
@@ -11981,7 +11981,7 @@
         "让-吕克·戈达尔",
         "Yves Beneyton",
         "克里斯托弗·伯勒",
-        "Marie Cardinal",
+        "玛丽·卡迪纳尔",
         "Blandine Jeanson",
         "让-吕克·戈达尔",
         "我略知她一二",
