@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 795,
   "fetched": 793,
-  "fetched_at": "2026-09-04T03:49:25+0000",
+  "fetched_at": "2026-09-05T03:48:10+0000",
   "movies": [
     {
       "id": "35811064",
@@ -17835,7 +17835,7 @@
         "法语"
       ],
       "runtime": "108分钟",
-      "intro_raw": "1940-05-17(美国) / 费雯·丽 / 罗伯特·泰勒 / 露塞尔·沃特森 / 弗吉尼亚·菲尔德 / 玛丽亚·彭斯卡娅 / C.奥布雷·史密斯 / Janet Shaw / Janet Waldo / Steffi Duna / Virginia Carroll / 美国 / 茂文·勒鲁瓦 / 伍经纬 / 108分钟 / 魂断蓝桥 / 剧情 / 爱情 / 战争 / 塞缪尔·N·贝尔曼 S.N. Behrman / 汉斯·拉莫 Hans Rameau / 乔治·弗罗斯切尔 George Froeschel / 罗伯特·E·舍伍德 Robert E. Sherwood / 英语 / 法语",
+      "intro_raw": "1940-05-17(美国) / 费雯·丽 / 罗伯特·泰勒 / 露塞尔·沃特森 / 弗吉尼亚·菲尔德 / 玛丽亚·彭斯卡娅 / C.奥布雷·史密斯 / Janet Shaw / Janet Waldo / 史黛妃·杜娜 / Virginia Carroll / 美国 / 茂文·勒鲁瓦 / 伍经纬 / 108分钟 / 魂断蓝桥 / 剧情 / 爱情 / 战争 / 塞缪尔·N·贝尔曼 S.N. Behrman / 汉斯·拉莫 Hans Rameau / 乔治·弗罗斯切尔 George Froeschel / 罗伯特·E·舍伍德 Robert E. Sherwood / 英语 / 法语",
       "people": [
         "费雯·丽",
         "罗伯特·泰勒",
@@ -17845,7 +17845,7 @@
         "C.奥布雷·史密斯",
         "Janet Shaw",
         "Janet Waldo",
-        "Steffi Duna",
+        "史黛妃·杜娜",
         "Virginia Carroll",
         "茂文·勒鲁瓦",
         "伍经纬",
@@ -18937,7 +18937,7 @@
         "希伯来语"
       ],
       "runtime": "99分钟",
-      "intro_raw": "1989-12-13 / 摩根·弗里曼 / 杰西卡·坦迪 / 丹·艾克罗伊德 / 帕蒂·卢波恩 / 埃丝特·罗尔 / Joann Havrilla / Crystal Fox / 鲍伯·汉纳 / 雷·迈克金农 / Jack Rousso / 美国 / 布鲁斯·贝尔斯福德 / 99分钟 / 为黛西小姐开车 / 喜剧 / 剧情 / 阿尔弗雷德·乌里 Alfred Uhry / 英语 / 希伯来语",
+      "intro_raw": "1989-12-13 / 摩根·弗里曼 / 杰西卡·坦迪 / 丹·艾克罗伊德 / 帕蒂·卢波恩 / 埃丝特·罗尔 / Joann Havrilla / 克丽丝塔尔·福克斯 / 鲍伯·汉纳 / 雷·迈克金农 / Jack Rousso / 美国 / 布鲁斯·贝尔斯福德 / 99分钟 / 为黛西小姐开车 / 喜剧 / 剧情 / 阿尔弗雷德·乌里 Alfred Uhry / 英语 / 希伯来语",
       "people": [
         "摩根·弗里曼",
         "杰西卡·坦迪",
@@ -18945,7 +18945,7 @@
         "帕蒂·卢波恩",
         "埃丝特·罗尔",
         "Joann Havrilla",
-        "Crystal Fox",
+        "克丽丝塔尔·福克斯",
         "鲍伯·汉纳",
         "雷·迈克金农",
         "Jack Rousso",
@@ -26936,7 +26936,8 @@
       "title": "蛇蝎女佣 第三季",
       "aka": [
         "Devious Maids Season 3",
-        "恶女佣"
+        "恶女佣",
+        "神探玛丽苏"
       ],
       "url": "https://movie.douban.com/subject/26035316/",
       "cover": "data/posters/26035316.jpg",
@@ -27029,7 +27030,7 @@
         "蛇蝎女佣",
         "马克·切利 Marc Cherry"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935323412.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2174888184.jpg"
     },
     {
       "id": "26628824",
