@@ -2,10 +2,52 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 795,
-  "fetched": 793,
-  "fetched_at": "2026-09-05T03:48:10+0000",
+  "total_declared": 796,
+  "fetched": 794,
+  "fetched_at": "2026-09-06T03:51:09+0000",
   "movies": [
+    {
+      "id": "36845423",
+      "cid": "4938180208",
+      "title": "曼哈顿打拼日记",
+      "aka": [
+        "Not Suitable for Work",
+        "工作不宜",
+        "Murray Hill"
+      ],
+      "url": "https://movie.douban.com/subject/36845423/",
+      "cover": "data/posters/36845423.jpg",
+      "year": "2026",
+      "mark_date": "2026-09-05",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2026-06-02(美国) / 艾拉·亨特 / 阿凡提卡·万达纳普 / 威廉·安格斯 / 杰克·马丁 / 尼古拉斯·杜威内 / 杰·埃利斯 / 巴威石·帕特尔 / 梅·洪 / 哈里·理查森 / 朱迪·戈德 / 美国 /  / 30分钟 / 曼哈顿打拼日记 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 英语",
+      "people": [
+        "艾拉·亨特",
+        "阿凡提卡·万达纳普",
+        "威廉·安格斯",
+        "杰克·马丁",
+        "尼古拉斯·杜威内",
+        "杰·埃利斯",
+        "巴威石·帕特尔",
+        "梅·洪",
+        "哈里·理查森",
+        "朱迪·戈德",
+        "曼哈顿打拼日记",
+        "敏迪·卡灵 Mindy Kaling"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932253885.jpg"
+    },
     {
       "id": "35811064",
       "cid": "4913792543",
@@ -36786,7 +36828,7 @@
         "李沧东 Chang-dong Lee",
         "Jungmi Oh"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555793937.jpg"
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520095279.jpg"
     },
     {
       "id": "26334559",
