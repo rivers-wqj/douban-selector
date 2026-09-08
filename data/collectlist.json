@@ -2,10 +2,102 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 796,
-  "fetched": 794,
-  "fetched_at": "2026-09-07T03:50:31+0000",
+  "total_declared": 798,
+  "fetched": 796,
+  "fetched_at": "2026-09-08T03:55:20+0000",
   "movies": [
+    {
+      "id": "35371629",
+      "cid": "4939819557",
+      "title": "维和防暴队",
+      "aka": [
+        "中国维和警察",
+        "Formed Police Unit [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35371629/",
+      "cover": "data/posters/35371629.jpg",
+      "year": "2024",
+      "mark_date": "2026-09-08",
+      "rating": 2,
+      "comment": "虽然爱一博但是",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "动作"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "101分钟",
+      "intro_raw": "2024-05-01(中国大陆) / 黄景瑜 / 王一博 / 钟楚曦 / 欧豪 / 朱亚文 / 谷嘉诚 / 赵华为 / 木兰 / 白那日苏 / 余沛杉 / 中国大陆 / 李达超 / 101分钟 / 剧情 / 动作 / 吴孟璋 Mengzhang Wu / 嘉莉安 / 汉语普通话",
+      "people": [
+        "黄景瑜",
+        "王一博",
+        "钟楚曦",
+        "欧豪",
+        "朱亚文",
+        "谷嘉诚",
+        "赵华为",
+        "木兰",
+        "白那日苏",
+        "余沛杉",
+        "李达超",
+        "吴孟璋 Mengzhang Wu",
+        "嘉莉安"
+      ],
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907613569.jpg"
+    },
+    {
+      "id": "26931786",
+      "cid": "4939818875",
+      "title": "蜘蛛侠：英雄远征",
+      "aka": [
+        "Spider-Man: Far from Home",
+        "蜘蛛侠：决战千里(港)",
+        "蜘蛛人：离家日(台) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/26931786/",
+      "cover": "data/posters/26931786.jpg",
+      "year": "2019",
+      "mark_date": "2026-09-08",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "动作",
+        "科幻",
+        "冒险"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "129分钟",
+      "intro_raw": "2019-06-28(中国大陆) / 2019-07-02(美国) / 汤姆·霍兰德 / 赞达亚 / 杰克·吉伦哈尔 / 塞缪尔·杰克逊 / 寇碧·史莫德斯 / 乔恩·费儒 / 玛丽莎·托梅 / 雅各布·贝塔隆 / 安格瑞·赖斯 / 马丁·斯塔尔 / 美国 / www.spidermanfarfromhome.movie/ / 乔恩·沃茨 / 129分钟 / 蜘蛛侠：英雄远征 / 动作 / 科幻 / 冒险 / 克里斯·麦克纳 Chris McKenna / 埃里克·萨默斯 Erik Sommers / 史蒂夫·迪特寇 Steve Ditko / 斯坦·李 Stan Lee / 英语",
+      "people": [
+        "汤姆·霍兰德",
+        "赞达亚",
+        "杰克·吉伦哈尔",
+        "塞缪尔·杰克逊",
+        "寇碧·史莫德斯",
+        "乔恩·费儒",
+        "玛丽莎·托梅",
+        "雅各布·贝塔隆",
+        "安格瑞·赖斯",
+        "马丁·斯塔尔",
+        "www.spidermanfarfromhome.movie",
+        "乔恩·沃茨",
+        "蜘蛛侠：英雄远征",
+        "克里斯·麦克纳 Chris McKenna",
+        "埃里克·萨默斯 Erik Sommers",
+        "史蒂夫·迪特寇 Steve Ditko",
+        "斯坦·李 Stan Lee"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558293106.jpg"
+    },
     {
       "id": "36845423",
       "cid": "4938180208",
@@ -14674,7 +14766,7 @@
       "aka": [
         "L&#39;amour l&#39;après-midi",
         "下午的爱情",
-        "契洛埃在下午 [可播放]"
+        "契洛埃在下午"
       ],
       "url": "https://movie.douban.com/subject/1293963/",
       "cover": "data/posters/1293963.jpg",
@@ -14800,7 +14892,7 @@
       "aka": [
         "La boulangère de Monceau",
         "蒙索的女面包师",
-        "三心两意 [可播放]"
+        "三心两意"
       ],
       "url": "https://movie.douban.com/subject/1394348/",
       "cover": "data/posters/1394348.jpg",
@@ -18269,7 +18361,7 @@
       "aka": [
         "あの夏、いちばん静かな海。",
         "那年夏天最宁静的海",
-        "夏日，在寂静的海边 [可播放]"
+        "夏日，在寂静的海边"
       ],
       "url": "https://movie.douban.com/subject/1295815/",
       "cover": "data/posters/1295815.jpg",
@@ -19685,7 +19777,7 @@
       "aka": [
         "伊豆の踊子",
         "伊豆舞女",
-        "The Izu Dancer [可播放]"
+        "The Izu Dancer"
       ],
       "url": "https://movie.douban.com/subject/1421733/",
       "cover": "data/posters/1421733.jpg",
@@ -21514,7 +21606,7 @@
       "cid": "3785616824",
       "title": "虚颜",
       "aka": [
-        "A Familiar Stranger [可播放]"
+        "A Familiar Stranger"
       ],
       "url": "https://movie.douban.com/subject/35924066/",
       "cover": "data/posters/35924066.jpg",
@@ -22151,7 +22243,7 @@
       "cid": "3785611045",
       "title": "念念无明",
       "aka": [
-        "The Killer Is Also Romantic [可播放]"
+        "The Killer Is Also Romantic"
       ],
       "url": "https://movie.douban.com/subject/35859226/",
       "cover": "data/posters/35859226.jpg",
@@ -23866,7 +23958,7 @@
       "aka": [
         "Зеркало",
         "写真",
-        "Zerkalo [可播放]"
+        "Zerkalo"
       ],
       "url": "https://movie.douban.com/subject/1299248/",
       "cover": "data/posters/1299248.jpg",
@@ -26003,7 +26095,7 @@
       "title": "八十天环游地球 第一季",
       "aka": [
         "Around the World in 80 Days Season 1",
-        "环游地球八十天 [可播放]"
+        "环游地球八十天"
       ],
       "url": "https://movie.douban.com/subject/33384233/",
       "cover": "data/posters/33384233.jpg",
@@ -27026,7 +27118,7 @@
         "Anahí López",
         "Carolina Rivera"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2250613184.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935531392.jpg"
     },
     {
       "id": "25714127",
@@ -31849,7 +31941,7 @@
       "aka": [
         "HANA-BI",
         "はなび",
-        "Fireworks [可播放]"
+        "Fireworks"
       ],
       "url": "https://movie.douban.com/subject/1302642/",
       "cover": "data/posters/1302642.jpg",
@@ -34122,7 +34214,7 @@
       "aka": [
         "The Matrix Revolutions",
         "22世纪杀人网络3：惊变世纪(港)",
-        "骇客任务完结篇：最后战役(台) [可播放]"
+        "骇客任务完结篇：最后战役(台)"
       ],
       "url": "https://movie.douban.com/subject/1302467/",
       "cover": "data/posters/1302467.jpg",
@@ -35233,7 +35325,7 @@
       "aka": [
         "The Matrix",
         "22世纪杀人网络(港)",
-        "廿二世纪杀人网络(港) [可播放]"
+        "廿二世纪杀人网络(港)"
       ],
       "url": "https://movie.douban.com/subject/1291843/",
       "cover": "data/posters/1291843.jpg",
@@ -36837,7 +36929,7 @@
       "aka": [
         "賭城風雲III",
         "赌城风云III(港)",
-        "The Man From Macau 3 [可播放]"
+        "The Man From Macau 3"
       ],
       "url": "https://movie.douban.com/subject/26334559/",
       "cover": "data/posters/26334559.jpg",

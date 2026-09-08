@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 424,
   "fetched": 415,
-  "fetched_at": "2026-09-07T03:48:02+0000",
+  "fetched_at": "2026-09-08T03:52:24+0000",
   "movies": [
     {
       "id": "1309066",
@@ -2352,7 +2352,7 @@
       "aka": [
         "Morte a Venezia",
         "威尼斯之死",
-        "Death in Venice [可播放]"
+        "Death in Venice"
       ],
       "url": "https://movie.douban.com/subject/1300912/",
       "cover": "data/posters/1300912.jpg",
@@ -2634,7 +2634,7 @@
       "aka": [
         "Mon meilleur ami",
         "My Best Friend",
-        "我最好的朋友 [可播放]"
+        "我最好的朋友"
       ],
       "url": "https://movie.douban.com/subject/1938174/",
       "cover": "data/posters/1938174.jpg",
@@ -3077,7 +3077,7 @@
       "aka": [
         "Sans soleil",
         "没有日光",
-        "没有太阳 [可播放]"
+        "没有太阳"
       ],
       "url": "https://movie.douban.com/subject/1401901/",
       "cover": "data/posters/1401901.jpg",
@@ -5083,7 +5083,7 @@
       "title": "玉女风流",
       "aka": [
         "One, Two, Three",
-        "一、二、三 [可播放]"
+        "一、二、三"
       ],
       "url": "https://movie.douban.com/subject/1298241/",
       "cover": "data/posters/1298241.jpg",
@@ -5983,7 +5983,7 @@
       "aka": [
         "Amarcord",
         "我记得",
-        "想当年(港) [可播放]"
+        "想当年(港)"
       ],
       "url": "https://movie.douban.com/subject/1298672/",
       "cover": "data/posters/1298672.jpg",
@@ -6382,7 +6382,7 @@
       "aka": [
         "Belle de jour",
         "青楼红杏(港)",
-        "青楼怨妇(台) [可播放]"
+        "青楼怨妇(台)"
       ],
       "url": "https://movie.douban.com/subject/1301649/",
       "cover": "data/posters/1301649.jpg",
@@ -7564,7 +7564,7 @@
       "aka": [
         "El sol del membrillo",
         "光之梦(港)",
-        "果树阳光 [可播放]"
+        "果树阳光"
       ],
       "url": "https://movie.douban.com/subject/1401529/",
       "cover": "data/posters/1401529.jpg",
@@ -8125,7 +8125,7 @@
       "aka": [
         "Chronique d&#39;un été (Paris 1960)",
         "Chronicle of a Summer",
-        "夏日纪事 [可播放]"
+        "夏日纪事"
       ],
       "url": "https://movie.douban.com/subject/1421292/",
       "cover": "data/posters/1421292.jpg",
@@ -14774,7 +14774,7 @@
       "aka": [
         "サマーウォーズ",
         "夏日战争",
-        "夏日大战争 [可播放]"
+        "夏日大战争"
       ],
       "url": "https://movie.douban.com/subject/3908423/",
       "cover": "data/posters/3908423.jpg",
@@ -14824,7 +14824,7 @@
       "aka": [
         "Accattone",
         "乞丐",
-        "寄生虫 [可播放]"
+        "寄生虫"
       ],
       "url": "https://movie.douban.com/subject/1437013/",
       "cover": "data/posters/1437013.jpg",
@@ -18206,7 +18206,7 @@
       "aka": [
         "35 Up",
         "人生七载之当我三十五",
-        "35岁起 [可播放]"
+        "35岁起"
       ],
       "url": "https://movie.douban.com/subject/1778460/",
       "cover": "data/posters/1778460.jpg",
@@ -18376,7 +18376,7 @@
       "title": "皮罗斯马尼",
       "aka": [
         "ფიროსმანი",
-        "Pirosmani [可播放]"
+        "Pirosmani"
       ],
       "url": "https://movie.douban.com/subject/3271800/",
       "cover": "data/posters/3271800.jpg",
