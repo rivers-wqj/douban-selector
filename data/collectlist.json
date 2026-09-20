@@ -2,10 +2,63 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 798,
-  "fetched": 796,
-  "fetched_at": "2026-09-19T03:59:11+0000",
+  "total_declared": 799,
+  "fetched": 797,
+  "fetched_at": "2026-09-20T04:16:56+0000",
   "movies": [
+    {
+      "id": "36851144",
+      "cid": "4947982361",
+      "title": "五星周末 第一季",
+      "aka": [
+        "The Five Star Weekend Season 1",
+        "五星级周末",
+        "The Five-Star Weekend"
+      ],
+      "url": "https://movie.douban.com/subject/36851144/",
+      "cover": "data/posters/36851144.jpg",
+      "year": "2026",
+      "mark_date": "2026-09-20",
+      "rating": 5,
+      "comment": "好丰满的2天，好爱gigi的扮演者，原来在dw中演过！",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "40分钟",
+      "intro_raw": "2026-07-09(美国网络) / 詹妮弗·加纳 / 雷吉娜·赫尔 / 达茜·卡尔登 / 科洛·塞维尼 / 哈洛·简 / 嘉玛·陈 / 亨利·艾肯伯里 / 维拉.洛弗尔 / 罗伯塔·科林德雷斯 / Morrison Keddie / 美国 / 詹妮弗·莫里森 / 明基·斯皮罗 / 五星周末 / 40分钟 / 五星周末 / 剧情 / 丽贝卡·布鲁斯特 Rebecca Brunstetter / 艾琳·希尔德布兰 艾琳·希尔德布兰 / 贝丝·史克特 Beth Schacter / Vivian Barnes / Fernanda Coppel / Bixby Elliot / 阿贾·加贝尔 Aja Gabel / Isabella Rodriguez / Mackenzie Yeager / 英语",
+      "people": [
+        "詹妮弗·加纳",
+        "雷吉娜·赫尔",
+        "达茜·卡尔登",
+        "科洛·塞维尼",
+        "哈洛·简",
+        "嘉玛·陈",
+        "亨利·艾肯伯里",
+        "维拉.洛弗尔",
+        "罗伯塔·科林德雷斯",
+        "Morrison Keddie",
+        "詹妮弗·莫里森",
+        "明基·斯皮罗",
+        "五星周末",
+        "五星周末",
+        "丽贝卡·布鲁斯特 Rebecca Brunstetter",
+        "艾琳·希尔德布兰 艾琳·希尔德布兰",
+        "贝丝·史克特 Beth Schacter",
+        "Vivian Barnes",
+        "Fernanda Coppel",
+        "Bixby Elliot",
+        "阿贾·加贝尔 Aja Gabel",
+        "Isabella Rodriguez",
+        "Mackenzie Yeager"
+      ],
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934238849.jpg"
+    },
     {
       "id": "35371629",
       "cid": "4939819557",
