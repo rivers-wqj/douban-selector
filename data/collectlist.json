@@ -2,10 +2,54 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 799,
-  "fetched": 797,
-  "fetched_at": "2026-09-22T04:10:47+0000",
+  "total_declared": 800,
+  "fetched": 798,
+  "fetched_at": "2026-09-23T04:07:29+0000",
   "movies": [
+    {
+      "id": "36882191",
+      "cid": "4950043057",
+      "title": "八仙！",
+      "aka": [
+        "八仙之瞒天过海",
+        "All Wishes Come True!"
+      ],
+      "url": "https://movie.douban.com/subject/36882191/",
+      "cover": "data/posters/36882191.jpg",
+      "year": "2026",
+      "mark_date": "2026-09-23",
+      "rating": 3,
+      "comment": "以为可以反转了结果还有反转",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "喜剧",
+        "动画",
+        "奇幻",
+        "冒险"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "144分钟",
+      "intro_raw": "2026-07-18(中国大陆) / 陈浩 / 李绍哲 / 立冬 / 果子哥哥 / 董天弋 / 喻鹏力 / 黄豫硕 / 张运气 / 邓先森 / 曹知善 / 中国大陆 / 牟正洋 / 2026-07-08 21:20 / 144分钟 / 喜剧 / 动画 / 奇幻 / 冒险 / 牟正洋 / 汉语普通话",
+      "people": [
+        "陈浩",
+        "李绍哲",
+        "立冬",
+        "果子哥哥",
+        "董天弋",
+        "喻鹏力",
+        "黄豫硕",
+        "张运气",
+        "邓先森",
+        "曹知善",
+        "牟正洋",
+        "牟正洋"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934074566.jpg"
+    },
     {
       "id": "36851144",
       "cid": "4947982361",
@@ -455,7 +499,7 @@
         "艾瑞克·奥雅玛 Erica Oyama",
         "朗·费希尔 Lang Fisher"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2876878128.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2876878128.jpg"
     },
     {
       "id": "35082407",
@@ -1400,7 +1444,7 @@
         "敦刻尔克",
         "克里斯托弗·诺兰 Christopher Nolan"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2404817208.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2404817208.jpg"
     },
     {
       "id": "4917705",
@@ -1822,7 +1866,7 @@
         "於水 Shui Yu",
         "刘佳 Jia Liu"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923770138.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923770138.jpg"
     },
     {
       "id": "26817136",
@@ -1964,7 +2008,7 @@
         "Marcel Rouff",
         "陈英雄 Anh Hung Tran"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898166668.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2898166668.jpg"
     },
     {
       "id": "26925611",
@@ -2716,7 +2760,7 @@
         "江玉仪 Ivy Kong",
         "曾谨昌 Kan-Cheung Tsang"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2316177058.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2316177058.jpg"
     },
     {
       "id": "25723907",
@@ -3495,7 +3539,7 @@
         "申恩庆 Shin Eun-Young",
         "李胤基 Yoon-ki Lee"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2308184818.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2308184818.jpg"
     },
     {
       "id": "35587662",
@@ -4234,7 +4278,7 @@
         "廉春明 Chunming Lian",
         "邢育森 Yusen Xing"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932505508.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932505508.jpg"
     },
     {
       "id": "26640097",
@@ -5226,7 +5270,7 @@
         "许亮",
         "普通话"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535058058.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535058058.jpg"
     },
     {
       "id": "26298756",
@@ -5840,7 +5884,7 @@
         "毛训容 Sharon Mao",
         "神尾叶子 Yoko Kamio"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2912072349.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2912072349.jpg"
     },
     {
       "id": "5996825",
@@ -6265,7 +6309,7 @@
         "胡明凯",
         "黄浩华 Ho-Wa Wong"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572370108.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572370108.jpg"
     },
     {
       "id": "2085020",
@@ -6352,7 +6396,7 @@
         "陈思成 Sicheng Chen",
         "李亚玲 Yaling Li"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1364031058.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1364031058.jpg"
     },
     {
       "id": "5384548",
@@ -6635,7 +6679,7 @@
         "江洪",
         "周振天 Zhentian Zhou"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375018558.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2375018558.jpg"
     },
     {
       "id": "3134871",
@@ -6856,7 +6900,7 @@
         "宗新",
         "普通话"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509684088.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509684088.jpg"
     },
     {
       "id": "2284418",
@@ -6901,7 +6945,7 @@
         "王晶 Jing Wong",
         "吴仁 Ren Wu"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2867688478.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2867688478.jpg"
     },
     {
       "id": "3010195",
@@ -8087,7 +8131,7 @@
         "Jeremy Howe",
         "Yael Glouberman"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2881123578.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2881123578.jpg"
     },
     {
       "id": "36708872",
@@ -8183,7 +8227,7 @@
         "保罗·威廉·戴维斯 Paul William Davies",
         "凯特·安德森·布劳尔 Kate Andersen Brower"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2918873218.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918873218.jpg"
     },
     {
       "id": "1299889",
@@ -8424,7 +8468,7 @@
         "沈亿丽 Yili Shen",
         "邝丽莎 Lisa See"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1263875538.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1263875538.jpg"
     },
     {
       "id": "1291841",
@@ -9280,7 +9324,7 @@
         "斯蒂文·泽里安 Steven Zaillian",
         "大卫·凯普 David Koepp"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1382432968.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1382432968.jpg"
     },
     {
       "id": "36154853",
@@ -9455,7 +9499,7 @@
         "王昂 Ang Wang",
         "刘晓丹 Xiaodan Liu"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913362178.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2913362178.jpg"
     },
     {
       "id": "26389466",
@@ -9849,7 +9893,7 @@
         "程耳",
         "程耳 Er Cheng"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2404553168.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2404553168.jpg"
     },
     {
       "id": "1793781",
@@ -10491,7 +10535,7 @@
         "周星驰 Stephen Chow",
         "霍昕 Xin Huo"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg"
     },
     {
       "id": "1291550",
@@ -10623,7 +10667,7 @@
         "冯小刚 Xiaogang Feng",
         "张耀之 Yaozhi Zhang"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2902243978.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2902243978.jpg"
     },
     {
       "id": "1420116",
@@ -11593,7 +11637,7 @@
         "天才少女",
         "汤姆·弗林 Tom Flynn"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2394315478.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2394315478.jpg"
     },
     {
       "id": "5322596",
@@ -11864,7 +11908,7 @@
         "言叶之庭",
         "新海诚 Makoto Shinkai"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2914391978.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2914391978.jpg"
     },
     {
       "id": "2043546",
@@ -12268,7 +12312,7 @@
         "滨口龙介 Ryûsuke Hamaguchi",
         "柴崎友香 Tomoka Shibasaki"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518349518.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518349518.jpg"
     },
     {
       "id": "25796222",
@@ -12313,7 +12357,7 @@
         "玉子爱情故事",
         "吉田玲子 Reiko Yoshida"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2178271858.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2178271858.jpg"
     },
     {
       "id": "20514713",
@@ -13140,7 +13184,7 @@
         "何处是我朋友的家",
         "阿巴斯·基亚罗斯塔米 Abbas Kiarostami"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2637230609.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2637230609.jpg"
     },
     {
       "id": "1303465",
@@ -13183,7 +13227,7 @@
         "橄榄树下的情人",
         "阿巴斯·基亚罗斯塔米 Abbas Kiarostami"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1548720649.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1548720649.jpg"
     },
     {
       "id": "1300960",
@@ -13234,7 +13278,7 @@
         "玛丽莲‧戈登 Marilyn Goldin",
         "雅克·梅欧 Jacques Mayol"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p455724599.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455724599.jpg"
     },
     {
       "id": "35354759",
@@ -13279,7 +13323,7 @@
         "莫德·阿美林 Maud Ameline",
         "玛里埃特·黛塞尔 Mariette Désert"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871210079.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2871210079.jpg"
     },
     {
       "id": "25662337",
@@ -13582,7 +13626,7 @@
         "迈克·乔吉 Mike Judge",
         "戴夫·卡林斯基 Dave Krinsky"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453170279.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2453170279.jpg"
     },
     {
       "id": "26366492",
@@ -14976,7 +15020,7 @@
         "面包店的女孩",
         "埃里克·侯麦 Éric Rohmer"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559172988.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2559172988.jpg"
     },
     {
       "id": "1294039",
@@ -15416,7 +15460,7 @@
         "皮帕·埃尔利希 Pippa Ehrlich",
         "詹姆斯·里德 James Reed"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2636039318.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2636039318.jpg"
     },
     {
       "id": "1301374",
@@ -15459,7 +15503,7 @@
         "Catherine Breillat",
         "Robert Boussinot"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2039014938.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2039014938.jpg"
     },
     {
       "id": "35048413",
@@ -15734,7 +15778,7 @@
         "千与千寻",
         "宫崎骏 Hayao Miyazaki"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg"
     },
     {
       "id": "1959877",
@@ -16168,7 +16212,7 @@
         "午夜巴黎",
         "伍迪·艾伦 Woody Allen"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p944234798.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p944234798.jpg"
     },
     {
       "id": "35608317",
@@ -16769,7 +16813,7 @@
         "人约巴黎",
         "埃里克·侯麦 Éric Rohmer"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1714538598.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1714538598.jpg"
     },
     {
       "id": "26979199",
@@ -16814,7 +16858,7 @@
         "喜欢，轻吻，快跑",
         "克里斯托夫·奥诺雷 Christophe Honoré"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527725378.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2527725378.jpg"
     },
     {
       "id": "1303062",
@@ -17648,7 +17692,7 @@
         "佩德罗·阿莫多瓦 Pedro Almodóvar",
         "爱丽丝·芒罗 Alice Munro"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2322750048.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2322750048.jpg"
     },
     {
       "id": "36539637",
@@ -17771,7 +17815,7 @@
         "四月物语",
         "岩井俊二 Shunji Iwai"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2107289058.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2107289058.jpg"
     },
     {
       "id": "6536180",
@@ -17859,7 +17903,7 @@
         "最后一件外套",
         "Pablo Solarz Pablo Solarz"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495690599.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2495690599.jpg"
     },
     {
       "id": "35660795",
@@ -17994,7 +18038,7 @@
         "茜茜公主",
         "恩斯特·马利斯卡 Ernst Marischka"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2160427238.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2160427238.jpg"
     },
     {
       "id": "1293964",
@@ -18044,7 +18088,7 @@
         "乔治·弗罗斯切尔 George Froeschel",
         "罗伯特·E·舍伍德 Robert E. Sherwood"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg"
     },
     {
       "id": "36381759",
@@ -18088,7 +18132,7 @@
         "孙艳黎",
         "吕侑阳"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896032249.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2896032249.jpg"
     },
     {
       "id": "26348103",
@@ -18268,7 +18312,7 @@
         "归家之路",
         "Karen Leigh Hopkins"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2647657709.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2647657709.jpg"
     },
     {
       "id": "10604086",
@@ -19142,7 +19186,7 @@
         "为黛西小姐开车",
         "阿尔弗雷德·乌里 Alfred Uhry"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p861513408.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p861513408.jpg"
     },
     {
       "id": "1293315",
@@ -19864,7 +19908,7 @@
         "若杉光夫 Mitsuo Wakasugi",
         "川端康成 Yasunari Kawabata"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p939020358.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p939020358.jpg"
     },
     {
       "id": "6531219",
@@ -20451,7 +20495,7 @@
         "神秘博士",
         "Russell T. Davies"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496683648.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2496683648.jpg"
     },
     {
       "id": "3634228",
@@ -20505,7 +20549,7 @@
         "史蒂文·莫法特 Steven Moffat",
         "西德尼·纽曼 Sydney Newman"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496683588.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2496683588.jpg"
     },
     {
       "id": "5294729",
@@ -20740,7 +20784,7 @@
         "查克·罗瑞 Chuck Lorre",
         "比尔·布拉迪 Bill Prady"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559504518.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2559504518.jpg"
     },
     {
       "id": "25845393",
@@ -21132,7 +21176,7 @@
         "查克·罗瑞 Chuck Lorre",
         "比尔·布拉迪 Bill Prady"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553281898.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2553281898.jpg"
     },
     {
       "id": "3286552",
@@ -22205,7 +22249,7 @@
         "吴桐 Tong Wu",
         "郑怡 Yi Zheng"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537131688.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537131688.jpg"
     },
     {
       "id": "26794191",
@@ -22334,7 +22378,7 @@
         "念念无明",
         "赵林 Lin Zhao"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871141288.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2871141288.jpg"
     },
     {
       "id": "25975243",
@@ -23480,7 +23524,7 @@
         "春天的故事",
         "埃里克·侯麦 Éric Rohmer"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1715325088.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1715325088.jpg"
     },
     {
       "id": "35315950",
@@ -23524,7 +23568,7 @@
         "灌篮高手",
         "井上雄彦 Inoue Takehiko"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910235168.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910235168.jpg"
     },
     {
       "id": "33218493",
@@ -23557,7 +23601,7 @@
         "零号泳道",
         "Manuel Tera"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551358958.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2551358958.jpg"
     },
     {
       "id": "1299582",
@@ -23646,7 +23690,7 @@
         "诺亚·鲍姆巴赫 Noah Baumbach",
         "格蕾塔·葛韦格 Greta Gerwig"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1927054388.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1927054388.jpg"
     },
     {
       "id": "1295437",
@@ -23873,7 +23917,7 @@
         "巴克·亨利 Buck Henry",
         "查尔斯·韦伯 Charles Webb"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517731298.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517731298.jpg"
     },
     {
       "id": "1482853",
@@ -24071,7 +24115,6 @@
         "中国大陆"
       ],
       "genres": [
-        "剧情",
         "儿童",
         "科幻"
       ],
@@ -24079,7 +24122,7 @@
         "汉语普通话"
       ],
       "runtime": "31分钟",
-      "intro_raw": "毕克 / 金乃华 / 倪康 / 中国大陆 / 王敏生 / 31分钟 / 剧情 / 儿童 / 科幻 / 王敏生 / 汉语普通话",
+      "intro_raw": "毕克 / 金乃华 / 倪康 / 中国大陆 / 王敏生 / 31分钟 / 儿童 / 科幻 / 王敏生 / 汉语普通话",
       "people": [
         "毕克",
         "金乃华",
@@ -24177,7 +24220,7 @@
         "婚姻故事",
         "诺亚·鲍姆巴赫 Noah Baumbach"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571760178.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2571760178.jpg"
     },
     {
       "id": "1292629",
@@ -25538,7 +25581,7 @@
         "阿古斯丁·阿莫多瓦 Agustín Almodóvar",
         "蒂埃里·戎盖 Thierry Jonquet"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1221998208.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1221998208.jpg"
     },
     {
       "id": "34969348",
@@ -25585,7 +25628,7 @@
         "伊尼舍林的报丧女妖",
         "马丁·麦克唐纳 Martin McDonagh"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877252828.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2877252828.jpg"
     },
     {
       "id": "26616719",
@@ -25819,7 +25862,7 @@
         "完美的世界",
         "约翰·李·汉考克 John Lee Hancock"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg"
     },
     {
       "id": "1306861",
@@ -25913,7 +25956,7 @@
         "格拉汉姆·摩尔 Graham Moore",
         "安德鲁·霍奇斯 Andrew Hodges"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922986728.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922986728.jpg"
     },
     {
       "id": "1900841",
@@ -26196,7 +26239,7 @@
         "Stephen Greenhorn",
         "儒勒·凡尔纳 Jules Verne"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2700975988.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2700975988.jpg"
     },
     {
       "id": "1300845",
@@ -26925,7 +26968,7 @@
         "皮特·摩根 Peter Morgan",
         "乔纳森·威尔逊 Jonathan Wilson"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2623426228.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2623426228.jpg"
     },
     {
       "id": "27182502",
@@ -27367,7 +27410,7 @@
         "米歇尔·纳德 Michelle Nader",
         "乔妮·马尔钦科 Jhoni Marchinko"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919430498.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919430498.jpg"
     },
     {
       "id": "23055587",
@@ -27779,7 +27822,7 @@
         "新井友香 Yûka Arai",
         "古贺文惠"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558467058.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558467058.jpg"
     },
     {
       "id": "32496917",
@@ -29280,7 +29323,7 @@
         "石一夫 Yifu Shi",
         "普通话"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528049518.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2528049518.jpg"
     },
     {
       "id": "1303451",
@@ -29324,7 +29367,7 @@
         "韩邦庆 Bangqing Han",
         "张爱玲 Eileen Chang"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2588046848.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2588046848.jpg"
     },
     {
       "id": "33379429",
@@ -29419,7 +29462,7 @@
         "东京单身男子",
         "金子亚里纱 Arisa Kaneko"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553502498.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2553502498.jpg"
     },
     {
       "id": "1471438",
@@ -29655,7 +29698,7 @@
         "浅野妙子 Taeko Asano",
         "尾崎将也 Masaya Ozaki"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155417348.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2155417348.jpg"
     },
     {
       "id": "1436674",
@@ -29703,7 +29746,7 @@
         "悠长假期",
         "北川悦吏子 Eriko Kitagawa"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2162760408.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2162760408.jpg"
     },
     {
       "id": "1296736",
@@ -29807,7 +29850,7 @@
         "尼基尔·麦罗特拉 Nikhil Mehrotra",
         "涅提·蒂瓦里 Nitesh Tiwari"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg"
     },
     {
       "id": "1305666",
@@ -30311,7 +30354,7 @@
         "四重奏",
         "坂元裕二 Yûji Sakamoto"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2413247968.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2413247968.jpg"
     },
     {
       "id": "26635329",
@@ -30542,7 +30585,7 @@
         "大叔之爱 第一季",
         "徳尾浩司 Tokuda Koji"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518060958.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518060958.jpg"
     },
     {
       "id": "25760591",
@@ -30687,7 +30730,7 @@
         "William Chiche",
         "Olivier Fox"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550911199.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2550911199.jpg"
     },
     {
       "id": "30183785",
@@ -30880,7 +30923,7 @@
         "三木康一郎 Kôichirô Miki",
         "丸木戸マキ"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2656732938.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2656732938.jpg"
     },
     {
       "id": "30458963",
@@ -31039,7 +31082,7 @@
         "乔·R·兰斯代尔 Joe R. Lansdale",
         "贾尼斯·罗伯逊 Janis Robertson"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551717438.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2551717438.jpg"
     },
     {
       "id": "5300054",
@@ -31475,7 +31518,7 @@
         "David Rosier",
         "Camille Delafon"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2205830188.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2205830188.jpg"
     },
     {
       "id": "1293352",
@@ -31662,7 +31705,7 @@
         "王国 第一季",
         "金恩熙 Eun-hee Kim"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542945898.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2542945898.jpg"
     },
     {
       "id": "26853460",
@@ -31709,7 +31752,7 @@
         "中谷真由美 Mayumi Nakatani",
         "宮木绫子  Ayako Miyagi"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2387147168.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2387147168.jpg"
     },
     {
       "id": "2059321",
@@ -31847,7 +31890,7 @@
         "对她说",
         "佩德罗·阿莫多瓦 Pedro Almodóvar"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1108397218.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1108397218.jpg"
     },
     {
       "id": "1301948",
@@ -32627,7 +32670,7 @@
         "拉里·利伯 Larry Lieber",
         "杰克·科比 Jack Kirby"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2159068249.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2159068249.jpg"
     },
     {
       "id": "10741834",
@@ -32727,7 +32770,7 @@
         "乔斯·韦登 Joss Whedon",
         "扎克·佩恩 Zak Penn"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1469137689.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1469137689.jpg"
     },
     {
       "id": "25814705",
@@ -32818,7 +32861,7 @@
         "杰克·科比 Jack Kirby",
         "斯坦·李 Stan Lee"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2407903929.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2407903929.jpg"
     },
     {
       "id": "3066739",
@@ -32973,7 +33016,7 @@
         "马特·霍洛维 Matt Holloway",
         "乌尔都语"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2196695849.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2196695849.jpg"
     },
     {
       "id": "2138838",
@@ -33024,7 +33067,7 @@
         "乔·西蒙 Joe Simon",
         "杰克·科比 Jack Kirby"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1182659238.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1182659238.jpg"
     },
     {
       "id": "1298070",
@@ -33165,7 +33208,7 @@
         "甜姐儿",
         "Leonard Gershe"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1110264749.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1110264749.jpg"
     },
     {
       "id": "1476023",
@@ -33737,7 +33780,7 @@
         "Steve Kloves",
         "J.K. Rowling"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913781448.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2913781448.jpg"
     },
     {
       "id": "25726614",
@@ -33875,7 +33918,7 @@
         "镰仓物语",
         "山崎贵 Takashi Yamazaki"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532008868.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2532008868.jpg"
     },
     {
       "id": "20495023",
@@ -34020,7 +34063,7 @@
         "乔希·辛格 Josh Singer",
         "托马斯·麦卡锡 Thomas McCarthy"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg"
     },
     {
       "id": "1291853",
@@ -34161,7 +34204,7 @@
         "步履不停",
         "是枝裕和 Hirokazu Koreeda"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375245718.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2375245718.jpg"
     },
     {
       "id": "4739952",
@@ -34307,7 +34350,7 @@
         "莉莉·沃卓斯基 Lilly Wachowski",
         "拉娜·沃卓斯基 Lana Wachowski"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg"
     },
     {
       "id": "26393561",
@@ -34955,7 +34998,7 @@
         "塞尔吉奥·帕布洛 Sergio Pablos",
         "辛科·保罗 Cinco Paul"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg"
     },
     {
       "id": "1652587",
@@ -35001,7 +35044,7 @@
         "阿凡达",
         "詹姆斯·卡梅隆 James Cameron"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg"
     },
     {
       "id": "1294371",
@@ -35186,7 +35229,7 @@
         "Laeta Kalogridis",
         "Dennis Lehane"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p450262388.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p450262388.jpg"
     },
     {
       "id": "1292656",
@@ -35417,7 +35460,7 @@
         "安迪·沃卓斯基 Andy Wachowski",
         "拉娜·沃卓斯基 Lana Wachowski"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg"
     },
     {
       "id": "1294408",
@@ -35827,7 +35870,7 @@
         "两杆大烟枪",
         "盖·里奇 Guy Ritchie"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg"
     },
     {
       "id": "1929463",
@@ -35984,7 +36027,7 @@
         "安德鲁·沙因曼 Andrew Scheinman",
         "文德琳·范·德拉安南 Wendelin Van Draanen"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg"
     },
     {
       "id": "6786002",
@@ -36168,7 +36211,7 @@
         "克里斯托夫·巴拉蒂 Christophe Barratier",
         "菲利普·洛佩斯-屈瓦尔 Philippe Lopes-Curval"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.jpg"
     },
     {
       "id": "1292001",
@@ -36646,7 +36689,7 @@
         "芦苇 Wei Lu",
         "李碧华 Lillian Lee"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911205318.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911205318.jpg"
     },
     {
       "id": "27622447",
@@ -36782,7 +36825,7 @@
         "韩延",
         "韩延 Yan Han"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525528688.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525528688.jpg"
     },
     {
       "id": "26366496",
@@ -36880,7 +36923,7 @@
         "钟伟 Wei Zhong",
         "文牧野 Muye Wen"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527119568.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2527119568.jpg"
     },
     {
       "id": "1293839",
@@ -37022,7 +37065,7 @@
         "澳门风云3",
         "王晶 Jing Wong"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2309171908.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2309171908.jpg"
     }
   ]
 }
