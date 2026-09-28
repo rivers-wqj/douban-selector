@@ -3,8 +3,8 @@
   "type": "collect",
   "label": "看过",
   "total_declared": 800,
-  "fetched": 783,
-  "fetched_at": "2026-09-27T04:37:45+0000",
+  "fetched": 798,
+  "fetched_at": "2026-09-28T04:39:02+0000",
   "movies": [
     {
       "id": "36882191",
@@ -12360,6 +12360,708 @@
       "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2178271858.jpg"
     },
     {
+      "id": "20514713",
+      "cid": "4265215847",
+      "title": "玉子市场",
+      "aka": [
+        "たまこまーけっと",
+        "Tamako Market [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/20514713/",
+      "cover": "data/posters/20514713.jpg",
+      "year": "2013",
+      "mark_date": "2024-08-07",
+      "rating": 4,
+      "comment": "想过这样的生活",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "动画"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "24分钟",
+      "intro_raw": "2013-01-09(日本) / 洲崎绫 / 田丸笃志 / 金子有希 / 长妻树里 / 山下百合惠 / 日高里菜 / 辻谷耕史 / 津久井教生 / 渡边久美子 / 山崎巧 / 日本 / tamakomarket.com / 山田尚子 / 石原立也 / 武本康弘 / 石立太一 / 河浪荣作 / 小川太一 / 北之原孝将 / 木上益治 / 24分钟 / 玉子市场 / 动画 / 吉田玲子 Reiko Yoshida / 横手美智子 Michiko Yokote / 花田十辉 Jukki Hanada / 日语",
+      "people": [
+        "洲崎绫",
+        "田丸笃志",
+        "金子有希",
+        "长妻树里",
+        "山下百合惠",
+        "日高里菜",
+        "辻谷耕史",
+        "津久井教生",
+        "渡边久美子",
+        "山崎巧",
+        "tamakomarket.com",
+        "山田尚子",
+        "石原立也",
+        "武本康弘",
+        "石立太一",
+        "河浪荣作",
+        "小川太一",
+        "北之原孝将",
+        "木上益治",
+        "玉子市场",
+        "吉田玲子 Reiko Yoshida",
+        "横手美智子 Michiko Yokote",
+        "花田十辉 Jukki Hanada"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1808148839.jpg"
+    },
+    {
+      "id": "26816104",
+      "cid": "4263129836",
+      "title": "从21世纪安全撤离",
+      "aka": [
+        "Evacuate from the 21st Century [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/26816104/",
+      "cover": "data/posters/26816104.jpg",
+      "year": "2024",
+      "mark_date": "2024-08-04",
+      "rating": 2,
+      "comment": "很久没看到这么让人除了尴尬外毫无情绪波动的电影了",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "喜剧",
+        "科幻"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "98分钟",
+      "intro_raw": "2024-08-02(中国大陆) / 张若昀 / 钟楚曦 / 宋洋 / 吴晓亮 / 朱颜曼滋 / 李晨浩 / 温峥嵘 / 石凉 / 陈一辰 / 李卓钊 / 中国大陆 / 李阳 / 2024-07-18 20:10 / 98分钟 / 喜剧 / 科幻 / 李阳 Yang Li / 汉语普通话",
+      "people": [
+        "张若昀",
+        "钟楚曦",
+        "宋洋",
+        "吴晓亮",
+        "朱颜曼滋",
+        "李晨浩",
+        "温峥嵘",
+        "石凉",
+        "陈一辰",
+        "李卓钊",
+        "李阳",
+        "李阳 Yang Li"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911256273.jpg"
+    },
+    {
+      "id": "1291856",
+      "cid": "4068896638",
+      "title": "戏梦巴黎",
+      "aka": [
+        "The Dreamers",
+        "梦想家",
+        "巴黎初体验"
+      ],
+      "url": "https://movie.douban.com/subject/1291856/",
+      "cover": "data/posters/1291856.jpg",
+      "year": "2003",
+      "mark_date": "2024-07-28",
+      "rating": 4,
+      "comment": "如果习惯了赤裸的性，这就不是情色片。喜欢用性来表达，也许是因为原生不经思考的冲动懦弱克制就和各种形式的做爱和对待做爱一样。",
+      "countries": [
+        "法国",
+        "英国",
+        "意大利"
+      ],
+      "genres": [
+        "剧情",
+        "爱情",
+        "情色"
+      ],
+      "languages": [
+        "英语",
+        "法语"
+      ],
+      "runtime": "115分钟",
+      "intro_raw": "2003-09-01(威尼斯电影节) / 2003-10-10(法国) / 迈克尔·皮特 / 伊娃·格林 / 路易·加瑞尔 / 安娜·钱斯勒 / 罗宾·瑞努奇 / 琼-皮尔里·卡尔弗恩 / 让-皮埃尔·利奥德 / 吉尔伯特·阿代尔 / 让-保罗·贝尔蒙多 / 亨利·朗格卢瓦 / 法国 / 英国 / 意大利 / 贝纳尔多·贝托鲁奇 / 115分钟 / 戏梦巴黎 / 剧情 / 爱情 / 情色 / 吉尔伯特·阿代尔 Gilbert Adair / 英语 / 法语",
+      "people": [
+        "迈克尔·皮特",
+        "伊娃·格林",
+        "路易·加瑞尔",
+        "安娜·钱斯勒",
+        "罗宾·瑞努奇",
+        "琼-皮尔里·卡尔弗恩",
+        "让-皮埃尔·利奥德",
+        "吉尔伯特·阿代尔",
+        "让-保罗·贝尔蒙多",
+        "亨利·朗格卢瓦",
+        "贝纳尔多·贝托鲁奇",
+        "戏梦巴黎",
+        "吉尔伯特·阿代尔 Gilbert Adair"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1374017596.jpg"
+    },
+    {
+      "id": "36338644",
+      "cid": "4248321448",
+      "title": "尼特岛",
+      "aka": [
+        "Knit&#39;s Island",
+        "末日小队请登入(台)",
+        "电幻末日大屿(港)"
+      ],
+      "url": "https://movie.douban.com/subject/36338644/",
+      "cover": "data/posters/36338644.jpg",
+      "year": "2023",
+      "mark_date": "2024-07-20",
+      "rating": 3,
+      "comment": "在维也纳电影节露天看的，一开始有点无聊orz，后面的交流对话渐入佳境，画面也很美。我开始向往玩这样的游戏，虽然已经不是疫情时代，但自我的lockdown随时发生。",
+      "countries": [
+        "法国"
+      ],
+      "genres": [
+        "纪录片"
+      ],
+      "languages": [
+        "法语",
+        "英语"
+      ],
+      "runtime": "95分钟",
+      "intro_raw": "2023-04-22(瑞士真实影展) / 法国 / 埃吉姆·巴比尔 / 古尔赫姆·考西 / 昆汀·海格亚克 / 95分钟 / 尼特岛 / 纪录片 / Ekiem Barbier / Guilhem Causse / Quentin L&#39;Helgouac&#39;h / 法语 / 英语",
+      "people": [
+        "埃吉姆·巴比尔",
+        "古尔赫姆·考西",
+        "昆汀·海格亚克",
+        "尼特岛",
+        "Ekiem Barbier",
+        "Guilhem Causse",
+        "Quentin L&#39;Helgouac&#39;h"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896032164.jpg"
+    },
+    {
+      "id": "27080661",
+      "cid": "4233026987",
+      "title": "比宇宙更遥远的地方",
+      "aka": [
+        "宇宙よりも遠い場所",
+        "比宇宙更远的地方",
+        "A Story that Leads to the Antarctica [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/27080661/",
+      "cover": "data/posters/27080661.jpg",
+      "year": "2018",
+      "mark_date": "2024-07-04",
+      "rating": 5,
+      "comment": "看的时候就搜了去北极的机票（因为北极更近",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "动画"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "24分钟",
+      "intro_raw": "2018-01-02(日本) / 水濑祈 / 花泽香菜 / 井口裕香 / 早见沙织 / 能登麻美子 / 日笠阳子 / Lynn / 金元寿子 / 本渡枫 / 大原沙耶香 / 日本 / yorimoi.com / 石塚敦子 / 泽井幸次 / 长滨亘彦 / 北川朋哉 / 24分钟 / 比宇宙更遥远的地方 / 动画 / 花田十辉 Jukki Hanada / 日语",
+      "people": [
+        "水濑祈",
+        "花泽香菜",
+        "井口裕香",
+        "早见沙织",
+        "能登麻美子",
+        "日笠阳子",
+        "Lynn",
+        "金元寿子",
+        "本渡枫",
+        "大原沙耶香",
+        "yorimoi.com",
+        "石塚敦子",
+        "泽井幸次",
+        "长滨亘彦",
+        "北川朋哉",
+        "比宇宙更遥远的地方",
+        "花田十辉 Jukki Hanada"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2478998997.jpg"
+    },
+    {
+      "id": "35679677",
+      "cid": "4224368584",
+      "title": "跃动青春",
+      "aka": [
+        "スキップとローファー",
+        "跳跃和乐福鞋",
+        "Skip to Loafer [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35679677/",
+      "cover": "data/posters/35679677.jpg",
+      "year": "2023",
+      "mark_date": "2024-06-30",
+      "rating": 4,
+      "comment": "看到第二集觉得很意外，没想到硕士都毕业的自己还会被一群刚上高中的人治愈。",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "喜剧",
+        "动画"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "24分钟",
+      "intro_raw": "2023-04-04(日本) / 黑泽朋世 / 江越彬纪 / 内田真礼 / 寺崎裕香 / 潘惠美 / 观世智显 / 榎木淳弥 / 横尾麻里 / 丰崎爱生 / 寿美菜子 / 日本 / 出合小都美 / 平向智子 / 本间修 / 高村彰 / 矢野孝典 / 福井洋平 / 跃动青春 / 24分钟 / 跃动青春 / 喜剧 / 动画 / 出合小都美 Kotomi Deai / 米内山阳子 Yoko Ohyama / 筱冢智子 Tomoko Shinozuka / 日高胜郎 Katsurô Hidaka / 高松美咲 Misaki Takamatsu / 日语",
+      "people": [
+        "黑泽朋世",
+        "江越彬纪",
+        "内田真礼",
+        "寺崎裕香",
+        "潘惠美",
+        "观世智显",
+        "榎木淳弥",
+        "横尾麻里",
+        "丰崎爱生",
+        "寿美菜子",
+        "出合小都美",
+        "平向智子",
+        "本间修",
+        "高村彰",
+        "矢野孝典",
+        "福井洋平",
+        "跃动青春",
+        "跃动青春",
+        "出合小都美 Kotomi Deai",
+        "米内山阳子 Yoko Ohyama",
+        "筱冢智子 Tomoko Shinozuka",
+        "日高胜郎 Katsurô Hidaka",
+        "高松美咲 Misaki Takamatsu"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2888477017.jpg"
+    },
+    {
+      "id": "36093351",
+      "cid": "4221915131",
+      "title": "葬送的芙莉莲",
+      "aka": [
+        "葬送のフリーレン",
+        "Frieren: Beyond Journey's End",
+        "Sousou no Frieren [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/36093351/",
+      "cover": "data/posters/36093351.jpg",
+      "year": "2023",
+      "mark_date": "2024-06-24",
+      "rating": 5,
+      "comment": "啊这精灵般的人生",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "动画",
+        "奇幻",
+        "冒险"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "25分钟",
+      "intro_raw": "2023-09-29(日本) / 种崎敦美 / 冈本信彦 / 东地宏树 / 上田燿司 / 市之濑加那 / 小林千晃 / 大铃功起  / 中村悠一 / 安元洋贵 / 田中敦子 / 日本 / 斋藤圭一郎 / 葬送的芙莉莲 / 25分钟 / 葬送的芙莉莲 / 动画 / 奇幻 / 冒险 / 铃木智寻 Tomohiro Suzuki / 日语",
+      "people": [
+        "种崎敦美",
+        "冈本信彦",
+        "东地宏树",
+        "上田燿司",
+        "市之濑加那",
+        "小林千晃",
+        "大铃功起",
+        "中村悠一",
+        "安元洋贵",
+        "田中敦子",
+        "斋藤圭一郎",
+        "葬送的芙莉莲",
+        "葬送的芙莉莲",
+        "铃木智寻 Tomohiro Suzuki"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897218476.jpg"
+    },
+    {
+      "id": "35724582",
+      "cid": "4221493575",
+      "title": "间谍过家家 第一季 Part.2",
+      "aka": [
+        "SPY×FAMILY 第2クール",
+        "SPY×FAMILY间谍家家酒 Part 2(港",
+        "台)",
+        "间谍过家家 Part 2 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35724582/",
+      "cover": "data/posters/35724582.jpg",
+      "year": "2022",
+      "mark_date": "2024-06-21",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "喜剧",
+        "动作",
+        "动画"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "24分钟",
+      "intro_raw": "2022-10-01(日本) / 江口拓也 / 早见沙织 / 种崎敦美 / 松田健一郎 / 吉野裕行 / 甲斐田裕子 / 山路和弘 / 小野贤章 / 藤原夏海 / 加藤英美里 / 日本 / 古桥一浩 / 片桐崇 / 原田孝宏 / 高桥谦仁 / 本间修 / 原英和 / 山本阳介 / 堀口和树 / 大峰辉之 / 24分钟 / 间谍过家家 第一季 Part.2 / 喜剧 / 动作 / 动画 / 远藤达哉 / 古桥一浩 Kazuhiro Furuhashi / 谷村大四郎 Daishirou Tanimura / 日语",
+      "people": [
+        "江口拓也",
+        "早见沙织",
+        "种崎敦美",
+        "松田健一郎",
+        "吉野裕行",
+        "甲斐田裕子",
+        "山路和弘",
+        "小野贤章",
+        "藤原夏海",
+        "加藤英美里",
+        "古桥一浩",
+        "片桐崇",
+        "原田孝宏",
+        "高桥谦仁",
+        "本间修",
+        "原英和",
+        "山本阳介",
+        "堀口和树",
+        "大峰辉之",
+        "间谍过家家 第一季 Part.2",
+        "远藤达哉",
+        "古桥一浩 Kazuhiro Furuhashi",
+        "谷村大四郎 Daishirou Tanimura"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2878984749.jpg"
+    },
+    {
+      "id": "36190888",
+      "cid": "4221493081",
+      "title": "间谍过家家 第二季",
+      "aka": [
+        "SPY×FAMILY Season 2",
+        "SPY×FAMILY间谍家家酒Season 2(港",
+        "台)",
+        "Spy × Family Season 2 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/36190888/",
+      "cover": "data/posters/36190888.jpg",
+      "year": "2023",
+      "mark_date": "2024-06-21",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "喜剧",
+        "动画"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "24分钟",
+      "intro_raw": "2023-10-07(日本) / 江口拓也 / 早见沙织 / 种崎敦美 / 松田健一郎 / 吉野裕行 / 甲斐田裕子 / 山路和弘 / 小野贤章 / 藤原夏海 / 加藤英美里 / 日本 / 古桥一浩 / 原田孝宏 / 24分钟 / 间谍过家家 第二季 / 喜剧 / 动画 / 大河内一楼 Ichiro Okouchi / 谷村大四郎 Daishirou Tanimura / 久尾步 / 日语",
+      "people": [
+        "江口拓也",
+        "早见沙织",
+        "种崎敦美",
+        "松田健一郎",
+        "吉野裕行",
+        "甲斐田裕子",
+        "山路和弘",
+        "小野贤章",
+        "藤原夏海",
+        "加藤英美里",
+        "古桥一浩",
+        "原田孝宏",
+        "间谍过家家 第二季",
+        "大河内一楼 Ichiro Okouchi",
+        "谷村大四郎 Daishirou Tanimura",
+        "久尾步"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2899072942.jpg"
+    },
+    {
+      "id": "35258427",
+      "cid": "4221492966",
+      "title": "间谍过家家 第一季",
+      "aka": [
+        "SPY×FAMILY",
+        "SPY×FAMILY间谍家家酒(港",
+        "台)",
+        "间谍过家家 Part 1 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35258427/",
+      "cover": "data/posters/35258427.jpg",
+      "year": "2022",
+      "mark_date": "2024-06-21",
+      "rating": 5,
+      "comment": "看的很开心哇酷哇酷",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "喜剧",
+        "动作",
+        "动画"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "24分钟",
+      "intro_raw": "2022-04-09(日本) / 江口拓也 / 早见沙织 / 种崎敦美 / 吉野裕行 / 甲斐田裕子 / 山路和弘 / 藤原夏海 / 加藤英美里 / 小野贤章 / 松田健一郎 / 日本 / spy-family.net / 古桥一浩 / 片桐崇 / 原田孝宏 / 高桥谦仁 / 赤井俊文 / 堀口和树 / 山本阳介 / 北川朋哉 / 24分钟 / 间谍过家家 第一季 / 喜剧 / 动作 / 动画 / 远藤达哉 / 古桥一浩 Kazuhiro Furuhashi / 谷村大四郎 Daishirou Tanimura / 日语",
+      "people": [
+        "江口拓也",
+        "早见沙织",
+        "种崎敦美",
+        "吉野裕行",
+        "甲斐田裕子",
+        "山路和弘",
+        "藤原夏海",
+        "加藤英美里",
+        "小野贤章",
+        "松田健一郎",
+        "spy-family.net",
+        "古桥一浩",
+        "片桐崇",
+        "原田孝宏",
+        "高桥谦仁",
+        "赤井俊文",
+        "堀口和树",
+        "山本阳介",
+        "北川朋哉",
+        "间谍过家家 第一季",
+        "远藤达哉",
+        "古桥一浩 Kazuhiro Furuhashi",
+        "谷村大四郎 Daishirou Tanimura"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2869306649.jpg"
+    },
+    {
+      "id": "36206689",
+      "cid": "4200404726",
+      "title": "历史那些事 第三季",
+      "aka": [
+        "[可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/36206689/",
+      "cover": "data/posters/36206689.jpg",
+      "year": "2023",
+      "mark_date": "2024-05-28",
+      "rating": 2,
+      "comment": "当bgm都有点多余orz",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "纪录片"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2023-12-28(中国大陆) / 中国大陆 / 贾寅超 / 30分钟 / 纪录片 / 汉语普通话",
+      "people": [
+        "贾寅超"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2902790460.jpg"
+    },
+    {
+      "id": "4822098",
+      "cid": "4186274836",
+      "title": "美利坚：我们的故事",
+      "aka": [
+        "America: The Story of Us",
+        "美国：我们的故事 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/4822098/",
+      "cover": "data/posters/4822098.jpg",
+      "year": "2010",
+      "mark_date": "2024-05-12",
+      "rating": 4,
+      "comment": "感觉作为初次了解阿美的纪录片还不错，妹想到阿美的第一条横跨大陆的铁路中国劳工付出了这么多。",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "历史",
+        "纪录片"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "44分钟",
+      "intro_raw": "2010-04-25 / 丹尼·韦伯 / 列维·施瑞博尔 / 汤姆·布罗考 / 布莱恩·威廉姆斯 / 迈克尔·道格拉斯 / 肖恩·卡梅伦·迈克尔 / 丹·希尔斯特 / 亨利·路易斯·盖茨 / 吉米·威爾斯 / 雪儿·克劳 / 美国 / 克莱尔·比温 / Andrew Chater / Nick Green / Jenny Ash / 44分钟 / 美利坚：我们的故事 / 历史 / 纪录片 / 英语",
+      "people": [
+        "丹尼·韦伯",
+        "列维·施瑞博尔",
+        "汤姆·布罗考",
+        "布莱恩·威廉姆斯",
+        "迈克尔·道格拉斯",
+        "肖恩·卡梅伦·迈克尔",
+        "丹·希尔斯特",
+        "亨利·路易斯·盖茨",
+        "吉米·威爾斯",
+        "雪儿·克劳",
+        "克莱尔·比温",
+        "Andrew Chater",
+        "Nick Green",
+        "Jenny Ash",
+        "美利坚：我们的故事"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p473542740.jpg"
+    },
+    {
+      "id": "1309015",
+      "cid": "4186273915",
+      "title": "摩托日记",
+      "aka": [
+        "Diarios de motocicleta",
+        "哲古华拉少年日记(港)",
+        "革命前夕的摩托车日记(台) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1309015/",
+      "cover": "data/posters/1309015.jpg",
+      "year": "2004",
+      "mark_date": "2024-05-12",
+      "rating": 3,
+      "comment": "没有太认真看orz也想骑摩托旅行",
+      "countries": [
+        "阿根廷",
+        "美国",
+        "智利",
+        "巴西",
+        "英国",
+        "德国",
+        "法国"
+      ],
+      "genres": [
+        "冒险",
+        "传记",
+        "剧情"
+      ],
+      "languages": [
+        "西班牙语"
+      ],
+      "runtime": "126 分钟",
+      "intro_raw": "2004-01-15(圣丹斯电影节) / 盖尔·加西亚·贝纳尔 / 罗德里戈·德拉·塞尔纳 / 梅赛黛斯·莫朗 / 吉安·皮埃尔·诺厄尔 / 米娅·麦斯特罗 / 布兰登·克鲁兹 / 安托里娜·科斯塔 / Facundo Espinosa / Marina Glezer / Natalia Lobo / 阿根廷 / 美国 / 智利 / 秘鲁 / 巴西 / 英国 / 德国 / 法国 / 沃尔特·塞勒斯 / 126 分钟 / 摩托日记 / 冒险 / 传记 / 剧情 / Jose Rivera / 奇楚亚语 / 西班牙语",
+      "people": [
+        "盖尔·加西亚·贝纳尔",
+        "罗德里戈·德拉·塞尔纳",
+        "梅赛黛斯·莫朗",
+        "吉安·皮埃尔·诺厄尔",
+        "米娅·麦斯特罗",
+        "布兰登·克鲁兹",
+        "安托里娜·科斯塔",
+        "Facundo Espinosa",
+        "Marina Glezer",
+        "Natalia Lobo",
+        "秘鲁",
+        "沃尔特·塞勒斯",
+        "摩托日记",
+        "Jose Rivera",
+        "奇楚亚语"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p466727772.jpg"
+    },
+    {
+      "id": "1310159",
+      "cid": "4166419463",
+      "title": "梁祝",
+      "aka": [
+        "梁山伯与祝英台",
+        "The Lovers [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1310159/",
+      "cover": "data/posters/1310159.jpg",
+      "year": "1994",
+      "mark_date": "2024-04-28",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "中国香港"
+      ],
+      "genres": [
+        "剧情",
+        "爱情",
+        "奇幻",
+        "古装"
+      ],
+      "languages": [
+        "粤语"
+      ],
+      "runtime": "107分钟",
+      "intro_raw": "1994-08-13(中国香港) / 吴奇隆 / 杨采妮 / 徐锦江 / 吴家丽 / 刘洵 / 孙兴 / 何润东 / 侯炳莹 / 刘瑞琪 / 沈海蓉 / 中国香港 / 徐克 / 107分钟 / 剧情 / 爱情 / 奇幻 / 古装 / 许莎朗 Shalang Xu / 徐克 Hark Tsui / 粤语",
+      "people": [
+        "吴奇隆",
+        "杨采妮",
+        "徐锦江",
+        "吴家丽",
+        "刘洵",
+        "孙兴",
+        "何润东",
+        "侯炳莹",
+        "刘瑞琪",
+        "沈海蓉",
+        "徐克",
+        "许莎朗 Shalang Xu",
+        "徐克 Hark Tsui"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2125670899.jpg"
+    },
+    {
+      "id": "1303590",
+      "cid": "4166355312",
+      "title": "玻璃之城",
+      "aka": [
+        "City of Glass [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1303590/",
+      "cover": "data/posters/1303590.jpg",
+      "year": "1998",
+      "mark_date": "2024-04-24",
+      "rating": 4,
+      "comment": "吴彦祖年轻好帅，舒淇美的。\n我伦敦情节太重，加一星。",
+      "countries": [
+        "中国香港"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "英语",
+        "汉语普通话",
+        "粤语"
+      ],
+      "runtime": "110分钟",
+      "intro_raw": "1998-10-28(中国香港) / 黎明 / 舒淇 / 吴彦祖 / 杨张新悦 / 谷德昭 / 陈奕迅 / 金燕玲 / 方平 / 张同祖 / 木星 / 中国香港 / 张婉婷 / 110分钟 / 剧情 / 爱情 / 罗启锐 Alex Law / 张婉婷 Mabel Cheung / 英语 / 汉语普通话 / 粤语",
+      "people": [
+        "黎明",
+        "舒淇",
+        "吴彦祖",
+        "杨张新悦",
+        "谷德昭",
+        "陈奕迅",
+        "金燕玲",
+        "方平",
+        "张同祖",
+        "木星",
+        "张婉婷",
+        "罗启锐 Alex Law",
+        "张婉婷 Mabel Cheung"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p791235992.jpg"
+    },
+    {
       "id": "6874403",
       "cid": "4166419691",
       "title": "再次出发之纽约遇见你",
@@ -20177,7 +20879,7 @@
         "生活大爆炸",
         "查克·罗瑞 Chuck Lorre"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016948076.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2152929743.jpg"
     },
     {
       "id": "10561953",
