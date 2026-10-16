@@ -2,10 +2,58 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 800,
-  "fetched": 798,
-  "fetched_at": "2026-10-15T03:59:33+0000",
+  "total_declared": 801,
+  "fetched": 799,
+  "fetched_at": "2026-10-16T03:56:33+0000",
   "movies": [
+    {
+      "id": "37068446",
+      "cid": "4966748424",
+      "title": "生化危机：爆发夜",
+      "aka": [
+        "Resident Evil",
+        "生化危机 重启版",
+        "恶灵古堡：爆发夜(台)"
+      ],
+      "url": "https://movie.douban.com/subject/37068446/",
+      "cover": "data/posters/37068446.jpg",
+      "year": "2026",
+      "mark_date": "2026-10-15",
+      "rating": 3,
+      "comment": "主要是恶心",
+      "countries": [
+        "德国",
+        "法国",
+        "美国"
+      ],
+      "genres": [
+        "科幻",
+        "惊悚",
+        "恐怖"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "94分钟",
+      "intro_raw": "2026-09-16(法国) / 2026-09-18(美国) / 2026-10-05(中国大陆) / 奥斯汀·艾布拉姆斯 / 扎克·切利 / 卡莉·瑞斯 / 保罗·沃尔特·豪泽 / 安德莉亚·米尔特纳 / 萨拉·帕克斯顿 / 威尔·梅瑞克 / 约翰诺·威尔逊 / 卡雷尔·多布雷 / 佐伊·贝拉斯 / 德国 / 法国 / 美国 / 扎克·克雷格 / 94分钟 / 生化危机：爆发夜 / 科幻 / 惊悚 / 恐怖 / 扎克·克雷格 Zach Cregger / 谢伊·哈顿 Shay Hatten / 英语",
+      "people": [
+        "奥斯汀·艾布拉姆斯",
+        "扎克·切利",
+        "卡莉·瑞斯",
+        "保罗·沃尔特·豪泽",
+        "安德莉亚·米尔特纳",
+        "萨拉·帕克斯顿",
+        "威尔·梅瑞克",
+        "约翰诺·威尔逊",
+        "卡雷尔·多布雷",
+        "佐伊·贝拉斯",
+        "扎克·克雷格",
+        "生化危机：爆发夜",
+        "扎克·克雷格 Zach Cregger",
+        "谢伊·哈顿 Shay Hatten"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2936442661.jpg"
+    },
     {
       "id": "36882191",
       "cid": "4950043057",
@@ -25438,7 +25486,7 @@
         "詹姆斯·伊沃里 James Ivory",
         "爱德华·摩根·福斯特 E.M. Forster"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927324760.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455549510.jpg"
     },
     {
       "id": "1294950",
