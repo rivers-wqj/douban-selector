@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 801,
   "fetched": 799,
-  "fetched_at": "2026-10-20T04:15:02+0000",
+  "fetched_at": "2026-10-21T04:03:05+0000",
   "movies": [
     {
       "id": "37068446",
@@ -14581,7 +14581,7 @@
         "艾瑞克·罗斯 Eric Roth",
         "弗兰克·赫伯特 Frank Herbert"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2687443734.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519624088.jpg"
     },
     {
       "id": "25880937",
@@ -36657,7 +36657,7 @@
       "aka": [
         "The Shawshank Redemption",
         "月黑高飞(港)",
-        "刺激1995(台)"
+        "刺激1995(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1292052/",
       "cover": "data/posters/1292052.jpg",
