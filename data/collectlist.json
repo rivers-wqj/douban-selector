@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 801,
   "fetched": 799,
-  "fetched_at": "2026-10-21T04:03:05+0000",
+  "fetched_at": "2026-10-22T04:04:42+0000",
   "movies": [
     {
       "id": "37068446",
@@ -7564,7 +7564,7 @@
         "李雪",
         "张勇 Yong Zhang"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2902434043.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2902434050.jpg"
     },
     {
       "id": "4891786",
@@ -26680,7 +26680,7 @@
         "英语"
       ],
       "runtime": "45分钟",
-      "intro_raw": "2005-03-26(英国) / 克里斯托弗·埃克莱斯顿 / 比莉·派佩 / 大卫·田纳特 / 杰克·塔尔登 / 鲁珀特·范西塔特 / 约瑟夫·特雷曼 / 罗伯特·汉兹 / 阿莉克丝·金斯顿 / 诺埃尔·克拉克 / 佩内洛普·威尔顿 / 英国 / 加拿大 / www.bbc.co.uk/doctorwho / 詹姆斯·霍斯 / 乔·阿希恩 / 基思·博克 / 布莱恩·格兰特 / 尤洛斯·林 / 法伦·布莱克本 / 杰米·奇尔兹 / 神秘博士 / 45分钟 / 神秘博士 / 剧情 / 科幻 / 冒险 / 史蒂文·莫法特 Steven Moffat / 西德尼·纽曼 Sydney Newman / 拉塞尔·T·戴维斯 Russell T. Davies / 特瑞·内辛 Terry Nation / 马克·加蒂斯 Mark Gatiss / Paul Cornell / 英语",
+      "intro_raw": "2005-03-26(英国) / 克里斯托弗·埃克莱斯顿 / 比莉·派佩 / 大卫·田纳特 / 杰克·塔尔登 / 鲁珀特·范西塔特 / 约瑟夫·特雷曼 / 罗伯特·汉兹 / 西蒙·佩吉 / 约翰·巴罗曼 / 塔姆辛·格雷格 / 英国 / 加拿大 / www.bbc.co.uk/doctorwho / 詹姆斯·霍斯 / 乔·阿希恩 / 基思·博克 / 布莱恩·格兰特 / 尤洛斯·林 / 神秘博士 / 45分钟 / 神秘博士 / 剧情 / 科幻 / 冒险 / 史蒂文·莫法特 Steven Moffat / 西德尼·纽曼 Sydney Newman / 拉塞尔·T·戴维斯 Russell T. Davies / 特瑞·内辛 Terry Nation / 马克·加蒂斯 Mark Gatiss / Paul Cornell / 英语",
       "people": [
         "克里斯托弗·埃克莱斯顿",
         "比莉·派佩",
@@ -26689,9 +26689,9 @@
         "鲁珀特·范西塔特",
         "约瑟夫·特雷曼",
         "罗伯特·汉兹",
-        "阿莉克丝·金斯顿",
-        "诺埃尔·克拉克",
-        "佩内洛普·威尔顿",
+        "西蒙·佩吉",
+        "约翰·巴罗曼",
+        "塔姆辛·格雷格",
         "www.bbc.co.uk",
         "doctorwho",
         "詹姆斯·霍斯",
@@ -26699,8 +26699,6 @@
         "基思·博克",
         "布莱恩·格兰特",
         "尤洛斯·林",
-        "法伦·布莱克本",
-        "杰米·奇尔兹",
         "神秘博士",
         "神秘博士",
         "史蒂文·莫法特 Steven Moffat",

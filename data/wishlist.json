@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 424,
   "fetched": 415,
-  "fetched_at": "2026-10-21T04:00:25+0000",
+  "fetched_at": "2026-10-22T04:02:19+0000",
   "movies": [
     {
       "id": "1309066",
@@ -3755,8 +3755,8 @@
       "languages": [
         "英语"
       ],
-      "runtime": "",
-      "intro_raw": "2022-09-15(美国) / 唐纳德·格洛弗 / 布莱恩·泰里·亨利 / 莎姬·贝兹 / 勒凯斯·斯坦菲尔德 / 艾丽斯·埃尔纳·刘易斯 / 美国 / 村井浩 / 亚特兰大 / 亚特兰大 / 剧情 / 喜剧 / 音乐 / 唐纳德·格洛弗 Donald Glover / 英语",
+      "runtime": "31分钟",
+      "intro_raw": "2022-09-15(美国) / 唐纳德·格洛弗 / 布莱恩·泰里·亨利 / 莎姬·贝兹 / 勒凯斯·斯坦菲尔德 / 艾丽斯·埃尔纳·刘易斯 / 美国 / 村井浩 / 亚特兰大 / 31分钟 / 亚特兰大 / 剧情 / 喜剧 / 音乐 / 唐纳德·格洛弗 Donald Glover / 英语",
       "people": [
         "唐纳德·格洛弗",
         "布莱恩·泰里·亨利",
@@ -18248,7 +18248,7 @@
         "迈克尔·艾普特",
         "人生七年5"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2573206535.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2630291118.jpg"
     },
     {
       "id": "26779571",
