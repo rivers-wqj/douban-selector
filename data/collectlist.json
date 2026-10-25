@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 801,
   "fetched": 799,
-  "fetched_at": "2026-10-24T04:01:01+0000",
+  "fetched_at": "2026-10-25T04:00:40+0000",
   "movies": [
     {
       "id": "37068446",
@@ -5959,18 +5959,18 @@
         "汉语普通话"
       ],
       "runtime": "40分钟",
-      "intro_raw": "游本昌 / 张寄蝶 / 石港 / 夏冬 / 董柯娣 / 王小红 / 史奕 / 陈广生 / 乔立生 / 黄平环 / 中国大陆 / 游本昌 / 张晓秋 / 季世明 / 40分钟 / 剧情 / 喜剧 / 古装 / 施梓云 Ziyun Shi / 杨宝华 Baohua Yang / 江上鸥 Rongde Li / 游本昌 Benchang You / 金振家 Zhenjia Jin / 尚伟 Wei Shang / 汉语普通话",
+      "intro_raw": "游本昌 / 张寄蝶 / 石港 / 董柯娣 / 王小红 / 史奕 / 陈广生 / 乔立生 / 黄平环 / 马自觉 / 中国大陆 / 游本昌 / 张晓秋 / 季世明 / 40分钟 / 剧情 / 喜剧 / 古装 / 施梓云 Ziyun Shi / 杨宝华 Baohua Yang / 江上鸥 Rongde Li / 游本昌 Benchang You / 金振家 Zhenjia Jin / 尚伟 / 汉语普通话",
       "people": [
         "游本昌",
         "张寄蝶",
         "石港",
-        "夏冬",
         "董柯娣",
         "王小红",
         "史奕",
         "陈广生",
         "乔立生",
         "黄平环",
+        "马自觉",
         "游本昌",
         "张晓秋",
         "季世明",
@@ -5979,7 +5979,7 @@
         "江上鸥 Rongde Li",
         "游本昌 Benchang You",
         "金振家 Zhenjia Jin",
-        "尚伟 Wei Shang"
+        "尚伟"
       ],
       "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548233954.jpg"
     },
