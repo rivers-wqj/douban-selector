@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 801,
   "fetched": 799,
-  "fetched_at": "2026-10-26T04:05:34+0000",
+  "fetched_at": "2026-10-27T04:26:04+0000",
   "movies": [
     {
       "id": "37068446",
@@ -32186,7 +32186,7 @@
       ],
       "url": "https://movie.douban.com/subject/10484041/",
       "cover": "data/posters/10484041.jpg",
-      "year": "2013",
+      "year": "2012",
       "mark_date": "2019-01-26",
       "rating": 5,
       "comment": "最后的最后太美了。",
@@ -32201,7 +32201,7 @@
         "日语"
       ],
       "runtime": "160分钟",
-      "intro_raw": "2013-02-23(日本) / 高良健吾 / 吉高由里子 / 池松壮亮 / 伊藤步 / 绫野刚 / 井浦新 / 国村隼 / 堀内敬子 / 古关安广 / 余贵美子 / 日本 / 冲田修一 / 160分钟 / 剧情 / 爱情 / 冲田修一 Shûichi Okita / 前田司郎 Shirô Maeda / 吉田修一 Shûichi Yoshida / 日语",
+      "intro_raw": "2012-10-27(东京国际电影节) / 2013-02-23(日本) / 高良健吾 / 吉高由里子 / 池松壮亮 / 伊藤步 / 绫野刚 / 井浦新 / 国村隼 / 堀内敬子 / 古关安广 / 余贵美子 / 日本 / 冲田修一 / 160分钟 / 剧情 / 爱情 / 冲田修一 Shûichi Okita / 前田司郎 Shirô Maeda / 吉田修一 Shûichi Yoshida / 日语",
       "people": [
         "高良健吾",
         "吉高由里子",
@@ -32218,7 +32218,7 @@
         "前田司郎 Shirô Maeda",
         "吉田修一 Shûichi Yoshida"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1826486066.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2021127692.jpg"
     },
     {
       "id": "1292337",
