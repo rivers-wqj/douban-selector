@@ -2,10 +2,53 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 801,
-  "fetched": 799,
-  "fetched_at": "2026-10-27T04:26:04+0000",
+  "total_declared": 802,
+  "fetched": 800,
+  "fetched_at": "2026-10-28T04:57:19+0000",
   "movies": [
+    {
+      "id": "36772727",
+      "cid": "4975996071",
+      "title": "500英里",
+      "aka": [
+        "500 Miles"
+      ],
+      "url": "https://movie.douban.com/subject/36772727/",
+      "cover": "data/posters/36772727.jpg",
+      "year": "2026",
+      "mark_date": "2026-10-27",
+      "rating": 3,
+      "comment": "Train",
+      "countries": [
+        "英国",
+        "爱尔兰"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "102分钟",
+      "intro_raw": "2026-02-27(都柏林电影节) / 2026-05-15(爱尔兰) / 迪尔德丽·莫娜汉 / 洛雷·阿德乌西 / 德克斯特·索尔·安塞尔 / 欧因·达菲 / 克莱尔·邓恩 / 罗曼·格里芬·戴维斯 / 肖娜·哈里斯 / 史蒂夫·哈特兰 / 比尔·奈伊 / 大卫·赖恩 / 英国 / 爱尔兰 / 塞浦路斯 / 摩根·马修斯 / 102分钟 / 500英里 / 剧情 / Malcolm Campbell / 英语",
+      "people": [
+        "迪尔德丽·莫娜汉",
+        "洛雷·阿德乌西",
+        "德克斯特·索尔·安塞尔",
+        "欧因·达菲",
+        "克莱尔·邓恩",
+        "罗曼·格里芬·戴维斯",
+        "肖娜·哈里斯",
+        "史蒂夫·哈特兰",
+        "比尔·奈伊",
+        "大卫·赖恩",
+        "塞浦路斯",
+        "摩根·马修斯",
+        "500英里",
+        "Malcolm Campbell"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932686404.jpg"
+    },
     {
       "id": "37068446",
       "cid": "4966748424",
