@@ -2,10 +2,53 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 802,
-  "fetched": 785,
-  "fetched_at": "2026-10-30T05:10:39+0000",
+  "total_declared": 803,
+  "fetched": 801,
+  "fetched_at": "2026-10-31T04:54:43+0000",
   "movies": [
+    {
+      "id": "37083807",
+      "cid": "4978207088",
+      "title": "爱语",
+      "aka": [
+        "Love Language"
+      ],
+      "url": "https://movie.douban.com/subject/37083807/",
+      "cover": "data/posters/37083807.jpg",
+      "year": "2026",
+      "mark_date": "2026-10-30",
+      "rating": 3,
+      "comment": "看了评论才明白大学暗恋对象是个渣男（眼神拉丝真好帅），而我还当是nostalgia皆幻觉😵‍💫",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧",
+        "爱情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "104分钟",
+      "intro_raw": "2026-03-16(西南偏南电影节) / 2026-10-23(美国/美国网络) / 科洛·葛蕾丝·莫瑞兹 / 安东尼·拉莫斯 / 比莉·洛德 / 伊莎贝尔·梅 / 曼尼·贾希尼托 / 克洛伊·菲内曼 / 卢卡斯·盖奇 / 丹尼尔·戴维·斯图尔特 / 斯蒂芬·施耐德 / 丹·佩罗 / 美国 / 乔伊·鲍沃尔 / 104分钟 / 爱语 / 喜剧 / 爱情 / 乔伊·鲍沃尔 Joey Power / 英语",
+      "people": [
+        "美国网络)",
+        "科洛·葛蕾丝·莫瑞兹",
+        "安东尼·拉莫斯",
+        "比莉·洛德",
+        "伊莎贝尔·梅",
+        "曼尼·贾希尼托",
+        "克洛伊·菲内曼",
+        "卢卡斯·盖奇",
+        "丹尼尔·戴维·斯图尔特",
+        "斯蒂芬·施耐德",
+        "丹·佩罗",
+        "乔伊·鲍沃尔",
+        "爱语",
+        "乔伊·鲍沃尔 Joey Power"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936685427.jpg"
+    },
     {
       "id": "36772727",
       "cid": "4975996071",
@@ -6915,6 +6958,664 @@
         "敏孝正 Hyo-jeong Min"
       ],
       "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2891089760.jpg"
+    },
+    {
+      "id": "2295811",
+      "cid": "4612141865",
+      "title": "机灵小不懂",
+      "aka": [
+        "一修和尚(台)",
+        "机灵小子(港) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2295811/",
+      "cover": "data/posters/2295811.jpg",
+      "year": "2001",
+      "mark_date": "2025-08-11",
+      "rating": 4,
+      "comment": "",
+      "countries": [
+        "中国香港",
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "2001-07-09(中国香港) / 张卫健 / 李冰冰 / 聂远 / 何美钿 / 罗家英 / 马精武 / 薛佳凝 / 李进荣 / 薛文成 / 谭建昌 / 中国香港 / 中国大陆 / 马精武 / 靳德茂 / 45分钟 / 剧情 / 喜剧 / 古装 / 黄浩华 Ho-Wa Wong / 汉语普通话",
+      "people": [
+        "张卫健",
+        "李冰冰",
+        "聂远",
+        "何美钿",
+        "罗家英",
+        "马精武",
+        "薛佳凝",
+        "李进荣",
+        "薛文成",
+        "谭建昌",
+        "马精武",
+        "靳德茂",
+        "黄浩华 Ho-Wa Wong"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2360420844.jpg"
+    },
+    {
+      "id": "2248720",
+      "cid": "4612141072",
+      "title": "夜光神杯",
+      "aka": [
+        "[可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2248720/",
+      "cover": "data/posters/2248720.jpg",
+      "year": "2006",
+      "mark_date": "2025-08-11",
+      "rating": 4,
+      "comment": "",
+      "countries": [],
+      "genres": [
+        "剧情",
+        "喜剧",
+        "爱情",
+        "古装"
+      ],
+      "languages": [],
+      "runtime": "45分钟",
+      "intro_raw": "2006-08-15 / 郭晋安 / 张庭 / 李铭顺 / 林湘萍 / 刘涛 / 陈龙 / 林明伦 / 陆明君 / 赵梓存 / 岳跃利 / 中国 / 45分钟 / 剧情 / 喜剧 / 爱情 / 古装 / 宗新 / 普通话",
+      "people": [
+        "郭晋安",
+        "张庭",
+        "李铭顺",
+        "林湘萍",
+        "刘涛",
+        "陈龙",
+        "林明伦",
+        "陆明君",
+        "赵梓存",
+        "岳跃利",
+        "中国",
+        "宗新",
+        "普通话"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509684088.jpg"
+    },
+    {
+      "id": "2284418",
+      "cid": "4612137897",
+      "title": "小鱼儿与花无缺",
+      "aka": [
+        "小魚兒與花無缺",
+        "绝代双骄 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2284418/",
+      "cover": "data/posters/2284418.jpg",
+      "year": "2005",
+      "mark_date": "2025-08-11",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "中国香港",
+        "中国大陆"
+      ],
+      "genres": [
+        "武侠",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "40分钟",
+      "intro_raw": "2005-05-28 / 2005-08-08(中国香港) / 谢霆锋 / 张卫健 / 袁泉 / 范冰冰 / 徐锦江 / 柏雪 / 孔琳 / 刘仪伟 / 倪景阳 / 吴庆哲 / 中国香港 / 中国大陆 / 王晶 / 40分钟 / 小鱼儿与花无缺 / 武侠 / 古装 / 王晶 Jing Wong / 吴仁 Ren Wu / 汉语普通话",
+      "people": [
+        "谢霆锋",
+        "张卫健",
+        "袁泉",
+        "范冰冰",
+        "徐锦江",
+        "柏雪",
+        "孔琳",
+        "刘仪伟",
+        "倪景阳",
+        "吴庆哲",
+        "王晶",
+        "小鱼儿与花无缺",
+        "王晶 Jing Wong",
+        "吴仁 Ren Wu"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2867688478.jpg"
+    },
+    {
+      "id": "3010195",
+      "cid": "4612134775",
+      "title": "至尊红颜",
+      "aka": [
+        "武媚娘传奇",
+        "Empress Wu Mei Niang"
+      ],
+      "url": "https://movie.douban.com/subject/3010195/",
+      "cover": "data/posters/3010195.jpg",
+      "year": "2003",
+      "mark_date": "2025-08-11",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "爱情",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "2003-09 / 贾静雯 / 赵文卓 / 寇振海 / 杨童舒 / 保剑锋 / 孙兴 / 张彤 / 张明健 / 李立群 / 戴春荣 / 中国大陆 / 颢然 / 45分钟 / 剧情 / 爱情 / 古装 / 单喆 Zhe Shan / 汉语普通话",
+      "people": [
+        "贾静雯",
+        "赵文卓",
+        "寇振海",
+        "杨童舒",
+        "保剑锋",
+        "孙兴",
+        "张彤",
+        "张明健",
+        "李立群",
+        "戴春荣",
+        "颢然",
+        "单喆 Zhe Shan"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549626709.jpg"
+    },
+    {
+      "id": "2327494",
+      "cid": "4612134625",
+      "title": "刁蛮公主",
+      "aka": [
+        "The Mischievous Princess",
+        "디아오만공주 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2327494/",
+      "cover": "data/posters/2327494.jpg",
+      "year": "2006",
+      "mark_date": "2025-08-11",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "喜剧",
+        "爱情",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "2006-01-25(中国大陆) / 苏有朋 / 张娜拉 / 鲍蕾 / 吕行 / 陈秀丽 / 高露 / 林江国 / 洪欣 / 寇振海 / 王道 / 中国大陆 / 赖水清 / 45分钟 / 喜剧 / 爱情 / 古装 / 马志全 Zhiquan Ma / 汉语普通话",
+      "people": [
+        "苏有朋",
+        "张娜拉",
+        "鲍蕾",
+        "吕行",
+        "陈秀丽",
+        "高露",
+        "林江国",
+        "洪欣",
+        "寇振海",
+        "王道",
+        "赖水清",
+        "马志全 Zhiquan Ma"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2371418542.jpg"
+    },
+    {
+      "id": "2270545",
+      "cid": "4612134467",
+      "title": "春光灿烂猪八戒",
+      "aka": [
+        "Sunny Piggy [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2270545/",
+      "cover": "data/posters/2270545.jpg",
+      "year": "2000",
+      "mark_date": "2025-08-11",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧",
+        "爱情",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "2000-01-01(中国大陆) / 徐峥 / 陶虹 / 孙兴 / 李立群 / 陈红 / 翁虹 / 屈中恒 / 钮承泽 / 嘉玲 / 王伯昭 / 中国大陆 / 范小天 / 梦继 / 叶伟信 / 45分钟 / 剧情 / 喜剧 / 爱情 / 古装 / 张炭 Cheung Tan / 汉语普通话",
+      "people": [
+        "徐峥",
+        "陶虹",
+        "孙兴",
+        "李立群",
+        "陈红",
+        "翁虹",
+        "屈中恒",
+        "钮承泽",
+        "嘉玲",
+        "王伯昭",
+        "范小天",
+        "梦继",
+        "叶伟信",
+        "张炭 Cheung Tan"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554028430.jpg"
+    },
+    {
+      "id": "2210236",
+      "cid": "4612134367",
+      "title": "济公",
+      "aka": [
+        "[可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2210236/",
+      "cover": "data/posters/2210236.jpg",
+      "year": "1985",
+      "mark_date": "2025-08-11",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "喜剧",
+        "奇幻",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "1985-09-03(中国大陆) / 游本昌 / 吕凉 / 廖有梁 / 宦柳眉 / 战士强 / 龚莹 / 田二喜 / 施正泉 / 许承先 / 史济华 / 中国大陆 / 张戈 / 45分钟 / 喜剧 / 奇幻 / 古装 / 乔谷凡 Gufan Qiao / 汉语普通话",
+      "people": [
+        "游本昌",
+        "吕凉",
+        "廖有梁",
+        "宦柳眉",
+        "战士强",
+        "龚莹",
+        "田二喜",
+        "施正泉",
+        "许承先",
+        "史济华",
+        "张戈",
+        "乔谷凡 Gufan Qiao"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2635001084.jpg"
+    },
+    {
+      "id": "1308111",
+      "cid": "4612134249",
+      "title": "钟无艳",
+      "aka": [
+        "鍾無艷",
+        "Chung mo yim",
+        "Wu Yen [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1308111/",
+      "cover": "data/posters/1308111.jpg",
+      "year": "2001",
+      "mark_date": "2025-08-11",
+      "rating": 3,
+      "comment": "最近一直刷到",
+      "countries": [
+        "中国香港"
+      ],
+      "genres": [
+        "喜剧",
+        "奇幻",
+        "古装"
+      ],
+      "languages": [
+        "粤语"
+      ],
+      "runtime": "123分钟",
+      "intro_raw": "2001-01-18(中国香港) / 郑秀文 / 梅艳芳 / 张柏芝 / 黄浩然 / 林雪 / 王天林 / 许绍雄 / 李茏怡 / 秦煌 / 艾威 / 中国香港 / 杜琪峰 / 韦家辉 / 123分钟 / 钟无艳 / 喜剧 / 奇幻 / 古装 / 黄劲辉 Ben Wong / 韦家辉 / 游乃海 / 粤语",
+      "people": [
+        "郑秀文",
+        "梅艳芳",
+        "张柏芝",
+        "黄浩然",
+        "林雪",
+        "王天林",
+        "许绍雄",
+        "李茏怡",
+        "秦煌",
+        "艾威",
+        "杜琪峰",
+        "韦家辉",
+        "钟无艳",
+        "黄劲辉 Ben Wong",
+        "韦家辉",
+        "游乃海"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899751781.jpg"
+    },
+    {
+      "id": "3711724",
+      "cid": "4612133800",
+      "title": "大脚马皇后",
+      "aka": [
+        "[可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/3711724/",
+      "cover": "data/posters/3711724.jpg",
+      "year": "",
+      "mark_date": "2025-08-11",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "唐国强 / 马仑 / 高虎 / 林静 / 蒋欣 / 谢沅江 / 张志红 / 张定涵 / 马浴柯 / 李华 / 中国大陆 / 周晓文 / 刘崇峰 / 45分钟 / 剧情 / 喜剧 / 古装 / 胡正言 Zhengyan Hu / 汉语普通话",
+      "people": [
+        "唐国强",
+        "马仑",
+        "高虎",
+        "林静",
+        "蒋欣",
+        "谢沅江",
+        "张志红",
+        "张定涵",
+        "马浴柯",
+        "李华",
+        "周晓文",
+        "刘崇峰",
+        "胡正言 Zhengyan Hu"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2155220291.jpg"
+    },
+    {
+      "id": "2157150",
+      "cid": "4612133400",
+      "title": "少年包青天2",
+      "aka": [
+        "少年包青天Ⅱ",
+        "[可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2157150/",
+      "cover": "data/posters/2157150.jpg",
+      "year": "2001",
+      "mark_date": "2025-08-11",
+      "rating": 3,
+      "comment": "小时候很害怕（",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "悬疑",
+        "犯罪",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "43分钟",
+      "intro_raw": "2001-08-07(中国大陆) / 陆毅 / 任泉 / 释小龙 / 范冰冰 / 李卉 / 佟大为 / 刘晓虎 / 刘威 / 周蕾 / 蒋婧 / 中国大陆 / 曾谨 / 43分钟 / 少年包青天2 / 剧情 / 悬疑 / 犯罪 / 古装 / 刘毅 Yi Liu / 汉语普通话",
+      "people": [
+        "陆毅",
+        "任泉",
+        "释小龙",
+        "范冰冰",
+        "李卉",
+        "佟大为",
+        "刘晓虎",
+        "刘威",
+        "周蕾",
+        "蒋婧",
+        "曾谨",
+        "少年包青天2",
+        "刘毅 Yi Liu"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2572370124.jpg"
+    },
+    {
+      "id": "3670435",
+      "cid": "4612133203",
+      "title": "宝莲灯前传",
+      "aka": [
+        "Lotus Lantern Prequel [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/3670435/",
+      "cover": "data/posters/3670435.jpg",
+      "year": "2009",
+      "mark_date": "2025-08-11",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "爱情",
+        "武侠",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "2009-04-14(中国大陆) / 焦恩俊 / 周扬 / 刘晓庆 / 王卫国 / 陈创 / 谢宁 / 林湘萍 / 刘希媛 / 李光洁 / 刘涛 / 中国大陆 / 余明生 / 周国栋 / 45分钟 / 爱情 / 武侠 / 古装 / 鬼怪 / 九年 Nian Jiu / 汉语普通话",
+      "people": [
+        "焦恩俊",
+        "周扬",
+        "刘晓庆",
+        "王卫国",
+        "陈创",
+        "谢宁",
+        "林湘萍",
+        "刘希媛",
+        "李光洁",
+        "刘涛",
+        "余明生",
+        "周国栋",
+        "鬼怪",
+        "九年 Nian Jiu"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2199805316.jpg"
+    },
+    {
+      "id": "2303265",
+      "cid": "4612112732",
+      "title": "少年杨家将",
+      "aka": [
+        "[可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2303265/",
+      "cover": "data/posters/2303265.jpg",
+      "year": "2006",
+      "mark_date": "2025-08-11",
+      "rating": 4,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "2006-09-26(中国大陆) / 胡歌 / 彭于晏 / 何润东 / 陈龙 / 袁弘 / 林家宇 / 刘诗诗 / 翁家明 / 陈秀雯 / 赵梓存 / 中国大陆 / 卫翰韬 / 梁胜权 / 李国立 / 45分钟 / 剧情 / 古装 / 王莉芝 Lizhi Wang / 张冕 / 汉语普通话",
+      "people": [
+        "胡歌",
+        "彭于晏",
+        "何润东",
+        "陈龙",
+        "袁弘",
+        "林家宇",
+        "刘诗诗",
+        "翁家明",
+        "陈秀雯",
+        "赵梓存",
+        "卫翰韬",
+        "梁胜权",
+        "李国立",
+        "王莉芝 Lizhi Wang",
+        "张冕"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2326998909.jpg"
+    },
+    {
+      "id": "7564975",
+      "cid": "4612112513",
+      "title": "风中奇缘",
+      "aka": [
+        "星月传奇",
+        "大漠谣 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/7564975/",
+      "cover": "data/posters/7564975.jpg",
+      "year": "2014",
+      "mark_date": "2025-08-11",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "2014-10-01(中国大陆) / 刘诗诗 / 彭于晏 / 胡歌 / 陈法拉 / 秦昊 / 韩栋 / 张可颐 / 石筱群 / 田蕊妮 / 吴庆哲 / 中国大陆 / 李国立 / 45分钟 / 剧情 / 古装 / 王莉芝 Lei Chi Wong / 桐华 Hua Tong / 汉语普通话",
+      "people": [
+        "刘诗诗",
+        "彭于晏",
+        "胡歌",
+        "陈法拉",
+        "秦昊",
+        "韩栋",
+        "张可颐",
+        "石筱群",
+        "田蕊妮",
+        "吴庆哲",
+        "李国立",
+        "王莉芝 Lei Chi Wong",
+        "桐华 Hua Tong"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2201684433.jpg"
+    },
+    {
+      "id": "2303259",
+      "cid": "4612112416",
+      "title": "天外飞仙",
+      "aka": [
+        "Fairy From The Wonderland [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2303259/",
+      "cover": "data/posters/2303259.jpg",
+      "year": "2006",
+      "mark_date": "2025-08-11",
+      "rating": 4,
+      "comment": "",
+      "countries": [
+        "中国大陆",
+        "中国台湾"
+      ],
+      "genres": [
+        "爱情",
+        "奇幻",
+        "古装"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "47分钟",
+      "intro_raw": "2006-08-04(中国大陆) / 胡歌 / 林依晨 / 李勤勤 / 赵亮 / 谢君豪 / 郭妃丽 / 窦智孔 / 吕一 / 唐宸禹 / 韩雪 / 中国大陆 / 中国台湾 / 黄伟明 / 王少杰 / 梁胜权 / 李国立 / 47分钟 / 爱情 / 奇幻 / 古装 / 邓紫珊 Zishan Deng / 汉语普通话",
+      "people": [
+        "胡歌",
+        "林依晨",
+        "李勤勤",
+        "赵亮",
+        "谢君豪",
+        "郭妃丽",
+        "窦智孔",
+        "吕一",
+        "唐宸禹",
+        "韩雪",
+        "黄伟明",
+        "王少杰",
+        "梁胜权",
+        "李国立",
+        "邓紫珊 Zishan Deng"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2880899086.jpg"
+    },
+    {
+      "id": "3732699",
+      "cid": "4612112288",
+      "title": "神话",
+      "aka": [
+        "The Myth [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/3732699/",
+      "cover": "data/posters/3732699.jpg",
+      "year": "2010",
+      "mark_date": "2025-08-11",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "动作",
+        "奇幻"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "46分钟",
+      "intro_raw": "2010-01-02(中国大陆) / 胡歌 / 白冰 / 张世 / 任泉 / 陈紫函 / 金莎 / 李易祥 / 谭凯 / 张萌 / 周野芒 / 中国大陆 / 蒋家骏 / 46分钟 / 剧情 / 动作 / 奇幻 / 李海蜀 Haishu Li / 汉语普通话",
+      "people": [
+        "胡歌",
+        "白冰",
+        "张世",
+        "任泉",
+        "陈紫函",
+        "金莎",
+        "李易祥",
+        "谭凯",
+        "张萌",
+        "周野芒",
+        "蒋家骏",
+        "李海蜀 Haishu Li"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1702304944.jpg"
     },
     {
       "id": "25994712",
@@ -14306,7 +15007,7 @@
       "aka": [
         "L&#39;amour l&#39;après-midi",
         "下午的爱情",
-        "契洛埃在下午"
+        "契洛埃在下午 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1293963/",
       "cover": "data/posters/1293963.jpg",
@@ -14432,7 +15133,7 @@
       "aka": [
         "La boulangère de Monceau",
         "蒙索的女面包师",
-        "三心两意"
+        "三心两意 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1394348/",
       "cover": "data/posters/1394348.jpg",
@@ -17901,7 +18602,7 @@
       "aka": [
         "あの夏、いちばん静かな海。",
         "那年夏天最宁静的海",
-        "夏日，在寂静的海边"
+        "夏日，在寂静的海边 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1295815/",
       "cover": "data/posters/1295815.jpg",
@@ -19317,7 +20018,7 @@
       "aka": [
         "伊豆の踊子",
         "伊豆舞女",
-        "The Izu Dancer"
+        "The Izu Dancer [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1421733/",
       "cover": "data/posters/1421733.jpg",
@@ -21146,7 +21847,7 @@
       "cid": "3785616824",
       "title": "虚颜",
       "aka": [
-        "A Familiar Stranger"
+        "A Familiar Stranger [可播放]"
       ],
       "url": "https://movie.douban.com/subject/35924066/",
       "cover": "data/posters/35924066.jpg",
@@ -21783,7 +22484,7 @@
       "cid": "3785611045",
       "title": "念念无明",
       "aka": [
-        "The Killer Is Also Romantic"
+        "The Killer Is Also Romantic [可播放]"
       ],
       "url": "https://movie.douban.com/subject/35859226/",
       "cover": "data/posters/35859226.jpg",
@@ -23498,7 +24199,7 @@
       "aka": [
         "Зеркало",
         "写真",
-        "Zerkalo"
+        "Zerkalo [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1299248/",
       "cover": "data/posters/1299248.jpg",
@@ -25634,7 +26335,7 @@
       "title": "八十天环游地球 第一季",
       "aka": [
         "Around the World in 80 Days Season 1",
-        "环游地球八十天"
+        "环游地球八十天 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/33384233/",
       "cover": "data/posters/33384233.jpg",
@@ -31478,7 +32179,7 @@
       "aka": [
         "HANA-BI",
         "はなび",
-        "Fireworks"
+        "Fireworks [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1302642/",
       "cover": "data/posters/1302642.jpg",
@@ -33752,7 +34453,7 @@
       "aka": [
         "The Matrix Revolutions",
         "22世纪杀人网络3：惊变世纪(港)",
-        "骇客任务完结篇：最后战役(台)"
+        "骇客任务完结篇：最后战役(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1302467/",
       "cover": "data/posters/1302467.jpg",
@@ -34863,7 +35564,7 @@
       "aka": [
         "The Matrix",
         "22世纪杀人网络(港)",
-        "廿二世纪杀人网络(港)"
+        "廿二世纪杀人网络(港) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1291843/",
       "cover": "data/posters/1291843.jpg",
@@ -35681,7 +36382,7 @@
         "意大利语"
       ],
       "runtime": "126分钟",
-      "intro_raw": "1998-10-28(意大利) / 2019-11-15(中国大陆) / 2024-11-15(中国大陆重映) / 蒂姆·罗斯 / 普路特·泰勒·文斯 / 比尔·努恩 / 克兰伦斯·威廉姆斯三世 / 梅兰尼·蒂埃里 / 皮特·沃恩 / 尼尔·奥布赖恩 / 阿尔贝托·巴斯克斯 / 加布里埃莱·拉维亚 / 科里·巴克 / 意大利 / 朱塞佩·托纳多雷 / 120分钟(国际版) / 170分钟(加长版) / 126分钟 / 海上钢琴师 / 剧情 / 音乐 / 亚利桑德罗·巴里克 Alessandro Baricco / 朱塞佩·托纳多雷 Giuseppe Tornatore / 英语 / 法语 / 意大利语",
+      "intro_raw": "1998-10-28(意大利) / 2019-11-15(中国大陆) / 2024-11-15(中国大陆重映) / 2026-11-13(中国大陆重映) / 蒂姆·罗斯 / 普路特·泰勒·文斯 / 比尔·努恩 / 克兰伦斯·威廉姆斯三世 / 梅兰尼·蒂埃里 / 皮特·沃恩 / 尼尔·奥布赖恩 / 阿尔贝托·巴斯克斯 / 加布里埃莱·拉维亚 / 科里·巴克 / 意大利 / 朱塞佩·托纳多雷 / 120分钟(国际版) / 170分钟(加长版) / 126分钟 / 海上钢琴师 / 剧情 / 音乐 / 亚利桑德罗·巴里克 Alessandro Baricco / 朱塞佩·托纳多雷 Giuseppe Tornatore / 英语 / 法语 / 意大利语",
       "people": [
         "蒂姆·罗斯",
         "普路特·泰勒·文斯",
@@ -36083,7 +36784,7 @@
         "肖申克的救赎",
         "弗兰克·德拉邦特 Frank Darabont"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934829882.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936346968.jpg"
     },
     {
       "id": "1291546",
@@ -36467,7 +37168,7 @@
       "aka": [
         "賭城風雲III",
         "赌城风云III(港)",
-        "The Man From Macau 3"
+        "The Man From Macau 3 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/26334559/",
       "cover": "data/posters/26334559.jpg",
