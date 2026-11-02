@@ -2,10 +2,798 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 803,
-  "fetched": 786,
-  "fetched_at": "2026-11-01T05:19:11+0000",
+  "total_declared": 804,
+  "fetched": 802,
+  "fetched_at": "2026-11-02T05:19:29+0000",
   "movies": [
+    {
+      "id": "35010610",
+      "cid": "4979786637",
+      "title": "挽救计划",
+      "aka": [
+        "Project Hail Mary",
+        "极限返航(台)",
+        "末日圣母号(港) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35010610/",
+      "cover": "data/posters/35010610.jpg",
+      "year": "2026",
+      "mark_date": "2026-11-02",
+      "rating": 5,
+      "comment": "不想回地球",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "科幻",
+        "惊悚"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "156分钟",
+      "intro_raw": "2026-03-18(中国台湾) / 2026-03-20(美国/中国大陆) / 瑞恩·高斯林 / 桑德拉·惠勒 / 詹姆斯·奥尔蒂斯 / 莱昂内尔·博伊斯 / 梁振邦 / 米拉娜·薇恩翠 / 普里亚·坎萨拉 / 利兹·金斯曼 / 马拉基·卡比 / 梅丽尔·斯特里普 / 美国 / 菲尔·罗德 / 克里斯托弗·米勒 / 2026-03-13 / 156分钟 / 挽救计划 / 剧情 / 科幻 / 惊悚 / 德鲁·戈达德 Drew Goddard / 英语",
+      "people": [
+        "中国大陆)",
+        "瑞恩·高斯林",
+        "桑德拉·惠勒",
+        "詹姆斯·奥尔蒂斯",
+        "莱昂内尔·博伊斯",
+        "梁振邦",
+        "米拉娜·薇恩翠",
+        "普里亚·坎萨拉",
+        "利兹·金斯曼",
+        "马拉基·卡比",
+        "梅丽尔·斯特里普",
+        "菲尔·罗德",
+        "克里斯托弗·米勒",
+        "挽救计划",
+        "德鲁·戈达德 Drew Goddard"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931370692.jpg"
+    },
+    {
+      "id": "37083807",
+      "cid": "4978207088",
+      "title": "爱语",
+      "aka": [
+        "Love Language"
+      ],
+      "url": "https://movie.douban.com/subject/37083807/",
+      "cover": "data/posters/37083807.jpg",
+      "year": "2026",
+      "mark_date": "2026-10-30",
+      "rating": 3,
+      "comment": "看了评论才明白大学暗恋对象是个渣男（眼神拉丝真好帅），而我还当是nostalgia皆幻觉😵‍💫",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧",
+        "爱情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "104分钟",
+      "intro_raw": "2026-03-16(西南偏南电影节) / 2026-10-23(美国/美国网络) / 科洛·葛蕾丝·莫瑞兹 / 安东尼·拉莫斯 / 比莉·洛德 / 伊莎贝尔·梅 / 曼尼·贾希尼托 / 克洛伊·菲内曼 / 卢卡斯·盖奇 / 丹尼尔·戴维·斯图尔特 / 斯蒂芬·施耐德 / 丹·佩罗 / 美国 / 乔伊·鲍沃尔 / 104分钟 / 爱语 / 喜剧 / 爱情 / 乔伊·鲍沃尔 Joey Power / 英语",
+      "people": [
+        "美国网络)",
+        "科洛·葛蕾丝·莫瑞兹",
+        "安东尼·拉莫斯",
+        "比莉·洛德",
+        "伊莎贝尔·梅",
+        "曼尼·贾希尼托",
+        "克洛伊·菲内曼",
+        "卢卡斯·盖奇",
+        "丹尼尔·戴维·斯图尔特",
+        "斯蒂芬·施耐德",
+        "丹·佩罗",
+        "乔伊·鲍沃尔",
+        "爱语",
+        "乔伊·鲍沃尔 Joey Power"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936685427.jpg"
+    },
+    {
+      "id": "36772727",
+      "cid": "4975996071",
+      "title": "500英里",
+      "aka": [
+        "500 Miles"
+      ],
+      "url": "https://movie.douban.com/subject/36772727/",
+      "cover": "data/posters/36772727.jpg",
+      "year": "2026",
+      "mark_date": "2026-10-27",
+      "rating": 3,
+      "comment": "Train",
+      "countries": [
+        "英国",
+        "爱尔兰"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "102分钟",
+      "intro_raw": "2026-02-27(都柏林电影节) / 2026-05-15(爱尔兰) / 迪尔德丽·莫娜汉 / 洛雷·阿德乌西 / 德克斯特·索尔·安塞尔 / 欧因·达菲 / 克莱尔·邓恩 / 罗曼·格里芬·戴维斯 / 肖娜·哈里斯 / 史蒂夫·哈特兰 / 比尔·奈伊 / 大卫·赖恩 / 英国 / 爱尔兰 / 塞浦路斯 / 摩根·马修斯 / 102分钟 / 500英里 / 剧情 / Malcolm Campbell / 英语",
+      "people": [
+        "迪尔德丽·莫娜汉",
+        "洛雷·阿德乌西",
+        "德克斯特·索尔·安塞尔",
+        "欧因·达菲",
+        "克莱尔·邓恩",
+        "罗曼·格里芬·戴维斯",
+        "肖娜·哈里斯",
+        "史蒂夫·哈特兰",
+        "比尔·奈伊",
+        "大卫·赖恩",
+        "塞浦路斯",
+        "摩根·马修斯",
+        "500英里",
+        "Malcolm Campbell"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932686404.jpg"
+    },
+    {
+      "id": "37068446",
+      "cid": "4966748424",
+      "title": "生化危机：爆发夜",
+      "aka": [
+        "Resident Evil",
+        "生化危机 重启版",
+        "恶灵古堡：爆发夜(台)"
+      ],
+      "url": "https://movie.douban.com/subject/37068446/",
+      "cover": "data/posters/37068446.jpg",
+      "year": "2026",
+      "mark_date": "2026-10-15",
+      "rating": 3,
+      "comment": "主要是恶心",
+      "countries": [
+        "德国",
+        "法国",
+        "美国"
+      ],
+      "genres": [
+        "科幻",
+        "惊悚",
+        "恐怖"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "94分钟",
+      "intro_raw": "2026-09-16(法国) / 2026-09-18(美国) / 2026-10-05(中国大陆) / 奥斯汀·艾布拉姆斯 / 扎克·切利 / 卡莉·瑞斯 / 保罗·沃尔特·豪泽 / 安德莉亚·米尔特纳 / 萨拉·帕克斯顿 / 威尔·梅瑞克 / 约翰诺·威尔逊 / 卡雷尔·多布雷 / 佐伊·贝拉斯 / 德国 / 法国 / 美国 / 扎克·克雷格 / 94分钟 / 生化危机：爆发夜 / 科幻 / 惊悚 / 恐怖 / 扎克·克雷格 Zach Cregger / 谢伊·哈顿 Shay Hatten / 英语",
+      "people": [
+        "奥斯汀·艾布拉姆斯",
+        "扎克·切利",
+        "卡莉·瑞斯",
+        "保罗·沃尔特·豪泽",
+        "安德莉亚·米尔特纳",
+        "萨拉·帕克斯顿",
+        "威尔·梅瑞克",
+        "约翰诺·威尔逊",
+        "卡雷尔·多布雷",
+        "佐伊·贝拉斯",
+        "扎克·克雷格",
+        "生化危机：爆发夜",
+        "扎克·克雷格 Zach Cregger",
+        "谢伊·哈顿 Shay Hatten"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2936442661.jpg"
+    },
+    {
+      "id": "36882191",
+      "cid": "4950043057",
+      "title": "八仙！",
+      "aka": [
+        "八仙之瞒天过海",
+        "All Wishes Come True!"
+      ],
+      "url": "https://movie.douban.com/subject/36882191/",
+      "cover": "data/posters/36882191.jpg",
+      "year": "2026",
+      "mark_date": "2026-09-23",
+      "rating": 3,
+      "comment": "以为可以反转了结果还有反转",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "喜剧",
+        "动画",
+        "奇幻",
+        "冒险"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "144分钟",
+      "intro_raw": "2026-07-18(中国大陆) / 陈浩 / 李绍哲 / 立冬 / 果子哥哥 / 董天弋 / 喻鹏力 / 黄豫硕 / 张运气 / 邓先森 / 曹知善 / 中国大陆 / 牟正洋 / 2026-07-08 21:20 / 144分钟 / 喜剧 / 动画 / 奇幻 / 冒险 / 牟正洋 / 汉语普通话",
+      "people": [
+        "陈浩",
+        "李绍哲",
+        "立冬",
+        "果子哥哥",
+        "董天弋",
+        "喻鹏力",
+        "黄豫硕",
+        "张运气",
+        "邓先森",
+        "曹知善",
+        "牟正洋",
+        "牟正洋"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934074566.jpg"
+    },
+    {
+      "id": "36851144",
+      "cid": "4947982361",
+      "title": "五星周末 第一季",
+      "aka": [
+        "The Five Star Weekend Season 1",
+        "五星级周末",
+        "The Five-Star Weekend"
+      ],
+      "url": "https://movie.douban.com/subject/36851144/",
+      "cover": "data/posters/36851144.jpg",
+      "year": "2026",
+      "mark_date": "2026-09-20",
+      "rating": 5,
+      "comment": "好丰满的2天，好爱gigi的扮演者，原来在dw中演过！",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "40分钟",
+      "intro_raw": "2026-07-09(美国网络) / 詹妮弗·加纳 / 雷吉娜·赫尔 / 达茜·卡尔登 / 科洛·塞维尼 / 哈洛·简 / 嘉玛·陈 / 亨利·艾肯伯里 / 维拉.洛弗尔 / 罗伯塔·科林德雷斯 / Morrison Keddie / 美国 / 詹妮弗·莫里森 / 明基·斯皮罗 / 五星周末 / 40分钟 / 五星周末 / 剧情 / 丽贝卡·布鲁斯特 Rebecca Brunstetter / 艾琳·希尔德布兰 艾琳·希尔德布兰 / 贝丝·史克特 Beth Schacter / Vivian Barnes / Fernanda Coppel / Bixby Elliot / 阿贾·加贝尔 Aja Gabel / Isabella Rodriguez / Mackenzie Yeager / 英语",
+      "people": [
+        "詹妮弗·加纳",
+        "雷吉娜·赫尔",
+        "达茜·卡尔登",
+        "科洛·塞维尼",
+        "哈洛·简",
+        "嘉玛·陈",
+        "亨利·艾肯伯里",
+        "维拉.洛弗尔",
+        "罗伯塔·科林德雷斯",
+        "Morrison Keddie",
+        "詹妮弗·莫里森",
+        "明基·斯皮罗",
+        "五星周末",
+        "五星周末",
+        "丽贝卡·布鲁斯特 Rebecca Brunstetter",
+        "艾琳·希尔德布兰 艾琳·希尔德布兰",
+        "贝丝·史克特 Beth Schacter",
+        "Vivian Barnes",
+        "Fernanda Coppel",
+        "Bixby Elliot",
+        "阿贾·加贝尔 Aja Gabel",
+        "Isabella Rodriguez",
+        "Mackenzie Yeager"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934238849.jpg"
+    },
+    {
+      "id": "35371629",
+      "cid": "4939819557",
+      "title": "维和防暴队",
+      "aka": [
+        "中国维和警察",
+        "Formed Police Unit [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35371629/",
+      "cover": "data/posters/35371629.jpg",
+      "year": "2024",
+      "mark_date": "2026-09-08",
+      "rating": 2,
+      "comment": "虽然爱一博但是",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "动作"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "101分钟",
+      "intro_raw": "2024-05-01(中国大陆) / 黄景瑜 / 王一博 / 钟楚曦 / 欧豪 / 朱亚文 / 谷嘉诚 / 赵华为 / 木兰 / 白那日苏 / 余沛杉 / 中国大陆 / 李达超 / 101分钟 / 剧情 / 动作 / 吴孟璋 Mengzhang Wu / 嘉莉安 / 汉语普通话",
+      "people": [
+        "黄景瑜",
+        "王一博",
+        "钟楚曦",
+        "欧豪",
+        "朱亚文",
+        "谷嘉诚",
+        "赵华为",
+        "木兰",
+        "白那日苏",
+        "余沛杉",
+        "李达超",
+        "吴孟璋 Mengzhang Wu",
+        "嘉莉安"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2907613569.jpg"
+    },
+    {
+      "id": "26931786",
+      "cid": "4939818875",
+      "title": "蜘蛛侠：英雄远征",
+      "aka": [
+        "Spider-Man: Far from Home",
+        "蜘蛛侠：决战千里(港)",
+        "蜘蛛人：离家日(台) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/26931786/",
+      "cover": "data/posters/26931786.jpg",
+      "year": "2019",
+      "mark_date": "2026-09-08",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "动作",
+        "科幻",
+        "冒险"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "129分钟",
+      "intro_raw": "2019-06-28(中国大陆) / 2019-07-02(美国) / 汤姆·霍兰德 / 赞达亚 / 杰克·吉伦哈尔 / 塞缪尔·杰克逊 / 寇碧·史莫德斯 / 乔恩·费儒 / 玛丽莎·托梅 / 雅各布·贝塔隆 / 安格瑞·赖斯 / 马丁·斯塔尔 / 美国 / www.spidermanfarfromhome.movie/ / 乔恩·沃茨 / 129分钟 / 蜘蛛侠：英雄远征 / 动作 / 科幻 / 冒险 / 克里斯·麦克纳 Chris McKenna / 埃里克·萨默斯 Erik Sommers / 史蒂夫·迪特寇 Steve Ditko / 斯坦·李 Stan Lee / 英语",
+      "people": [
+        "汤姆·霍兰德",
+        "赞达亚",
+        "杰克·吉伦哈尔",
+        "塞缪尔·杰克逊",
+        "寇碧·史莫德斯",
+        "乔恩·费儒",
+        "玛丽莎·托梅",
+        "雅各布·贝塔隆",
+        "安格瑞·赖斯",
+        "马丁·斯塔尔",
+        "www.spidermanfarfromhome.movie",
+        "乔恩·沃茨",
+        "蜘蛛侠：英雄远征",
+        "克里斯·麦克纳 Chris McKenna",
+        "埃里克·萨默斯 Erik Sommers",
+        "史蒂夫·迪特寇 Steve Ditko",
+        "斯坦·李 Stan Lee"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558293106.jpg"
+    },
+    {
+      "id": "36845423",
+      "cid": "4938180208",
+      "title": "曼哈顿打拼日记",
+      "aka": [
+        "Not Suitable for Work",
+        "工作不宜",
+        "Murray Hill"
+      ],
+      "url": "https://movie.douban.com/subject/36845423/",
+      "cover": "data/posters/36845423.jpg",
+      "year": "2026",
+      "mark_date": "2026-09-05",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2026-06-02(美国) / 艾拉·亨特 / 阿凡提卡·万达纳普 / 威廉·安格斯 / 杰克·马丁 / 尼古拉斯·杜威内 / 杰·埃利斯 / 巴威石·帕特尔 / 梅·洪 / 哈里·理查森 / 朱迪·戈德 / 美国 /  / 30分钟 / 曼哈顿打拼日记 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 英语",
+      "people": [
+        "艾拉·亨特",
+        "阿凡提卡·万达纳普",
+        "威廉·安格斯",
+        "杰克·马丁",
+        "尼古拉斯·杜威内",
+        "杰·埃利斯",
+        "巴威石·帕特尔",
+        "梅·洪",
+        "哈里·理查森",
+        "朱迪·戈德",
+        "曼哈顿打拼日记",
+        "敏迪·卡灵 Mindy Kaling"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932253885.jpg"
+    },
+    {
+      "id": "35811064",
+      "cid": "4913792543",
+      "title": "欢迎来龙餐馆",
+      "aka": [
+        "Once Upon a Time in the Middle East"
+      ],
+      "url": "https://movie.douban.com/subject/35811064/",
+      "cover": "data/posters/35811064.jpg",
+      "year": "2026",
+      "mark_date": "2026-08-09",
+      "rating": 4,
+      "comment": "没看之前以为是个海外华人喜剧发家史，龙餐馆这个名字也太唐人街了。看完发现1.严肃的战争片，很应景，看的时候完全不敢松懈，虽然猜得到下一步但依旧害怕，儿童千万别放进来，限制级。2.中国电影又支愣了，适合外宣但怎么没英文字幕？ 3.导演居然就是导我不是药神的那位，好克制。",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "战争"
+      ],
+      "languages": [
+        "汉语普通话",
+        "阿拉伯语",
+        "英语"
+      ],
+      "runtime": "140分钟",
+      "intro_raw": "2026-08-11(中国大陆) / 沈腾 / 蒋奇明 / 奥马尔·谢里夫 / 李治廷 / 谢里夫·萨比 / 艾哈迈德·塞利姆 / 法鲁克·穆罕穆德 / 拉塞尔·希利 / 奈拉·阿克西姆 / 卡尔玛·哈齐姆 / 中国大陆 / 文牧野 / 2026-08-08 16:20 / 140分钟 / 剧情 / 战争 / 文牧野 Muye Wen / 郎群力 Qunli Lang / 钟伟 Wei Zhong / 汉语普通话 / 阿拉伯语 / 英语",
+      "people": [
+        "沈腾",
+        "蒋奇明",
+        "奥马尔·谢里夫",
+        "李治廷",
+        "谢里夫·萨比",
+        "艾哈迈德·塞利姆",
+        "法鲁克·穆罕穆德",
+        "拉塞尔·希利",
+        "奈拉·阿克西姆",
+        "卡尔玛·哈齐姆",
+        "文牧野",
+        "文牧野 Muye Wen",
+        "郎群力 Qunli Lang",
+        "钟伟 Wei Zhong"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935109312.jpg"
+    },
+    {
+      "id": "1900121",
+      "cid": "4906313850",
+      "title": "波特小姐",
+      "aka": [
+        "Miss Potter",
+        "波特小姐：比得兔的故事(港)",
+        "波特小姐：比得兔的诞生(台) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1900121/",
+      "cover": "data/posters/1900121.jpg",
+      "year": "2007",
+      "mark_date": "2026-08-01",
+      "rating": 4,
+      "comment": "舒适的英国乡村生活！",
+      "countries": [
+        "英国",
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "传记"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "88分钟",
+      "intro_raw": "2007-01-05(英国) / 蕾妮·齐薇格 / 伊万·麦克格雷格 / 艾米丽·沃森 / 芭芭拉·弗林 / 比尔·帕特森 / 劳埃德·欧文 / 约翰·伍德温 / 菲丽达·劳 / 戴维·鲍姆伯 / Judith Barker / 英国 / 美国 / 马恩岛 / 克里斯·努安 / 88分钟 / 波特小姐 / 剧情 / 传记 / 理查德·迈特比 Richard Maltby Jr. / 英语",
+      "people": [
+        "蕾妮·齐薇格",
+        "伊万·麦克格雷格",
+        "艾米丽·沃森",
+        "芭芭拉·弗林",
+        "比尔·帕特森",
+        "劳埃德·欧文",
+        "约翰·伍德温",
+        "菲丽达·劳",
+        "戴维·鲍姆伯",
+        "Judith Barker",
+        "马恩岛",
+        "克里斯·努安",
+        "波特小姐",
+        "理查德·迈特比 Richard Maltby Jr."
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p788078742.jpg"
+    },
+    {
+      "id": "30122641",
+      "cid": "4898030839",
+      "title": "难以置信",
+      "aka": [
+        "Unbelievable",
+        "不可置信(港)",
+        "难，置信(台)"
+      ],
+      "url": "https://movie.douban.com/subject/30122641/",
+      "cover": "data/posters/30122641.jpg",
+      "year": "2019",
+      "mark_date": "2026-07-24",
+      "rating": 5,
+      "comment": "姐姐妹妹都好棒！",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "犯罪"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "58分钟",
+      "intro_raw": "2019-09-13(美国) / 梅里特·韦弗 / 托妮·科莱特 / 凯特琳·德弗 / 丹妮尔·麦克唐纳 / 戴尔·迪奇 / 莉萨·拉皮拉 / 卡伊·伦诺克斯 / 布莱克·埃利斯 / 奥马尔·马卡迪 / 奥斯汀·赫伯特 / 美国 / 丽莎·查罗登科 / 迈克尔·丁纳 / 苏珊娜·格兰特 / 难以置信 / 58分钟 / 难以置信 / 剧情 / 犯罪 / 苏珊娜·格兰特 Susannah Grant / 迈克尔·夏邦 Michael Chabon / Becky Mode / Ayelet Waldman / 珍妮弗·舒尔 Jennifer Schuur / 肯·阿姆斯特朗 Ken Armstrong / T·克里斯蒂安·米勒 T. Christian Miller / 英语",
+      "people": [
+        "梅里特·韦弗",
+        "托妮·科莱特",
+        "凯特琳·德弗",
+        "丹妮尔·麦克唐纳",
+        "戴尔·迪奇",
+        "莉萨·拉皮拉",
+        "卡伊·伦诺克斯",
+        "布莱克·埃利斯",
+        "奥马尔·马卡迪",
+        "奥斯汀·赫伯特",
+        "丽莎·查罗登科",
+        "迈克尔·丁纳",
+        "苏珊娜·格兰特",
+        "难以置信",
+        "难以置信",
+        "苏珊娜·格兰特 Susannah Grant",
+        "迈克尔·夏邦 Michael Chabon",
+        "Becky Mode",
+        "Ayelet Waldman",
+        "珍妮弗·舒尔 Jennifer Schuur",
+        "肯·阿姆斯特朗 Ken Armstrong",
+        "T·克里斯蒂安·米勒 T. Christian Miller"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2562989034.jpg"
+    },
+    {
+      "id": "35796339",
+      "cid": "4897215829",
+      "title": "好想做一次 第四季",
+      "aka": [
+        "Never Have I Ever Season 4",
+        "好想做一次 最终季",
+        "我从来没有"
+      ],
+      "url": "https://movie.douban.com/subject/35796339/",
+      "cover": "data/posters/35796339.jpg",
+      "year": "2023",
+      "mark_date": "2026-07-24",
+      "rating": 5,
+      "comment": "最后一季好牛，完全被治愈了🥹",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2023-06-08(美国) / 麦特里伊·拉玛克里斯南 / 嘉伦·李维森 / 达伦·巴内特 / 芮查·莫佳妮 / 李·罗德里格斯 / 雷蒙娜·杨 / 约翰·麦肯罗 / 普娜·贾甘纳坦 / 兰吉塔·查克拉瓦蒂 / 南希·纳什 / 美国 / 艾瑞克·奥雅玛 / 莉娜·汗 / 迪恩·霍兰德 / 卡比尔·阿克塔 / 亚当·康提 / 朗·费希尔 / 好想做一次 / 30分钟 / 好想做一次 / 剧情 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 朗·费希尔 Lang Fisher / 艾瑞克·奥雅玛 Erica Oyama / 加布·里德曼 Gabe Liedman / 阿米娜·穆尼尔 Amina Munir / 卡蕾·惠特 / 阿斯米塔·帕兰杰普 Asmita Paranjape / 玛丽娜·科肯伯格 Marina Cockenberg / 阿克沙拉·塞卡 Akshara Sekar / 亚伦·盖瑞 Aaron Geary / 本·斯坦纳 Ben Steiner / 英语",
+      "people": [
+        "麦特里伊·拉玛克里斯南",
+        "嘉伦·李维森",
+        "达伦·巴内特",
+        "芮查·莫佳妮",
+        "李·罗德里格斯",
+        "雷蒙娜·杨",
+        "约翰·麦肯罗",
+        "普娜·贾甘纳坦",
+        "兰吉塔·查克拉瓦蒂",
+        "南希·纳什",
+        "艾瑞克·奥雅玛",
+        "莉娜·汗",
+        "迪恩·霍兰德",
+        "卡比尔·阿克塔",
+        "亚当·康提",
+        "朗·费希尔",
+        "好想做一次",
+        "好想做一次",
+        "敏迪·卡灵 Mindy Kaling",
+        "朗·费希尔 Lang Fisher",
+        "艾瑞克·奥雅玛 Erica Oyama",
+        "加布·里德曼 Gabe Liedman",
+        "阿米娜·穆尼尔 Amina Munir",
+        "卡蕾·惠特",
+        "阿斯米塔·帕兰杰普 Asmita Paranjape",
+        "玛丽娜·科肯伯格 Marina Cockenberg",
+        "阿克沙拉·塞卡 Akshara Sekar",
+        "亚伦·盖瑞 Aaron Geary",
+        "本·斯坦纳 Ben Steiner"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892241985.jpg"
+    },
+    {
+      "id": "35571004",
+      "cid": "4896394656",
+      "title": "好想做一次 第三季",
+      "aka": [
+        "Never Have I Ever Season 3",
+        "我从来没有"
+      ],
+      "url": "https://movie.douban.com/subject/35571004/",
+      "cover": "data/posters/35571004.jpg",
+      "year": "2022",
+      "mark_date": "2026-07-23",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "32分钟",
+      "intro_raw": "2022-08-12(美国) / 麦特里伊·拉玛克里斯南 / 嘉伦·李维森 / 达伦·巴内特 / 芮查·莫佳妮 / 普娜·贾甘纳坦 / 李·罗德里格斯 / 雷蒙娜·杨 / 约翰·麦肯罗 / 安迪·萨姆伯格 / 梅根·苏丽 / 美国 / 玛姬·凯瑞 / 斯里蒂·穆德拉 / 卡比尔·阿克塔 / 阮金 / 艾瑞克·奥雅玛 / 朗·费希尔 / 好想做一次 / 32分钟 / 好想做一次 / 剧情 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 玛丽娜·科肯伯格 Marina Cockenberg / 阿斯米塔·帕兰杰普 Asmita Paranjape / 阿克沙拉·塞卡 Akshara Sekar / 加布·里德曼 Gabe Liedman / 阿米娜·穆尼尔 Amina Munir / 本·斯坦纳 Ben Steiner / 亚伦·盖瑞 Aaron Geary / 克里斯蒂娜·赫伊尔姆 Christina Hjelm / 贝丝·阿贝尔 Beth Appel / 艾瑞克·奥雅玛 Erica Oyama / 朗·费希尔 Lang Fisher / 英语",
+      "people": [
+        "麦特里伊·拉玛克里斯南",
+        "嘉伦·李维森",
+        "达伦·巴内特",
+        "芮查·莫佳妮",
+        "普娜·贾甘纳坦",
+        "李·罗德里格斯",
+        "雷蒙娜·杨",
+        "约翰·麦肯罗",
+        "安迪·萨姆伯格",
+        "梅根·苏丽",
+        "玛姬·凯瑞",
+        "斯里蒂·穆德拉",
+        "卡比尔·阿克塔",
+        "阮金",
+        "艾瑞克·奥雅玛",
+        "朗·费希尔",
+        "好想做一次",
+        "好想做一次",
+        "敏迪·卡灵 Mindy Kaling",
+        "玛丽娜·科肯伯格 Marina Cockenberg",
+        "阿斯米塔·帕兰杰普 Asmita Paranjape",
+        "阿克沙拉·塞卡 Akshara Sekar",
+        "加布·里德曼 Gabe Liedman",
+        "阿米娜·穆尼尔 Amina Munir",
+        "本·斯坦纳 Ben Steiner",
+        "亚伦·盖瑞 Aaron Geary",
+        "克里斯蒂娜·赫伊尔姆 Christina Hjelm",
+        "贝丝·阿贝尔 Beth Appel",
+        "艾瑞克·奥雅玛 Erica Oyama",
+        "朗·费希尔 Lang Fisher"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2876878128.jpg"
+    },
+    {
+      "id": "35082407",
+      "cid": "4895556369",
+      "title": "好想做一次 第二季",
+      "aka": [
+        "Never Have I Ever Season 2",
+        "我从来没有"
+      ],
+      "url": "https://movie.douban.com/subject/35082407/",
+      "cover": "data/posters/35082407.jpg",
+      "year": "2021",
+      "mark_date": "2026-07-22",
+      "rating": 4,
+      "comment": "雨夜爬床真的ohmygod",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2021-07-15(美国) / 麦特里伊·拉玛克里斯南 / 芮查·莫佳妮 / 嘉伦·李维森 / 达伦·巴内特 / 李·罗德里格斯 / 雷蒙娜·杨 / 约翰·麦肯罗 / 普娜·贾甘纳坦 / 梅根·苏丽 / 亚当·沙皮罗 / 美国 / 卡比尔·阿克塔 / 莉娜·汗 / 玛姬·盖瑞 / 特斯塔姆·莎佩罗 / 阿奴·瓦利亚 / 克莱尔·斯坎伦 / 朗·费希尔 / 好想做一次 / 30分钟 / 好想做一次 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 阿克沙拉·塞卡 Akshara Sekar / 阿米娜·穆尼尔 Amina Munir / 亚伦·盖瑞 Aaron Geary / 本·斯坦纳 Ben Steiner / 玛丽娜·科肯伯格 / 万斯·斯特林格 Vance Stringer / 阿斯米塔·帕兰杰普 / 克里斯蒂娜·赫伊尔姆 / 大卫·金 David King / 克里斯·施莱彻 / 英语",
+      "people": [
+        "麦特里伊·拉玛克里斯南",
+        "芮查·莫佳妮",
+        "嘉伦·李维森",
+        "达伦·巴内特",
+        "李·罗德里格斯",
+        "雷蒙娜·杨",
+        "约翰·麦肯罗",
+        "普娜·贾甘纳坦",
+        "梅根·苏丽",
+        "亚当·沙皮罗",
+        "卡比尔·阿克塔",
+        "莉娜·汗",
+        "玛姬·盖瑞",
+        "特斯塔姆·莎佩罗",
+        "阿奴·瓦利亚",
+        "克莱尔·斯坎伦",
+        "朗·费希尔",
+        "好想做一次",
+        "好想做一次",
+        "敏迪·卡灵 Mindy Kaling",
+        "阿克沙拉·塞卡 Akshara Sekar",
+        "阿米娜·穆尼尔 Amina Munir",
+        "亚伦·盖瑞 Aaron Geary",
+        "本·斯坦纳 Ben Steiner",
+        "玛丽娜·科肯伯格",
+        "万斯·斯特林格 Vance Stringer",
+        "阿斯米塔·帕兰杰普",
+        "克里斯蒂娜·赫伊尔姆",
+        "大卫·金 David King",
+        "克里斯·施莱彻"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2660708434.jpg"
+    },
+    {
+      "id": "34463436",
+      "cid": "4895305284",
+      "title": "好想做一次 第一季",
+      "aka": [
+        "Never Have I Ever Season 1",
+        "我从来没有"
+      ],
+      "url": "https://movie.douban.com/subject/34463436/",
+      "cover": "data/posters/34463436.jpg",
+      "year": "2020",
+      "mark_date": "2026-07-21",
+      "rating": 5,
+      "comment": "第一次get到美高drama，都是把伤痛问题前置🥹",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2020-04-27(美国) / 麦特里伊·拉玛克里斯南 / 李·罗德里格斯 / 雷蒙娜·杨 / 嘉伦·李维森 / 达伦·巴内特 / 森德希·拉玛莫西 / 普娜·贾甘纳坦 / 本杰明·诺里斯 / 芮查·莫佳妮 / 亚当·沙皮罗 / 美国 / 特斯塔姆·莎佩罗 / 琳达·门多萨 / 卡比尔·阿克塔 / 阿奴·瓦利亚 / 好想做一次 / 30分钟 / 好想做一次 / 喜剧 / 敏迪·卡灵 Mindy Kaling / 朗·费希尔 Lang Fisher / 艾瑞克·奥雅玛 Erica Oyama / 马特·沃尔伯顿 Matt Warburton / 贾斯汀·诺布尔 Justin Noble / 阿米娜·穆尼尔 Amina Munir / 克里斯·施莱彻 Chris Schleicher / 阿克沙拉·塞卡 Akshara Sekar / 英语",
+      "people": [
+        "麦特里伊·拉玛克里斯南",
+        "李·罗德里格斯",
+        "雷蒙娜·杨",
+        "嘉伦·李维森",
+        "达伦·巴内特",
+        "森德希·拉玛莫西",
+        "普娜·贾甘纳坦",
+        "本杰明·诺里斯",
+        "芮查·莫佳妮",
+        "亚当·沙皮罗",
+        "特斯塔姆·莎佩罗",
+        "琳达·门多萨",
+        "卡比尔·阿克塔",
+        "阿奴·瓦利亚",
+        "好想做一次",
+        "好想做一次",
+        "敏迪·卡灵 Mindy Kaling",
+        "朗·费希尔 Lang Fisher",
+        "艾瑞克·奥雅玛 Erica Oyama",
+        "马特·沃尔伯顿 Matt Warburton",
+        "贾斯汀·诺布尔 Justin Noble",
+        "阿米娜·穆尼尔 Amina Munir",
+        "克里斯·施莱彻 Chris Schleicher",
+        "阿克沙拉·塞卡 Akshara Sekar"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2600916370.jpg"
+    },
     {
       "id": "37067461",
       "cid": "4894124267",
