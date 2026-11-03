@@ -2,10 +2,109 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 804,
-  "fetched": 802,
-  "fetched_at": "2026-11-02T05:19:29+0000",
+  "total_declared": 806,
+  "fetched": 804,
+  "fetched_at": "2026-11-03T06:01:28+0000",
   "movies": [
+    {
+      "id": "36452545",
+      "cid": "4980234785",
+      "title": "功夫女足",
+      "aka": [
+        "女足",
+        "少林女足 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/36452545/",
+      "cover": "data/posters/36452545.jpg",
+      "year": "2026",
+      "mark_date": "2026-11-02",
+      "rating": 3,
+      "comment": "看得出一贯风格，属于越看越好看的。",
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧",
+        "运动"
+      ],
+      "languages": [
+        "粤语",
+        "汉语普通话",
+        "英语",
+        "日语",
+        "韩语",
+        "泰语"
+      ],
+      "runtime": "106分钟",
+      "intro_raw": "2026-07-11(中国大陆) / 张小斐 / 迪丽热巴 / 张艺兴 / 刘嘉玲 / 佐藤健 / 艾米 / 雪野 / 蔡思贝 / 胡予安 / 倪好 / 中国大陆 / 中国香港 / 周星驰 / 秦鹏飞 / 林子聪 / 卢正雨 / 106分钟 / 剧情 / 喜剧 / 运动 / 周星驰 Stephen Chow / 何颖旋 / 粤语 / 汉语普通话 / 英语 / 日语 / 韩语 / 泰语",
+      "people": [
+        "张小斐",
+        "迪丽热巴",
+        "张艺兴",
+        "刘嘉玲",
+        "佐藤健",
+        "艾米",
+        "雪野",
+        "蔡思贝",
+        "胡予安",
+        "倪好",
+        "周星驰",
+        "秦鹏飞",
+        "林子聪",
+        "卢正雨",
+        "周星驰 Stephen Chow",
+        "何颖旋"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860063.jpg"
+    },
+    {
+      "id": "37508847",
+      "cid": "4980234298",
+      "title": "空枪",
+      "aka": [
+        "V [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/37508847/",
+      "cover": "data/posters/37508847.jpg",
+      "year": "2026",
+      "mark_date": "2026-11-02",
+      "rating": 3,
+      "comment": "疯子最难搞了",
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "genres": [
+        "剧情",
+        "犯罪"
+      ],
+      "languages": [
+        "粤语",
+        "汉语普通话",
+        "英语"
+      ],
+      "runtime": "160分钟",
+      "intro_raw": "2026-08-19(中国大陆) / 朱一龙 / 檀健次 / 梁家辉 / 卫诗雅 / 惠英红 / 李施嬅 / 袁富华 / 倪大红 / 叶童 / 黄觉 / 中国大陆 / 中国香港 / 韩延 / 160分钟 / 剧情 / 犯罪 / 陈舒 Shu Chen / 韩延 Yan Han / 郭涛 Tao Guo / 粤语 / 汉语普通话 / 英语",
+      "people": [
+        "朱一龙",
+        "檀健次",
+        "梁家辉",
+        "卫诗雅",
+        "惠英红",
+        "李施嬅",
+        "袁富华",
+        "倪大红",
+        "叶童",
+        "黄觉",
+        "韩延",
+        "陈舒 Shu Chen",
+        "韩延 Yan Han",
+        "郭涛 Tao Guo"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934946788.jpg"
+    },
     {
       "id": "35010610",
       "cid": "4979786637",
