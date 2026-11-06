@@ -2,10 +2,106 @@
   "user": "141769761",
   "type": "wish",
   "label": "想看",
-  "total_declared": 424,
-  "fetched": 415,
-  "fetched_at": "2026-11-05T05:54:51+0000",
+  "total_declared": 426,
+  "fetched": 417,
+  "fetched_at": "2026-11-06T05:51:32+0000",
   "movies": [
+    {
+      "id": "35265422",
+      "cid": "4982499543",
+      "title": "黑帮少爷爱上我",
+      "aka": [
+        "รักโครตร้ายสุดท้ายโครตรัก",
+        "黑帮保镖",
+        "他客"
+      ],
+      "url": "https://movie.douban.com/subject/35265422/",
+      "cover": "data/posters/35265422.jpg",
+      "year": "2022",
+      "mark_date": "2026-11-05",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "泰国"
+      ],
+      "genres": [
+        "剧情",
+        "爱情",
+        "同性"
+      ],
+      "languages": [
+        "泰语"
+      ],
+      "runtime": "63分钟",
+      "intro_raw": "2022-04-02(泰国) / 帕克普泓·隆牧塞侗 / 纳塔温·崴唐缇派特 / 罗杰夫 / 塔纳育特·达功塔亚 / 塔维萨克·亚历山大·塔纳南 / 纳帕·维凯伦罗 / 塔纳瓦特·斯里瓦塔纳功 / 松希·努诺卡空希 / 纳坤·斯克瑞艾 / 皮亚.温牟杜克塔扬 / 泰国 / 罗宁·提姆 / 班霍姆·沃拉萨雷 / 克里斯达·威塔亚卡琼德 / 63分钟 / 黑帮少爷爱上我 / 剧情 / 爱情 / 同性 / Pond Krisda Witthayakhajorndet / Poi Patchayamon Theewasujaroen / Yok Sitthichai Panya / Ning Bhanbhassa Dhubthien / 泰语",
+      "people": [
+        "帕克普泓·隆牧塞侗",
+        "纳塔温·崴唐缇派特",
+        "罗杰夫",
+        "塔纳育特·达功塔亚",
+        "塔维萨克·亚历山大·塔纳南",
+        "纳帕·维凯伦罗",
+        "塔纳瓦特·斯里瓦塔纳功",
+        "松希·努诺卡空希",
+        "纳坤·斯克瑞艾",
+        "皮亚.温牟杜克塔扬",
+        "罗宁·提姆",
+        "班霍姆·沃拉萨雷",
+        "克里斯达·威塔亚卡琼德",
+        "黑帮少爷爱上我",
+        "Pond Krisda Witthayakhajorndet",
+        "Poi Patchayamon Theewasujaroen",
+        "Yok Sitthichai Panya",
+        "Ning Bhanbhassa Dhubthien"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2871085104.jpg"
+    },
+    {
+      "id": "35882838",
+      "cid": "4982480011",
+      "title": "某种物质",
+      "aka": [
+        "The Substance",
+        "完美物质(港)",
+        "惧裂(台)"
+      ],
+      "url": "https://movie.douban.com/subject/35882838/",
+      "cover": "data/posters/35882838.jpg",
+      "year": "2024",
+      "mark_date": "2026-11-05",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "法国",
+        "英国",
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "恐怖"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "141分钟",
+      "intro_raw": "2024-05-19(戛纳电影节) / 2024-09-20(美国) / 黛米·摩尔 / 玛格丽特·库里 / 丹尼斯·奎德 / 爱德华·汉密尔顿-克拉克 / 戈雷·阿布拉姆斯 / 奥斯卡·莱斯格 / 克里斯蒂安·埃里克森 / 罗宾·格里尔 / 汤姆·莫顿 / 雨果·迭戈·加西亚 / 法国 / 英国 / 美国 / 科拉莉·法尔雅 / 141分钟 / 某种物质 / 剧情 / 恐怖 / 科拉莉·法尔雅 Coralie Fargeat / 英语",
+      "people": [
+        "黛米·摩尔",
+        "玛格丽特·库里",
+        "丹尼斯·奎德",
+        "爱德华·汉密尔顿-克拉克",
+        "戈雷·阿布拉姆斯",
+        "奥斯卡·莱斯格",
+        "克里斯蒂安·埃里克森",
+        "罗宾·格里尔",
+        "汤姆·莫顿",
+        "雨果·迭戈·加西亚",
+        "科拉莉·法尔雅",
+        "某种物质",
+        "科拉莉·法尔雅 Coralie Fargeat"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2912441039.jpg"
+    },
     {
       "id": "1309066",
       "cid": "4818602552",

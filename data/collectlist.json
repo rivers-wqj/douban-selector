@@ -3,8 +3,8 @@
   "type": "collect",
   "label": "看过",
   "total_declared": 806,
-  "fetched": 789,
-  "fetched_at": "2026-11-05T05:57:37+0000",
+  "fetched": 804,
+  "fetched_at": "2026-11-06T05:55:43+0000",
   "movies": [
     {
       "id": "36452545",
@@ -15189,6 +15189,660 @@
         "埃里克·侯麦 Éric Rohmer"
       ],
       "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1623990115.jpg"
+    },
+    {
+      "id": "1293030",
+      "cid": "4107091957",
+      "title": "苏姗娜的故事",
+      "aka": [
+        "La carrière de Suzanne",
+        "苏珊的事业(港)",
+        "苏珊的爱情经历"
+      ],
+      "url": "https://movie.douban.com/subject/1293030/",
+      "cover": "data/posters/1293030.jpg",
+      "year": "1963",
+      "mark_date": "2024-02-26",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "法国"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "法语"
+      ],
+      "runtime": "54分钟",
+      "intro_raw": "1963(法国) / 凯瑟琳·塞 / 菲利普·伯藏 / 克里斯蒂安·夏里埃 / 戴安娜·威尔金森 / 法国 / 埃里克·侯麦 / 54分钟 / 苏姗娜的故事 / 剧情 / 爱情 / 埃里克·侯麦 Éric Rohmer / 法语",
+      "people": [
+        "凯瑟琳·塞",
+        "菲利普·伯藏",
+        "克里斯蒂安·夏里埃",
+        "戴安娜·威尔金森",
+        "埃里克·侯麦",
+        "苏姗娜的故事",
+        "埃里克·侯麦 Éric Rohmer"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2202641383.jpg"
+    },
+    {
+      "id": "35426925",
+      "cid": "4104509253",
+      "title": "机器人之梦",
+      "aka": [
+        "Robot Dreams",
+        "再见机器人(台)",
+        "汪汪梦里人(港) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35426925/",
+      "cover": "data/posters/35426925.jpg",
+      "year": "2023",
+      "mark_date": "2024-02-26",
+      "rating": 4,
+      "comment": "缘来缘去，梦里奔赴过了，酱汁坠地我决定留在原地。",
+      "countries": [
+        "西班牙",
+        "法国"
+      ],
+      "genres": [
+        "剧情",
+        "动画",
+        "音乐"
+      ],
+      "languages": [
+        "无对白"
+      ],
+      "runtime": "102分钟",
+      "intro_raw": "2023-05-20(戛纳电影节) / 2023-12-06(西班牙) / 2024-06-08(中国大陆) / 2025-12-26(中国大陆重映) / 伊万·拉班达 / 阿尔伯特·特里佛·塞加拉 / 拉法·卡尔沃 / 何塞·加西亚·托斯 / 何塞·路易斯·梅地亚维拉 / 加西埃拉·莫利娜 / 埃斯特·索兰斯 / 西班牙 / 法国 / 巴勃罗·贝格尔 / 102分钟 / 机器人之梦 / 剧情 / 动画 / 音乐 / 巴勃罗·贝格尔 Pablo Berger / 萨拉·瓦伦 Sara Varon / 无对白",
+      "people": [
+        "伊万·拉班达",
+        "阿尔伯特·特里佛·塞加拉",
+        "拉法·卡尔沃",
+        "何塞·加西亚·托斯",
+        "何塞·路易斯·梅地亚维拉",
+        "加西埃拉·莫利娜",
+        "埃斯特·索兰斯",
+        "巴勃罗·贝格尔",
+        "机器人之梦",
+        "巴勃罗·贝格尔 Pablo Berger",
+        "萨拉·瓦伦 Sara Varon"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928203369.jpg"
+    },
+    {
+      "id": "1394348",
+      "cid": "4105277516",
+      "title": "面包店的女孩",
+      "aka": [
+        "La boulangère de Monceau",
+        "蒙索的女面包师",
+        "三心两意 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1394348/",
+      "cover": "data/posters/1394348.jpg",
+      "year": "",
+      "mark_date": "2024-02-26",
+      "rating": 4,
+      "comment": "不要招惹面包店女孩呜",
+      "countries": [
+        "法国"
+      ],
+      "genres": [
+        "爱情",
+        "短片"
+      ],
+      "languages": [
+        "法语"
+      ],
+      "runtime": "23 分钟",
+      "intro_raw": "巴贝特·施罗德 / 米歇尔·吉拉尔顿 / 贝特朗·塔维涅 / Michel Mardore / 法国 / 埃里克·侯麦 / 23 分钟 / 面包店的女孩 / 爱情 / 短片 / 埃里克·侯麦 Éric Rohmer / 法语",
+      "people": [
+        "巴贝特·施罗德",
+        "米歇尔·吉拉尔顿",
+        "贝特朗·塔维涅",
+        "Michel Mardore",
+        "埃里克·侯麦",
+        "面包店的女孩",
+        "埃里克·侯麦 Éric Rohmer"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2559172988.jpg"
+    },
+    {
+      "id": "1294039",
+      "cid": "4104534528",
+      "title": "绿光",
+      "aka": [
+        "Le rayon vert",
+        "众里寻他千百度",
+        "绿色光芒 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1294039/",
+      "cover": "data/posters/1294039.jpg",
+      "year": "1986",
+      "mark_date": "2024-02-25",
+      "rating": 5,
+      "comment": "绿光，蓝色时刻，侯麦怎么这么会啊啊啊啊",
+      "countries": [
+        "法国"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "法语"
+      ],
+      "runtime": "99分钟",
+      "intro_raw": "1986-08-29(美国) / 1986-09-03(法国) / 玛丽·里维埃 / 阿米拉・舍玛赫 / 西尔维・里什 / María Luisa García / Basile Gervaise / Virginie Gervaise / René Hernandez / Dominique Rivière / Claude Jullien / Alaric Jullien / 法国 / 埃里克·侯麦 / 99分钟 / 绿光 / 剧情 / 爱情 / 玛丽·里维埃 Marie Rivière / 埃里克·侯麦 Éric Rohmer / 法语",
+      "people": [
+        "玛丽·里维埃",
+        "阿米拉・舍玛赫",
+        "西尔维・里什",
+        "María Luisa García",
+        "Basile Gervaise",
+        "Virginie Gervaise",
+        "René Hernandez",
+        "Dominique Rivière",
+        "Claude Jullien",
+        "Alaric Jullien",
+        "埃里克·侯麦",
+        "绿光",
+        "玛丽·里维埃 Marie Rivière",
+        "埃里克·侯麦 Éric Rohmer"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2536313627.jpg"
+    },
+    {
+      "id": "25938803",
+      "cid": "4079509999",
+      "title": "莫娣",
+      "aka": [
+        "Maudie",
+        "彩绘心天地(台)",
+        "茉迪的彩色小屋(台) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/25938803/",
+      "cover": "data/posters/25938803.jpg",
+      "year": "2016",
+      "mark_date": "2024-02-23",
+      "rating": 5,
+      "comment": "-你会找到更好的-不，不会的，你给了我想要的一切",
+      "countries": [
+        "爱尔兰",
+        "加拿大"
+      ],
+      "genres": [
+        "剧情",
+        "传记",
+        "爱情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "115分钟",
+      "intro_raw": "2016-09-02(特柳赖德电影节) / 2017-08-04(爱尔兰) / 莎莉·霍金斯 / 伊桑·霍克 / 卡瑞·玛切特 / 加布里埃尔·罗斯 / 扎卡里·贝内特 / 比利·麦克莱伦 / 劳伦斯·巴里 / 格雷戈·马龙 / 玛丝·伯纳德 / 大卫·菲恩 / 爱尔兰 / 加拿大 / 艾斯林·沃什 / 115分钟 / 莫娣 / 剧情 / 传记 / 爱情 / 谢丽·怀特 Sherry White / 英语",
+      "people": [
+        "莎莉·霍金斯",
+        "伊桑·霍克",
+        "卡瑞·玛切特",
+        "加布里埃尔·罗斯",
+        "扎卡里·贝内特",
+        "比利·麦克莱伦",
+        "劳伦斯·巴里",
+        "格雷戈·马龙",
+        "玛丝·伯纳德",
+        "大卫·菲恩",
+        "艾斯林·沃什",
+        "莫娣",
+        "谢丽·怀特 Sherry White"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2431089276.jpg"
+    },
+    {
+      "id": "1981335",
+      "cid": "4097878862",
+      "title": "巴黎两日情",
+      "aka": [
+        "2 Days in Paris",
+        "巴黎两日游",
+        "巴黎爱漫游 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1981335/",
+      "cover": "data/posters/1981335.jpg",
+      "year": "2007",
+      "mark_date": "2024-02-19",
+      "rating": 3,
+      "comment": "真实的累",
+      "countries": [
+        "法国",
+        "德国"
+      ],
+      "genres": [
+        "喜剧",
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "英语",
+        "法语"
+      ],
+      "runtime": "96 分钟",
+      "intro_raw": "2007-05-17 / 亚当·戈德堡 / 朱莉·德尔佩 / 丹尼尔·布鲁赫 / 亚当·佐杜洛夫斯基 / 阿丽克西亚·兰道 / 玛丽·佩里 / 卢德维克·伯特希尔克 / 艾伯特·德尔佩 / 奇克·奥尔特加 / 纳努·本纳穆 / 法国 / 德国 / 朱莉·德尔佩 / 96 分钟 / 巴黎两日情 / 喜剧 / 剧情 / 爱情 / Julie Delpy / 英语 / 法语",
+      "people": [
+        "亚当·戈德堡",
+        "朱莉·德尔佩",
+        "丹尼尔·布鲁赫",
+        "亚当·佐杜洛夫斯基",
+        "阿丽克西亚·兰道",
+        "玛丽·佩里",
+        "卢德维克·伯特希尔克",
+        "艾伯特·德尔佩",
+        "奇克·奥尔特加",
+        "纳努·本纳穆",
+        "朱莉·德尔佩",
+        "巴黎两日情",
+        "Julie Delpy"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2370862730.jpg"
+    },
+    {
+      "id": "1920805",
+      "cid": "4079501047",
+      "title": "成为简·奥斯汀",
+      "aka": [
+        "Becoming Jane",
+        "珍爱来临",
+        "成为简 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1920805/",
+      "cover": "data/posters/1920805.jpg",
+      "year": "2007",
+      "mark_date": "2024-02-04",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "英国",
+        "爱尔兰"
+      ],
+      "genres": [
+        "传记",
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "120 分钟",
+      "intro_raw": "2007-03-09(英国) / 安妮·海瑟薇 / 詹姆斯·麦卡沃伊 / 朱丽·沃特斯 / 詹姆斯·克伦威尔 / 玛吉·史密斯 / 安娜·麦克西维尔·马丁 / 露西·科乎 / 劳伦斯·福克斯 / 伊恩·理查森 / 乔·安德森 / 英国 / 爱尔兰 / 朱里安·杰拉德 / 120 分钟 / 成为简·奥斯汀 / 传记 / 剧情 / 爱情 / Sarah Williams / Kevin Hood / 简·奥斯汀 Jane Austen / 英语",
+      "people": [
+        "安妮·海瑟薇",
+        "詹姆斯·麦卡沃伊",
+        "朱丽·沃特斯",
+        "詹姆斯·克伦威尔",
+        "玛吉·史密斯",
+        "安娜·麦克西维尔·马丁",
+        "露西·科乎",
+        "劳伦斯·福克斯",
+        "伊恩·理查森",
+        "乔·安德森",
+        "朱里安·杰拉德",
+        "成为简·奥斯汀",
+        "Sarah Williams",
+        "Kevin Hood",
+        "简·奥斯汀 Jane Austen"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1284506783.jpg"
+    },
+    {
+      "id": "35275350",
+      "cid": "4077423829",
+      "title": "初恋",
+      "aka": [
+        "First Love 初恋",
+        "初恋",
+        "First Love"
+      ],
+      "url": "https://movie.douban.com/subject/35275350/",
+      "cover": "data/posters/35275350.jpg",
+      "year": "2022",
+      "mark_date": "2024-02-03",
+      "rating": 5,
+      "comment": "如果这次我没有三分钟热度的话，那么明年圣诞冰岛或许就是我命中注定的全情投入。",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "50分钟",
+      "intro_raw": "2022-11-24(日本) / 满岛光 / 佐藤健 / 八木莉可子 / 木户大圣 / 夏帆 / 小泉今日子 / 荒木飞羽 / 山田葵  / 美波 / 中尾明庆 / 日本 / 寒竹百合 / 50分钟 / 初恋 / 剧情 / 爱情 / 寒竹百合 Yuri Kanchiku / 日语 / 日本手语",
+      "people": [
+        "满岛光",
+        "佐藤健",
+        "八木莉可子",
+        "木户大圣",
+        "夏帆",
+        "小泉今日子",
+        "荒木飞羽",
+        "山田葵",
+        "美波",
+        "中尾明庆",
+        "寒竹百合",
+        "初恋",
+        "寒竹百合 Yuri Kanchiku",
+        "日本手语"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2883789917.jpg"
+    },
+    {
+      "id": "35593344",
+      "cid": "4075010404",
+      "title": "奥本海默",
+      "aka": [
+        "Oppenheimer",
+        "[可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35593344/",
+      "cover": "data/posters/35593344.jpg",
+      "year": "2023",
+      "mark_date": "2024-01-31",
+      "rating": 5,
+      "comment": "很有后劲，多给一颗星给题材。",
+      "countries": [
+        "美国",
+        "英国"
+      ],
+      "genres": [
+        "剧情",
+        "传记",
+        "历史"
+      ],
+      "languages": [
+        "英语",
+        "德语",
+        "意大利语"
+      ],
+      "runtime": "180分钟",
+      "intro_raw": "2023-07-21(美国) / 2023-08-30(中国大陆) / 2024-03-01(中国大陆重映) / 基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙 / 小罗伯特·唐尼 / 弗洛伦丝·皮尤 / 阿尔登·埃伦瑞奇 / 大卫·克朗姆霍茨 / 乔什·哈奈特 / 杰森·克拉克 / 卡西·阿弗莱克 / 美国 / 英国 / www.oppenheimermovie.com / 克里斯托弗·诺兰 / 180分钟 / 奥本海默 / 剧情 / 传记 / 历史 / 克里斯托弗·诺兰 Christopher Nolan / 英语 / 德语 / 荷兰语 / 意大利语 / 意第绪语",
+      "people": [
+        "基里安·墨菲",
+        "艾米莉·布朗特",
+        "马特·达蒙",
+        "小罗伯特·唐尼",
+        "弗洛伦丝·皮尤",
+        "阿尔登·埃伦瑞奇",
+        "大卫·克朗姆霍茨",
+        "乔什·哈奈特",
+        "杰森·克拉克",
+        "卡西·阿弗莱克",
+        "www.oppenheimermovie.com",
+        "克里斯托弗·诺兰",
+        "奥本海默",
+        "克里斯托弗·诺兰 Christopher Nolan",
+        "荷兰语",
+        "意第绪语"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2876555451.jpg"
+    },
+    {
+      "id": "34803917",
+      "cid": "4074027824",
+      "title": "神奇的真菌",
+      "aka": [
+        "Fantastic Fungi",
+        "素晴らしき、きのこの世界"
+      ],
+      "url": "https://movie.douban.com/subject/34803917/",
+      "cover": "data/posters/34803917.jpg",
+      "year": "2019",
+      "mark_date": "2024-01-30",
+      "rating": 3,
+      "comment": "有什么是蘑菇不能治的？下次去云南吃一个致幻小蘑菇试试。",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "纪录片"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "81分钟",
+      "intro_raw": "2019-10-11(美国) / 布丽·拉尔森 / 托尼·赫德 / 迈克尔·波伦 / 美国 / 81分钟 / 神奇的真菌 / 纪录片 / 马克·蒙雷 Mark Monroe / 英语",
+      "people": [
+        "布丽·拉尔森",
+        "托尼·赫德",
+        "迈克尔·波伦",
+        "神奇的真菌",
+        "马克·蒙雷 Mark Monroe"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2590465772.jpg"
+    },
+    {
+      "id": "36629878",
+      "cid": "4066990917",
+      "title": "12年级的失败",
+      "aka": [
+        "12th Fail",
+        "会考失败者"
+      ],
+      "url": "https://movie.douban.com/subject/36629878/",
+      "cover": "data/posters/36629878.jpg",
+      "year": "2023",
+      "mark_date": "2024-01-29",
+      "rating": 4,
+      "comment": "Will be",
+      "countries": [
+        "印度"
+      ],
+      "genres": [
+        "剧情",
+        "传记"
+      ],
+      "languages": [
+        "印地语"
+      ],
+      "runtime": "147分钟",
+      "intro_raw": "2023-10-27(印度) / 维克兰特·梅西 / 梅德哈·尚卡尔 / 普里耶修·查特奇 / Anant Joshi / Anshuman Pushkar / Geeta Agrawal Sharma / Harish Khanna / Sarita Joshi / Vikas Divyakirti / Abhishek Sengupta / 印度 / 维德胡·维诺德·乔普拉 / 147分钟 / 12年级的失败 / 剧情 / 传记 / 维德胡·维诺德·乔普拉 Vidhu Vinod Chopra / Jaskunwar Kohli / Anurag Pathak / Aayush Saxena / 印地语 / 马拉雅拉姆语 / 泰米尔语 / 泰卢固语 / 卡纳达语",
+      "people": [
+        "维克兰特·梅西",
+        "梅德哈·尚卡尔",
+        "普里耶修·查特奇",
+        "Anant Joshi",
+        "Anshuman Pushkar",
+        "Geeta Agrawal Sharma",
+        "Harish Khanna",
+        "Sarita Joshi",
+        "Vikas Divyakirti",
+        "Abhishek Sengupta",
+        "维德胡·维诺德·乔普拉",
+        "12年级的失败",
+        "维德胡·维诺德·乔普拉 Vidhu Vinod Chopra",
+        "Jaskunwar Kohli",
+        "Anurag Pathak",
+        "Aayush Saxena",
+        "马拉雅拉姆语",
+        "泰米尔语",
+        "泰卢固语",
+        "卡纳达语"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919487674.jpg"
+    },
+    {
+      "id": "27029032",
+      "cid": "4062412201",
+      "title": "诚邀辣妹：网络性与爱",
+      "aka": [
+        "Hot Girls Wanted: Turned On"
+      ],
+      "url": "https://movie.douban.com/subject/27029032/",
+      "cover": "data/posters/27029032.jpg",
+      "year": "2017",
+      "mark_date": "2024-01-28",
+      "rating": 5,
+      "comment": "看第一集的时候特别喜欢感觉女权主义情色片伟大且有望，但越往后看越伤心，甚至显得Erika的梦还很遥远。这个纪录片牛逼的。",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "纪录片"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "46分钟",
+      "intro_raw": "2017-04-21(美国) / 艾利卡·露斯特 / 霍莉·兰德尔 / 贝莉·雷恩 / 莱纳·安德森 / 凯莉·奎因 / 劳伦·菲利普斯 / 美国 / 拉什达·琼斯 /  / 46分钟 / 诚邀辣妹：网络性与爱 / 纪录片 / Jill Bauer / Ronna Gradus / 英语",
+      "people": [
+        "艾利卡·露斯特",
+        "霍莉·兰德尔",
+        "贝莉·雷恩",
+        "莱纳·安德森",
+        "凯莉·奎因",
+        "劳伦·菲利普斯",
+        "拉什达·琼斯",
+        "诚邀辣妹：网络性与爱",
+        "Jill Bauer",
+        "Ronna Gradus"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2456755882.jpg"
+    },
+    {
+      "id": "35185752",
+      "cid": "4062412192",
+      "title": "我的章鱼老师",
+      "aka": [
+        "My Octopus Teacher",
+        "我的八爪鱼老师(港)"
+      ],
+      "url": "https://movie.douban.com/subject/35185752/",
+      "cover": "data/posters/35185752.jpg",
+      "year": "2020",
+      "mark_date": "2024-01-27",
+      "rating": 5,
+      "comment": "平静舒缓",
+      "countries": [
+        "南非"
+      ],
+      "genres": [
+        "剧情",
+        "纪录片"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "85分钟",
+      "intro_raw": "2020-09-07(美国网络) / 克雷格·福斯特 / 汤姆·福斯特 / 南非 / 皮帕·埃尔利希 / 詹姆斯·里德 / 85分钟 / 我的章鱼老师 / 剧情 / 纪录片 / 皮帕·埃尔利希 Pippa Ehrlich / 詹姆斯·里德 James Reed / 英语",
+      "people": [
+        "克雷格·福斯特",
+        "汤姆·福斯特",
+        "皮帕·埃尔利希",
+        "詹姆斯·里德",
+        "我的章鱼老师",
+        "皮帕·埃尔利希 Pippa Ehrlich",
+        "詹姆斯·里德 James Reed"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2636039318.jpg"
+    },
+    {
+      "id": "1301374",
+      "cid": "4068896704",
+      "title": "少女情怀总是诗",
+      "aka": [
+        "Bilitis",
+        "比利提斯",
+        "少女情怀总是诗"
+      ],
+      "url": "https://movie.douban.com/subject/1301374/",
+      "cover": "data/posters/1301374.jpg",
+      "year": "1977",
+      "mark_date": "2024-01-26",
+      "rating": 4,
+      "comment": "画面真的太美",
+      "countries": [
+        "法国",
+        "意大利"
+      ],
+      "genres": [
+        "剧情",
+        "爱情",
+        "情色"
+      ],
+      "languages": [
+        "法语"
+      ],
+      "runtime": "95 分钟",
+      "intro_raw": "1977-03-16 / 帕蒂·达班维尔 / 贝纳·纪欧多 / 马蒂厄·卡里埃 / 凯瑟琳·勒普兰斯 / Mona Kristensen / 法国 / 意大利 / 大卫·汉密尔顿 / 95 分钟 / Germany: 89 分钟(25 fps) (TV version) / 少女情怀总是诗 / 剧情 / 爱情 / 情色 / Catherine Breillat / Robert Boussinot / 法语",
+      "people": [
+        "帕蒂·达班维尔",
+        "贝纳·纪欧多",
+        "马蒂厄·卡里埃",
+        "凯瑟琳·勒普兰斯",
+        "Mona Kristensen",
+        "大卫·汉密尔顿",
+        "Germany: 89 分钟(25 fps) (TV version)",
+        "少女情怀总是诗",
+        "Catherine Breillat",
+        "Robert Boussinot"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2039014938.jpg"
+    },
+    {
+      "id": "35048413",
+      "cid": "4065305560",
+      "title": "健听女孩",
+      "aka": [
+        "CODA",
+        "乐动心旋律(台)",
+        "贝利叶一家 美国版"
+      ],
+      "url": "https://movie.douban.com/subject/35048413/",
+      "cover": "data/posters/35048413.jpg",
+      "year": "2021",
+      "mark_date": "2024-01-26",
+      "rating": 4,
+      "comment": "两次落泪分别是在得到老师和家长肯定支持的时候，太感同身受了。",
+      "countries": [
+        "美国",
+        "法国",
+        "加拿大"
+      ],
+      "genres": [
+        "剧情",
+        "音乐"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "111分钟",
+      "intro_raw": "2021-01-29(圣丹斯电影节) / 2021-08-13(美国网络) / 艾米莉亚·琼斯 / 特洛伊·科特苏尔 / 玛丽·玛特琳 / 丹尼尔·杜兰特 / 欧赫尼奥·德尔维斯 / 福迪亚·瓦尔什-匹罗 / 艾米·福赛思 / 凯文·查普曼 / 约翰·菲奥里 / 朗尼·法默 / 美国 / 法国 / 加拿大 / 夏安·海德 / 111分钟 / 健听女孩 / 剧情 / 音乐 / 夏安·海德 Sian Heder / 维多利亚·贝多斯 Victoria Bedos / 斯坦尼斯拉斯·卡雷·德·马尔博格 Stanislas Carré de Malberg / 艾里克·拉缇戈 Eric Lartigau / 托马斯·彼得葛恩 Thomas Bidegain / 美国手语 / 英语",
+      "people": [
+        "艾米莉亚·琼斯",
+        "特洛伊·科特苏尔",
+        "玛丽·玛特琳",
+        "丹尼尔·杜兰特",
+        "欧赫尼奥·德尔维斯",
+        "福迪亚·瓦尔什-匹罗",
+        "艾米·福赛思",
+        "凯文·查普曼",
+        "约翰·菲奥里",
+        "朗尼·法默",
+        "夏安·海德",
+        "健听女孩",
+        "夏安·海德 Sian Heder",
+        "维多利亚·贝多斯 Victoria Bedos",
+        "斯坦尼斯拉斯·卡雷·德·马尔博格 Stanislas Carré de Malberg",
+        "艾里克·拉缇戈 Eric Lartigau",
+        "托马斯·彼得葛恩 Thomas Bidegain",
+        "美国手语"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870510534.jpg"
     },
     {
       "id": "1291868",
@@ -33945,7 +34599,7 @@
       "aka": [
         "The Matrix Revolutions",
         "22世纪杀人网络3：惊变世纪(港)",
-        "骇客任务完结篇：最后战役(台) [可播放]"
+        "骇客任务完结篇：最后战役(台)"
       ],
       "url": "https://movie.douban.com/subject/1302467/",
       "cover": "data/posters/1302467.jpg",
@@ -35056,7 +35710,7 @@
       "aka": [
         "The Matrix",
         "22世纪杀人网络(港)",
-        "廿二世纪杀人网络(港) [可播放]"
+        "廿二世纪杀人网络(港)"
       ],
       "url": "https://movie.douban.com/subject/1291843/",
       "cover": "data/posters/1291843.jpg",
@@ -36660,7 +37314,7 @@
       "aka": [
         "賭城風雲III",
         "赌城风云III(港)",
-        "The Man From Macau 3 [可播放]"
+        "The Man From Macau 3"
       ],
       "url": "https://movie.douban.com/subject/26334559/",
       "cover": "data/posters/26334559.jpg",
