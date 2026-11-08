@@ -3,8 +3,8 @@
   "type": "wish",
   "label": "想看",
   "total_declared": 426,
-  "fetched": 402,
-  "fetched_at": "2026-11-07T05:22:51+0000",
+  "fetched": 417,
+  "fetched_at": "2026-11-08T05:20:29+0000",
   "movies": [
     {
       "id": "35265422",
@@ -1298,6 +1298,687 @@
         "晋语"
       ],
       "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p520162740.jpg"
+    },
+    {
+      "id": "5318669",
+      "cid": "4604832003",
+      "title": "转山",
+      "aka": [
+        "KORA",
+        "One Mile Above [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/5318669/",
+      "cover": "data/posters/5318669.jpg",
+      "year": "2011",
+      "mark_date": "2025-08-04",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "中国大陆",
+        "中国台湾"
+      ],
+      "genres": [
+        "剧情",
+        "冒险"
+      ],
+      "languages": [
+        "汉语普通话",
+        "藏语"
+      ],
+      "runtime": "90分钟",
+      "intro_raw": "2011-10-26(东京国际电影节) / 2011-11-03(中国大陆) / 2012-10-19(高雄电影节) / 张书豪 / 李晓川 / 李桃 / 钮承泽 / 唐治平 / 尹航 / 中国大陆 / 中国台湾 / 杜家毅 / 90分钟 / 剧情 / 冒险 / 张家鲁 Jialu Zhang / 程孝泽 Hsiao-tse Cheng / 汉语普通话 / 藏语",
+      "people": [
+        "张书豪",
+        "李晓川",
+        "李桃",
+        "钮承泽",
+        "唐治平",
+        "尹航",
+        "杜家毅",
+        "张家鲁 Jialu Zhang",
+        "程孝泽 Hsiao-tse Cheng"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1254068777.jpg"
+    },
+    {
+      "id": "2033822",
+      "cid": "4589313594",
+      "title": "美食、祈祷和恋爱",
+      "aka": [
+        "Eat Pray Love",
+        "再单身游记(港)",
+        "享受吧！一个人的旅行(台) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/2033822/",
+      "cover": "data/posters/2033822.jpg",
+      "year": "2010",
+      "mark_date": "2025-07-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "140分钟",
+      "intro_raw": "2010-08-13(美国) / 朱莉娅·罗伯茨 / 哈维尔·巴登 / 詹姆斯·弗兰科 / 比利·克鲁德普 / 理查德·詹金斯 / 维奥拉·戴维斯 / 图娃·诺沃妮 / 卢卡·阿金泰罗 / TJ·鲍尔 / 迈克·奥麦利 / 美国 / 瑞恩·墨菲 / 140分钟 / 146分钟(导演剪辑版) / 美食、祈祷和恋爱 / 剧情 / 爱情 / 瑞恩·墨菲 Ryan Murphy / 詹妮弗·绍特 Jennifer Salt / 英语",
+      "people": [
+        "朱莉娅·罗伯茨",
+        "哈维尔·巴登",
+        "詹姆斯·弗兰科",
+        "比利·克鲁德普",
+        "理查德·詹金斯",
+        "维奥拉·戴维斯",
+        "图娃·诺沃妮",
+        "卢卡·阿金泰罗",
+        "TJ·鲍尔",
+        "迈克·奥麦利",
+        "瑞恩·墨菲",
+        "146分钟(导演剪辑版)",
+        "美食、祈祷和恋爱",
+        "瑞恩·墨菲 Ryan Murphy",
+        "詹妮弗·绍特 Jennifer Salt"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p582794306.jpg"
+    },
+    {
+      "id": "26712750",
+      "cid": "4542005820",
+      "title": "双峰：遗失的碎片",
+      "aka": [
+        "Twin Peaks: The Missing Pieces",
+        "迷离劫:失落的碎片(港)"
+      ],
+      "url": "https://movie.douban.com/subject/26712750/",
+      "cover": "data/posters/26712750.jpg",
+      "year": "2014",
+      "mark_date": "2025-05-27",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "美国",
+        "法国"
+      ],
+      "genres": [
+        "剧情",
+        "爱情",
+        "悬疑"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "92分钟",
+      "intro_raw": "2014-06-16(美国) / 克里斯·艾塞克 / 基弗·萨瑟兰 / 凯尔·麦克拉克伦 / 雪莉·李 / 雷·怀斯 / 梅晨·阿米克 / 达纳·艾希布鲁克 / 杰克·南斯 / 莫伊拉·凯利 / 弗兰克·席尔瓦 / 美国 / 法国 / 大卫·林奇 / 92分钟 / 双峰：遗失的碎片 / 剧情 / 爱情 / 悬疑 / 大卫·林奇 David Lynch / 英语",
+      "people": [
+        "克里斯·艾塞克",
+        "基弗·萨瑟兰",
+        "凯尔·麦克拉克伦",
+        "雪莉·李",
+        "雷·怀斯",
+        "梅晨·阿米克",
+        "达纳·艾希布鲁克",
+        "杰克·南斯",
+        "莫伊拉·凯利",
+        "弗兰克·席尔瓦",
+        "大卫·林奇",
+        "双峰：遗失的碎片",
+        "大卫·林奇 David Lynch"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2382977993.jpg"
+    },
+    {
+      "id": "1293455",
+      "cid": "4442486473",
+      "title": "永恒和一日",
+      "aka": [
+        "Μία αιωνιότητα και μία μέρα",
+        "一生何求(港)",
+        "永远的一天(台)"
+      ],
+      "url": "https://movie.douban.com/subject/1293455/",
+      "cover": "data/posters/1293455.jpg",
+      "year": "1998",
+      "mark_date": "2025-02-09",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "法国",
+        "意大利",
+        "希腊",
+        "德国"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "希腊语",
+        "英语",
+        "意大利语"
+      ],
+      "runtime": "137分钟",
+      "intro_raw": "1998-05-23(戛纳电影节) / 布鲁诺·冈茨 / 伊莎贝拉·雷纳德 / 法布里齐奥·本蒂沃利奥 / 阿希莱亚斯·斯凯维斯 / Lazaros Andreou / 伊利斯·查特托尼欧 / Petros Fyssoun / Eleni Gerasimidou / 米哈利斯·扬纳托斯 / 泽弥斯·古苏里斯 / 法国 / 意大利 / 希腊 / 德国 / 西奥·安哲罗普洛斯 / 137分钟 / 永恒和一日 / 剧情 / 西奥·安哲罗普洛斯 Theodoros Angelopoulos / 托尼诺·格拉 Tonino Guerra / 帕特罗斯·马可瑞斯 Petros Markaris / 乔治·席尔瓦尼 Giorgio Silvagni / 希腊语 / 英语 / 意大利语",
+      "people": [
+        "布鲁诺·冈茨",
+        "伊莎贝拉·雷纳德",
+        "法布里齐奥·本蒂沃利奥",
+        "阿希莱亚斯·斯凯维斯",
+        "Lazaros Andreou",
+        "伊利斯·查特托尼欧",
+        "Petros Fyssoun",
+        "Eleni Gerasimidou",
+        "米哈利斯·扬纳托斯",
+        "泽弥斯·古苏里斯",
+        "西奥·安哲罗普洛斯",
+        "永恒和一日",
+        "西奥·安哲罗普洛斯 Theodoros Angelopoulos",
+        "托尼诺·格拉 Tonino Guerra",
+        "帕特罗斯·马可瑞斯 Petros Markaris",
+        "乔治·席尔瓦尼 Giorgio Silvagni"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1391839595.jpg"
+    },
+    {
+      "id": "4066125",
+      "cid": "4436562710",
+      "title": "谜一样的双眼",
+      "aka": [
+        "El secreto de sus ojos",
+        "他们眼中的秘密",
+        "谜情追凶(港) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/4066125/",
+      "cover": "data/posters/4066125.jpg",
+      "year": "2009",
+      "mark_date": "2025-02-04",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "阿根廷",
+        "西班牙"
+      ],
+      "genres": [
+        "剧情",
+        "爱情",
+        "犯罪",
+        "悬疑"
+      ],
+      "languages": [
+        "西班牙语"
+      ],
+      "runtime": "129分钟",
+      "intro_raw": "2009-08-13(阿根廷) / 里卡多·达林 / 索蕾达·维拉米尔 / 巴勃罗·拉戈 / 哈维尔·戈迪诺 / 古勒莫·法兰塞拉 / 何塞·路易斯·加尔西 / 卡拉·奎沃多 / 费尔南多·帕多 / 曼诺罗·索洛 / 阿根廷 / 西班牙 / 胡安·何塞·坎帕内利亚 / 129分钟 / 谜一样的双眼 / 剧情 / 爱情 / 犯罪 / 悬疑 / 胡安·何塞·坎帕内利亚 Juan José Campanella / Eduardo Sacheri / 西班牙语",
+      "people": [
+        "里卡多·达林",
+        "索蕾达·维拉米尔",
+        "巴勃罗·拉戈",
+        "哈维尔·戈迪诺",
+        "古勒莫·法兰塞拉",
+        "何塞·路易斯·加尔西",
+        "卡拉·奎沃多",
+        "费尔南多·帕多",
+        "曼诺罗·索洛",
+        "胡安·何塞·坎帕内利亚",
+        "谜一样的双眼",
+        "胡安·何塞·坎帕内利亚 Juan José Campanella",
+        "Eduardo Sacheri"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452819688.jpg"
+    },
+    {
+      "id": "1299193",
+      "cid": "4421590522",
+      "title": "理智与情感",
+      "aka": [
+        "Sense and Sensibility",
+        "理性与感性 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1299193/",
+      "cover": "data/posters/1299193.jpg",
+      "year": "1995",
+      "mark_date": "2025-01-23",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "美国",
+        "英国"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "英语",
+        "法语"
+      ],
+      "runtime": "136分钟",
+      "intro_raw": "1995-12-04(加州首映) / 1996-01-26(美国) / 艾玛·汤普森 / 凯特·温斯莱特 / 休·格兰特 / 艾伦·瑞克曼 / 汤姆·威尔金森 / 杰玛·琼斯 / 哈丽特·瓦尔特 / 埃米莉·弗朗索瓦 / 詹姆斯·弗雷特 / 伊丽莎白·斯普里格斯 / 美国 / 英国 / 李安 / 136分钟 / 理智与情感 / 剧情 / 爱情 / 艾玛·汤普森 Emma Thompson / 简·奥斯汀 Jane Austen / 英语 / 法语",
+      "people": [
+        "艾玛·汤普森",
+        "凯特·温斯莱特",
+        "休·格兰特",
+        "艾伦·瑞克曼",
+        "汤姆·威尔金森",
+        "杰玛·琼斯",
+        "哈丽特·瓦尔特",
+        "埃米莉·弗朗索瓦",
+        "詹姆斯·弗雷特",
+        "伊丽莎白·斯普里格斯",
+        "李安",
+        "理智与情感",
+        "艾玛·汤普森 Emma Thompson",
+        "简·奥斯汀 Jane Austen"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1107322461.jpg"
+    },
+    {
+      "id": "4832288",
+      "cid": "4412705329",
+      "title": "奇迹",
+      "aka": [
+        "奇跡",
+        "I Wish [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/4832288/",
+      "cover": "data/posters/4832288.jpg",
+      "year": "2011",
+      "mark_date": "2025-01-14",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "剧情",
+        "家庭"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "128分钟",
+      "intro_raw": "2011-06-11(日本) / 前田航基 / 前田旺志郎 / 大塚宁宁 / 小田切让 / 夏川结衣 / 阿部宽 / 长泽雅美 / 原田芳雄 / 树木希林 / 桥爪功 / 日本 / kiseki.gaga.ne.jp / 是枝裕和 / 128分钟 / 奇迹 / 剧情 / 家庭 / 是枝裕和 Hirokazu Koreeda / 日语",
+      "people": [
+        "前田航基",
+        "前田旺志郎",
+        "大塚宁宁",
+        "小田切让",
+        "夏川结衣",
+        "阿部宽",
+        "长泽雅美",
+        "原田芳雄",
+        "树木希林",
+        "桥爪功",
+        "kiseki.gaga.ne.jp",
+        "是枝裕和",
+        "奇迹",
+        "是枝裕和 Hirokazu Koreeda"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1172845476.jpg"
+    },
+    {
+      "id": "24405378",
+      "cid": "4387506274",
+      "title": "王牌特工：特工学院",
+      "aka": [
+        "Kingsman: The Secret Service",
+        "皇家特工：间谍密令(港)",
+        "金牌特务(台) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/24405378/",
+      "cover": "data/posters/24405378.jpg",
+      "year": "2014",
+      "mark_date": "2024-12-20",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国",
+        "美国"
+      ],
+      "genres": [
+        "喜剧",
+        "动作",
+        "冒险"
+      ],
+      "languages": [
+        "英语",
+        "阿拉伯语",
+        "瑞典语"
+      ],
+      "runtime": "129分钟",
+      "intro_raw": "2014-12-13(BNAT电影节) / 2015-01-29(英国) / 2015-03-27(中国大陆) / 塔伦·埃哲顿 / 科林·费尔斯 / 塞缪尔·杰克逊 / 迈克尔·凯恩 / 马克·斯特朗 / 索菲·库克森 / 索菲亚·波多拉 / 马克·哈米尔 / 杰克·达文波特 / 萨曼塔·沃马克 / 英国 / 美国 / www.kingsmanmovie.com / 马修·沃恩 / 125分钟(中国大陆) / 129分钟 / 王牌特工：特工学院 / 喜剧 / 动作 / 冒险 / 简·古德曼 Jane Goldman / 马修·沃恩 Matthew Vaughn / 马克·米勒 Mark Millar / 戴夫·吉布森 Dave Gibbons / 英语 / 阿拉伯语 / 瑞典语",
+      "people": [
+        "塔伦·埃哲顿",
+        "科林·费尔斯",
+        "塞缪尔·杰克逊",
+        "迈克尔·凯恩",
+        "马克·斯特朗",
+        "索菲·库克森",
+        "索菲亚·波多拉",
+        "马克·哈米尔",
+        "杰克·达文波特",
+        "萨曼塔·沃马克",
+        "www.kingsmanmovie.com",
+        "马修·沃恩",
+        "125分钟(中国大陆)",
+        "王牌特工：特工学院",
+        "简·古德曼 Jane Goldman",
+        "马修·沃恩 Matthew Vaughn",
+        "马克·米勒 Mark Millar",
+        "戴夫·吉布森 Dave Gibbons"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2218945060.jpg"
+    },
+    {
+      "id": "10543723",
+      "cid": "4379509394",
+      "title": "凡尔赛宫",
+      "aka": [
+        "Versailles",
+        "BBC：凡尔赛宫",
+        "凡尔赛：国王的梦想+路易十六，革命倒计时 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/10543723/",
+      "cover": "data/posters/10543723.jpg",
+      "year": "2012",
+      "mark_date": "2024-12-11",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "历史",
+        "纪录片",
+        "古装"
+      ],
+      "languages": [
+        "英语",
+        "法语"
+      ],
+      "runtime": "49分钟",
+      "intro_raw": "2012-02-04(英国) / 英国 / www.bbc.co.uk/programmes/b01c000j / 49分钟 / 凡尔赛宫 / 历史 / 纪录片 / 古装 / Paul Burgess / Serge Lalou / 英语 / 法语",
+      "people": [
+        "www.bbc.co.uk",
+        "programmes",
+        "b01c000j",
+        "凡尔赛宫",
+        "Paul Burgess",
+        "Serge Lalou"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2576258799.jpg"
+    },
+    {
+      "id": "26379912",
+      "cid": "4379506524",
+      "title": "传奇办公室 第一季",
+      "aka": [
+        "Le Bureau des Légendes Season 1",
+        "巴黎情报局(台)",
+        "The Bureau"
+      ],
+      "url": "https://movie.douban.com/subject/26379912/",
+      "cover": "data/posters/26379912.jpg",
+      "year": "2015",
+      "mark_date": "2024-12-11",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "法国"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "法语"
+      ],
+      "runtime": "52分钟",
+      "intro_raw": "2015-04-27(法国) / 马修·卡索维茨 / 萨拉·吉罗多 / 蕾雅·德吕盖 / 乔纳森·扎凯 / 亚历山大·布拉瑟尔 / 吉勒·科昂 / 迈克尔·阿比特波 / Atmen Kelif / 梅迪·内博 / 艾乐蒂·纳瓦 / 法国 / www.canalplus.fr/series/pid8008-le-bureau-des-legendes.html / 埃里克·罗尚 / 让-马可·莫杜特 / 埃利耶·西斯泰纳 / 蕾娅·马拉茨 / 传奇办公室 / 52分钟 / 传奇办公室 / 剧情 / 埃里克·罗查特 Éric Rochant / Camille de Castelnau Camille de Castelnau / 艾曼纽埃耳·布迪厄 Emmanuel Bourdieu / 塞西尔·杜克罗克 Cécile Ducrocq / 法语",
+      "people": [
+        "马修·卡索维茨",
+        "萨拉·吉罗多",
+        "蕾雅·德吕盖",
+        "乔纳森·扎凯",
+        "亚历山大·布拉瑟尔",
+        "吉勒·科昂",
+        "迈克尔·阿比特波",
+        "Atmen Kelif",
+        "梅迪·内博",
+        "艾乐蒂·纳瓦",
+        "www.canalplus.fr",
+        "series",
+        "pid8008-le-bureau-des-legendes.html",
+        "埃里克·罗尚",
+        "让-马可·莫杜特",
+        "埃利耶·西斯泰纳",
+        "蕾娅·马拉茨",
+        "传奇办公室",
+        "传奇办公室",
+        "埃里克·罗查特 Éric Rochant",
+        "Camille de Castelnau Camille de Castelnau",
+        "艾曼纽埃耳·布迪厄 Emmanuel Bourdieu",
+        "塞西尔·杜克罗克 Cécile Ducrocq"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2245160920.jpg"
+    },
+    {
+      "id": "36656684",
+      "cid": "4360740935",
+      "title": "1122好夫妇",
+      "aka": [
+        "1122 いいふうふ",
+        "1122好夫妻",
+        "1122: For a Happy Marriage"
+      ],
+      "url": "https://movie.douban.com/subject/36656684/",
+      "cover": "data/posters/36656684.jpg",
+      "year": "2024",
+      "mark_date": "2024-11-22",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "57分钟",
+      "intro_raw": "2024-06-14(日本) / 高畑充希 / 冈田将生 / 西野七濑 / 高良健吾 / 吉野北人 / 中田久留美 / 宇垣美里 / 土村芳 / 千叶顺二 / 成田凌 / 日本 / 今泉力哉 / 57分钟 / 1122好夫妇 / 剧情 / 爱情 / 今泉香织 Kaori Imaizumi / 日语",
+      "people": [
+        "高畑充希",
+        "冈田将生",
+        "西野七濑",
+        "高良健吾",
+        "吉野北人",
+        "中田久留美",
+        "宇垣美里",
+        "土村芳",
+        "千叶顺二",
+        "成田凌",
+        "今泉力哉",
+        "今泉香织 Kaori Imaizumi"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2909454018.jpg"
+    },
+    {
+      "id": "6014999",
+      "cid": "4357273643",
+      "title": "傻春",
+      "aka": [
+        "Sha Chun [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/6014999/",
+      "cover": "data/posters/6014999.jpg",
+      "year": "2011",
+      "mark_date": "2024-11-18",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "家庭"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "45分钟",
+      "intro_raw": "2011-03-13(中国大陆) / 陶红 / 孔琳 / 毛晓彤 / 张蓓蓓 / 郑奇 / 魏小军 / 杨舒婷 / 郭晋东 / 许歌 / 杨雯雯 / 中国大陆 / 刘家成 / 45分钟 / 剧情 / 家庭 / 王之理 / 汉语普通话",
+      "people": [
+        "陶红",
+        "孔琳",
+        "毛晓彤",
+        "张蓓蓓",
+        "郑奇",
+        "魏小军",
+        "杨舒婷",
+        "郭晋东",
+        "许歌",
+        "杨雯雯",
+        "刘家成",
+        "王之理"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2375029734.jpg"
+    },
+    {
+      "id": "1292504",
+      "cid": "4355078201",
+      "title": "柏林苍穹下",
+      "aka": [
+        "Der Himmel über Berlin",
+        "欲望之翼(台)",
+        "Wings of Desire [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1292504/",
+      "cover": "data/posters/1292504.jpg",
+      "year": "1987",
+      "mark_date": "2024-11-16",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "法国"
+      ],
+      "genres": [
+        "奇幻",
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "德语",
+        "英语",
+        "法语",
+        "土耳其语",
+        "西班牙语",
+        "希伯来语"
+      ],
+      "runtime": "128分钟",
+      "intro_raw": "1987-09-23(法国) / 布鲁诺·冈茨 / 索尔维格·多马尔坦 / 奥托·山德尔 / 科特·博伊斯 / 彼得·法尔克 / 尼克·凯夫 / 奇克·奥尔特加 / 西德 / 法国 / 维姆·文德斯 / 128分钟 / 柏林苍穹下 / 奇幻 / 剧情 / 爱情 / 维姆·文德斯 Wim Wenders / 彼得·汉德克 Peter Handke / 德语 / 英语 / 法语 / 土耳其语 / 西班牙语 / 希伯来语",
+      "people": [
+        "布鲁诺·冈茨",
+        "索尔维格·多马尔坦",
+        "奥托·山德尔",
+        "科特·博伊斯",
+        "彼得·法尔克",
+        "尼克·凯夫",
+        "奇克·奥尔特加",
+        "西德",
+        "维姆·文德斯",
+        "柏林苍穹下",
+        "维姆·文德斯 Wim Wenders",
+        "彼得·汉德克 Peter Handke"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792520149.jpg"
+    },
+    {
+      "id": "36493839",
+      "cid": "4355077028",
+      "title": "如果太阳沉入云之海",
+      "aka": [
+        "Et si le soleil plongeait dans l&#39;océan de nues",
+        "If the Sun Drowned Into an Ocean of Clouds",
+        "如果太阳落在我们的海洋上"
+      ],
+      "url": "https://movie.douban.com/subject/36493839/",
+      "cover": "data/posters/36493839.jpg",
+      "year": "2023",
+      "mark_date": "2024-11-16",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "法国",
+        "黎巴嫩"
+      ],
+      "genres": [
+        "剧情",
+        "短片"
+      ],
+      "languages": [
+        "阿拉伯语"
+      ],
+      "runtime": "20分钟",
+      "intro_raw": "2023-08-30(威尼斯电影节) / 赛义德·塞尔汉 / 罗德里格·斯莱曼 / 拉伊德·亚辛 / 法国 / 黎巴嫩 / 维桑·沙拉夫 / 20分钟 / 如果太阳沉入云之海 / 剧情 / 短片 / 维桑·沙拉夫 Wissam Charaf / 阿拉伯语",
+      "people": [
+        "赛义德·塞尔汉",
+        "罗德里格·斯莱曼",
+        "拉伊德·亚辛",
+        "维桑·沙拉夫",
+        "如果太阳沉入云之海",
+        "维桑·沙拉夫 Wissam Charaf"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2898354052.jpg"
+    },
+    {
+      "id": "10571509",
+      "cid": "4347601827",
+      "title": "如父如子",
+      "aka": [
+        "そして父になる",
+        "谁调换了我的父亲(港)",
+        "我的意外爸爸(台) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/10571509/",
+      "cover": "data/posters/10571509.jpg",
+      "year": "2013",
+      "mark_date": "2024-11-08",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "剧情",
+        "家庭"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "120分钟",
+      "intro_raw": "2013-09-28(日本) / 2024-12-06(中国大陆) / 福山雅治 / 尾野真千子 / 真木阳子 / 中川雅也 / 风吹淳 / 国村隼 / 树木希林 / 夏八木勋 / 井浦新 / 二宫庆多 / 日本 / soshitechichininaru.gaga.ne.jp / 是枝裕和 / 120分钟 / 如父如子 / 剧情 / 家庭 / 是枝裕和 Hirokazu Koreeda / 日语",
+      "people": [
+        "福山雅治",
+        "尾野真千子",
+        "真木阳子",
+        "中川雅也",
+        "风吹淳",
+        "国村隼",
+        "树木希林",
+        "夏八木勋",
+        "井浦新",
+        "二宫庆多",
+        "soshitechichininaru.gaga.ne.jp",
+        "是枝裕和",
+        "如父如子",
+        "是枝裕和 Hirokazu Koreeda"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915054770.jpg"
     },
     {
       "id": "2078989",
@@ -11949,7 +12630,7 @@
         "李沧东 Chang-dong Lee",
         "李清俊 Chung-Joon Lee"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1193264503.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p454143199.jpg"
     },
     {
       "id": "2997297",
