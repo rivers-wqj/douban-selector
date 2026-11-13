@@ -3,8 +3,8 @@
   "type": "collect",
   "label": "看过",
   "total_declared": 806,
-  "fetched": 789,
-  "fetched_at": "2026-11-12T06:40:29+0000",
+  "fetched": 804,
+  "fetched_at": "2026-11-13T05:57:11+0000",
   "movies": [
     {
       "id": "36452545",
@@ -9656,6 +9656,658 @@
         "邵艺辉 Yihui Shao"
       ],
       "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915454411.jpg"
+    },
+    {
+      "id": "26882457",
+      "cid": "4356635867",
+      "title": "断片之险途夺宝",
+      "aka": [
+        "断片儿",
+        "Mad Ebriety [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/26882457/",
+      "cover": "data/posters/26882457.jpg",
+      "year": "2018",
+      "mark_date": "2024-11-18",
+      "rating": 1,
+      "comment": "葛优莫名有点周星驰味",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "喜剧",
+        "冒险"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "95分钟",
+      "intro_raw": "2018-12-29(中国大陆) / 葛优 / 岳云鹏 / 杜淳 / 蔡卓妍 / 包贝尔 / 小沈阳 / 陈赫 / 潘斌龙 / 热依扎 / 孙越 / 中国大陆 / 罗登 / 郭爽 / 95分钟 / 喜剧 / 冒险 / 冯媛 Yuan Feng / 汉语普通话",
+      "people": [
+        "葛优",
+        "岳云鹏",
+        "杜淳",
+        "蔡卓妍",
+        "包贝尔",
+        "小沈阳",
+        "陈赫",
+        "潘斌龙",
+        "热依扎",
+        "孙越",
+        "罗登",
+        "郭爽",
+        "冯媛 Yuan Feng"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541553709.jpg"
+    },
+    {
+      "id": "35633904",
+      "cid": "4355869726",
+      "title": "刺猬",
+      "aka": [
+        "刺·猬",
+        "The Hedgehog [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35633904/",
+      "cover": "data/posters/35633904.jpg",
+      "year": "2024",
+      "mark_date": "2024-11-17",
+      "rating": 3,
+      "comment": "压抑的东北，压抑的国度",
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧",
+        "家庭"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "103分钟",
+      "intro_raw": "2024-06-20(上海国际电影节) / 2024-08-23(中国大陆) / 葛优 / 王俊凯 / 李萍 / 刘威葳 / 耿乐 / 张本煜 / 赵千紫 / 李千逸 / 吕行 / 朱怀旭 / 中国大陆 / 中国香港 / 顾长卫 / 103分钟 / 剧情 / 喜剧 / 家庭 / 郑执 Zhi Zheng / 郭方方 Fangfang Guo / 顾长卫 Changwei Gu / 汉语普通话",
+      "people": [
+        "葛优",
+        "王俊凯",
+        "李萍",
+        "刘威葳",
+        "耿乐",
+        "张本煜",
+        "赵千紫",
+        "李千逸",
+        "吕行",
+        "朱怀旭",
+        "顾长卫",
+        "郑执 Zhi Zheng",
+        "郭方方 Fangfang Guo",
+        "顾长卫 Changwei Gu"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2912147213.jpg"
+    },
+    {
+      "id": "35811225",
+      "cid": "4355823981",
+      "title": "爆款好人",
+      "aka": [
+        "北京进行时‎",
+        "北京欢迎你 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35811225/",
+      "cover": "data/posters/35811225.jpg",
+      "year": "2024",
+      "mark_date": "2024-11-17",
+      "rating": 2,
+      "comment": "张北京还是符合对北京人的想象的",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "113分钟",
+      "intro_raw": "2024-10-01(中国大陆) / 葛优 / 李雪琴 / 杨皓宇 / 桑平 / 刘敏涛 / 危笑 / 吕行 / 立立福桥 / 吴磊 / 贾冰 / 中国大陆 / 宁浩 / 徐磊 / 113分钟 / 剧情 / 喜剧 / 王昂 Ang Wang / 刘晓丹 Xiaodan Liu / 汉语普通话",
+      "people": [
+        "葛优",
+        "李雪琴",
+        "杨皓宇",
+        "桑平",
+        "刘敏涛",
+        "危笑",
+        "吕行",
+        "立立福桥",
+        "吴磊",
+        "贾冰",
+        "宁浩",
+        "徐磊",
+        "王昂 Ang Wang",
+        "刘晓丹 Xiaodan Liu"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2913362178.jpg"
+    },
+    {
+      "id": "26389466",
+      "cid": "4355149762",
+      "title": "一句顶一万句",
+      "aka": [
+        "Someone to Talk to [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/26389466/",
+      "cover": "data/posters/26389466.jpg",
+      "year": "2016",
+      "mark_date": "2024-11-16",
+      "rating": 1,
+      "comment": "刘蓓还是不错",
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "genres": [
+        "剧情",
+        "爱情",
+        "家庭"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "110分钟",
+      "intro_raw": "2016-11-04(中国大陆) / 毛孩 / 李倩 / 刘蓓 / 范伟 / 李诺诺 / 齐溪 / 喻恩泰 / 孙茜 / 马兰 / 刘震云 / 中国大陆 / 中国香港 / 刘雨霖 / 110分钟 / 剧情 / 爱情 / 家庭 / 刘震云 Zhenyun Liu / 汉语普通话",
+      "people": [
+        "毛孩",
+        "李倩",
+        "刘蓓",
+        "范伟",
+        "李诺诺",
+        "齐溪",
+        "喻恩泰",
+        "孙茜",
+        "马兰",
+        "刘震云",
+        "刘雨霖",
+        "刘震云 Zhenyun Liu"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2389970856.jpg"
+    },
+    {
+      "id": "1296218",
+      "cid": "4355047106",
+      "title": "过年",
+      "aka": [
+        "The Spring Festival [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1296218/",
+      "cover": "data/posters/1296218.jpg",
+      "year": "1991",
+      "mark_date": "2024-11-16",
+      "rating": 4,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "家庭"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "101分钟",
+      "intro_raw": "1991-02-12(中国大陆) / 赵丽蓉 / 李保田 / 葛优 / 六小龄童 / 丁嘉丽 / 胡亚捷 / 谭晓燕 / 梁天 / 马晓晴 / 王丽云 / 中国大陆 / 黄健中 / 101分钟 / 剧情 / 家庭 / 姜一 Yi Jiang / 汉语普通话",
+      "people": [
+        "赵丽蓉",
+        "李保田",
+        "葛优",
+        "六小龄童",
+        "丁嘉丽",
+        "胡亚捷",
+        "谭晓燕",
+        "梁天",
+        "马晓晴",
+        "王丽云",
+        "黄健中",
+        "姜一 Yi Jiang"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2206392237.jpg"
+    },
+    {
+      "id": "1296436",
+      "cid": "4354494531",
+      "title": "有话好好说",
+      "aka": [
+        "晚报新闻",
+        "Keep Cool [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1296436/",
+      "cover": "data/posters/1296436.jpg",
+      "year": "1997",
+      "mark_date": "2024-11-16",
+      "rating": 5,
+      "comment": "越看越绝，发条老北京。",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "90分钟",
+      "intro_raw": "1997-05-16(中国大陆) / 1997-09-02(威尼斯电影节) / 姜文 / 李保田 / 瞿颖 / 刘信义 / 葛优 / 李雪健 / 尤勇智 / 张艺谋 / 赵本山 / 焦刚 / 中国大陆 / 张艺谋 / 90分钟 / 剧情 / 喜剧 / 述平 Shuping / 汉语普通话",
+      "people": [
+        "姜文",
+        "李保田",
+        "瞿颖",
+        "刘信义",
+        "葛优",
+        "李雪健",
+        "尤勇智",
+        "张艺谋",
+        "赵本山",
+        "焦刚",
+        "张艺谋",
+        "述平 Shuping"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2930888355.jpg"
+    },
+    {
+      "id": "1308747",
+      "cid": "4352194868",
+      "title": "手机",
+      "aka": [
+        "Cell Phone [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1308747/",
+      "cover": "data/posters/1308747.jpg",
+      "year": "2003",
+      "mark_date": "2024-11-13",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧",
+        "家庭"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "107分钟",
+      "intro_raw": "2003-12-18(中国大陆) / 张国立 / 葛优 / 范冰冰 / 徐帆 / 韩童生 / 黄素影 / 杨欣 / 张涵予 / 范伟 / 张鹭 / 中国大陆 / 冯小刚 / 107分钟 / 剧情 / 喜剧 / 家庭 / 刘震云 Zhenyun Liu / 汉语普通话",
+      "people": [
+        "张国立",
+        "葛优",
+        "范冰冰",
+        "徐帆",
+        "韩童生",
+        "黄素影",
+        "杨欣",
+        "张涵予",
+        "范伟",
+        "张鹭",
+        "冯小刚",
+        "刘震云 Zhenyun Liu"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1930481609.jpg"
+    },
+    {
+      "id": "1306626",
+      "cid": "4269034537",
+      "title": "堤",
+      "aka": [
+        "La jetée",
+        "停机坪",
+        "堤坝 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1306626/",
+      "cover": "data/posters/1306626.jpg",
+      "year": "1962",
+      "mark_date": "2024-11-13",
+      "rating": 3,
+      "comment": "此刻不是特别能欣赏得来，下次再看看",
+      "countries": [
+        "法国"
+      ],
+      "genres": [
+        "短片",
+        "剧情",
+        "爱情",
+        "科幻"
+      ],
+      "languages": [
+        "法语",
+        "德语"
+      ],
+      "runtime": "28 分钟",
+      "intro_raw": "1962-02-16 / 让·内格罗尼 / 埃莱娜·夏特兰 / 达沃斯·哈尼奇 / 雅克·勒杜 / Étienne Becker / 利贾·布拉尼卡 / 威廉姆·克莱因 / Germano Facetti / 法国 / 克里斯·马克 / 28 分钟 / 堤 / 短片 / 剧情 / 爱情 / 科幻 / 克里斯·马克 Chris Marker / 法语 / 德语",
+      "people": [
+        "让·内格罗尼",
+        "埃莱娜·夏特兰",
+        "达沃斯·哈尼奇",
+        "雅克·勒杜",
+        "Étienne Becker",
+        "利贾·布拉尼卡",
+        "威廉姆·克莱因",
+        "Germano Facetti",
+        "克里斯·马克",
+        "堤",
+        "克里斯·马克 Chris Marker"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p609912930.jpg"
+    },
+    {
+      "id": "1307690",
+      "cid": "4348566219",
+      "title": "顽主",
+      "aka": [
+        "The Troubleshooters [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1307690/",
+      "cover": "data/posters/1307690.jpg",
+      "year": "1988",
+      "mark_date": "2024-11-09",
+      "rating": 4,
+      "comment": "T台真的",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "100分钟",
+      "intro_raw": "1988(中国大陆) / 1989-09-15(多伦多电影节) / 张国立 / 葛优 / 梁天 / 潘虹 / 马晓晴 / 孙凤英 / 李耕 / 董钰刚 / 颜彼得 / 侯耀华 / 中国大陆 / 米家山 / 100分钟 / 剧情 / 喜剧 / 米家山 Jiashan Mi / 王朔 / 汉语普通话",
+      "people": [
+        "张国立",
+        "葛优",
+        "梁天",
+        "潘虹",
+        "马晓晴",
+        "孙凤英",
+        "李耕",
+        "董钰刚",
+        "颜彼得",
+        "侯耀华",
+        "米家山",
+        "米家山 Jiashan Mi",
+        "王朔"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568766751.jpg"
+    },
+    {
+      "id": "1297880",
+      "cid": "4347611665",
+      "title": "芙蓉镇",
+      "aka": [
+        "Hibiscus Town [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1297880/",
+      "cover": "data/posters/1297880.jpg",
+      "year": "1987",
+      "mark_date": "2024-11-08",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "164 分钟",
+      "intro_raw": "1987-03-05(中国大陆上海首映) / 刘晓庆 / 姜文 / 郑在石 / 张光北 / 徐松子 / 祝士彬 / 刘利年 / 徐宁 / 麦文燕 / 姜友石 / 中国大陆 / 谢晋 / 164 分钟 / 剧情 / 爱情 / 阿城 A Cheng / 谢晋 Jin Xie / 汉语普通话",
+      "people": [
+        "刘晓庆",
+        "姜文",
+        "郑在石",
+        "张光北",
+        "徐松子",
+        "祝士彬",
+        "刘利年",
+        "徐宁",
+        "麦文燕",
+        "姜友石",
+        "谢晋",
+        "阿城 A Cheng",
+        "谢晋 Jin Xie"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2575337180.jpg"
+    },
+    {
+      "id": "32659890",
+      "cid": "4339586884",
+      "title": "我和我的祖国",
+      "aka": [
+        "My People, My Country [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/32659890/",
+      "cover": "data/posters/32659890.jpg",
+      "year": "2019",
+      "mark_date": "2024-10-30",
+      "rating": 3,
+      "comment": "为了看葛优没想到时隔四五年又看了一遍，共情了在北京公交车上诉说往事的那一段，葛优的张北京让人感觉北京好有生机（",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "155分钟",
+      "intro_raw": "2019-09-30(中国大陆) / 黄渤 / 张译 / 韩昊霖 / 杜江 / 葛优 / 刘昊然 / 宋佳 / 王千源 / 任素汐 / 吴京 / 中国大陆 / 陈凯歌 / 张一白 / 管虎 / 薛晓路 / 徐峥 / 宁浩 / 文牧野 / 155分钟 / 剧情 / 文宁 Ning Wen / 修梦迪 Mengdi Xiu / 薛晓路 Xiaolu Xue / 何可可 Keke He / 徐峥 Zheng Xu / 管虎 Hu Guan / 张冀 Ji Zhang / 汉语普通话",
+      "people": [
+        "黄渤",
+        "张译",
+        "韩昊霖",
+        "杜江",
+        "葛优",
+        "刘昊然",
+        "宋佳",
+        "王千源",
+        "任素汐",
+        "吴京",
+        "陈凯歌",
+        "张一白",
+        "管虎",
+        "薛晓路",
+        "徐峥",
+        "宁浩",
+        "文牧野",
+        "文宁 Ning Wen",
+        "修梦迪 Mengdi Xiu",
+        "薛晓路 Xiaolu Xue",
+        "何可可 Keke He",
+        "徐峥 Zheng Xu",
+        "管虎 Hu Guan",
+        "张冀 Ji Zhang"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2567998580.jpg"
+    },
+    {
+      "id": "24751763",
+      "cid": "4339509298",
+      "title": "罗曼蒂克消亡史",
+      "aka": [
+        "旧社会",
+        "浮生如梦 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/24751763/",
+      "cover": "data/posters/24751763.jpg",
+      "year": "2016",
+      "mark_date": "2024-10-30",
+      "rating": 3,
+      "comment": "葛优还是不错",
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "汉语普通话",
+        "上海话",
+        "日语",
+        "英语"
+      ],
+      "runtime": "125分钟",
+      "intro_raw": "2016-12-16(中国大陆) / 葛优 / 章子怡 / 浅野忠信 / 杜淳 / 钟欣潼 / 倪大红 / 赵宝刚 / 袁泉 / 闫妮 / 韩庚 / 中国大陆 / 中国香港 / 程耳 / 125分钟 / 剧情 / 程耳 Er Cheng / 汉语普通话 / 上海话 / 日语 / 英语",
+      "people": [
+        "葛优",
+        "章子怡",
+        "浅野忠信",
+        "杜淳",
+        "钟欣潼",
+        "倪大红",
+        "赵宝刚",
+        "袁泉",
+        "闫妮",
+        "韩庚",
+        "程耳",
+        "程耳 Er Cheng"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2404553168.jpg"
+    },
+    {
+      "id": "1793781",
+      "cid": "4334275040",
+      "title": "离婚大战",
+      "aka": [
+        "[可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1793781/",
+      "cover": "data/posters/1793781.jpg",
+      "year": "",
+      "mark_date": "2024-10-24",
+      "rating": 2,
+      "comment": "相比葛大爷其他电影这就显得很一般了，虽然里面的姐姐们都好嗲甚至是蔡明都可爱。",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "92分钟",
+      "intro_raw": "蔡明 / 方青卓 / 盖丽丽 / 葛优 / 大力 / 侯耀华 / 李耕 / 李嘉存 / 李婉芬 / 梁冠华 / 中国大陆 / 陈国星 / 臧金生 / 92分钟 / 剧情 / 陈国星 Guoxing Chen / 马军骧 Junxiang Ma / 汉语普通话",
+      "people": [
+        "蔡明",
+        "方青卓",
+        "盖丽丽",
+        "葛优",
+        "大力",
+        "侯耀华",
+        "李耕",
+        "李嘉存",
+        "李婉芬",
+        "梁冠华",
+        "陈国星",
+        "臧金生",
+        "陈国星 Guoxing Chen",
+        "马军骧 Junxiang Ma"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2868382106.jpg"
+    },
+    {
+      "id": "1296253",
+      "cid": "4332880778",
+      "title": "没完没了",
+      "aka": [
+        "Sorry Baby [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1296253/",
+      "cover": "data/posters/1296253.jpg",
+      "year": "1999",
+      "mark_date": "2024-10-22",
+      "rating": 5,
+      "comment": "在北京上学没怎么离开海淀的一亩三分地，出门也总是胡同和公园。这是千禧年来临前的电影，但北京种种对我来说就像是去年而已，永远怀念。",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "95分钟",
+      "intro_raw": "1999-12-15(北京首映) / 葛优 / 吴倩莲 / 傅彪 / 徐帆 / 刘蓓 / 刘威 / 韩童生 / 秦焰 / 何冰 / 张涵予 / 中国大陆 / 冯小刚 / 88分钟 / 95分钟 / 剧情 / 喜剧 / 王小柱 Xiao Zhu Wang / 白铁军 Tiejun Bai / 汉语普通话",
+      "people": [
+        "葛优",
+        "吴倩莲",
+        "傅彪",
+        "徐帆",
+        "刘蓓",
+        "刘威",
+        "韩童生",
+        "秦焰",
+        "何冰",
+        "张涵予",
+        "冯小刚",
+        "王小柱 Xiao Zhu Wang",
+        "白铁军 Tiejun Bai"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2104173609.jpg"
+    },
+    {
+      "id": "10605978",
+      "cid": "4331996200",
+      "title": "私人订制",
+      "aka": [
+        "贵族",
+        "Personal Tailor [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/10605978/",
+      "cover": "data/posters/10605978.jpg",
+      "year": "2013",
+      "mark_date": "2024-10-21",
+      "rating": 1,
+      "comment": "甲方乙方和私人定制的差异就像是一件赏心悦目的艺术品，和一件不赏心悦目美但却要说他立意之高思想之深的艺术品。",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "118分钟",
+      "intro_raw": "2013-12-19(中国大陆) / 葛优 / 白百何 / 李小璐 / 郑恺 / 范伟 / 宋丹丹 / 李诚儒 / 苗圃 / 杜家毅 / 梁天 / 中国大陆 / 冯小刚 / 118分钟 / 喜剧 / 王朔 Shuo Wang / 汉语普通话",
+      "people": [
+        "葛优",
+        "白百何",
+        "李小璐",
+        "郑恺",
+        "范伟",
+        "宋丹丹",
+        "李诚儒",
+        "苗圃",
+        "杜家毅",
+        "梁天",
+        "冯小刚",
+        "王朔 Shuo Wang"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2159261731.jpg"
     },
     {
       "id": "26711487",
