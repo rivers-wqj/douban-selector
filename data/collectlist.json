@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 806,
   "fetched": 804,
-  "fetched_at": "2026-11-14T05:46:24+0000",
+  "fetched_at": "2026-11-15T05:44:59+0000",
   "movies": [
     {
       "id": "36452545",
@@ -7104,7 +7104,7 @@
         "浪漫满屋",
         "敏孝正 Hyo-jeong Min"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2891089760.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937504636.jpg"
     },
     {
       "id": "2295811",
@@ -17010,7 +17010,7 @@
         "红猪",
         "宫崎骏 Hayao Miyazaki"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1097608636.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2899263477.jpg"
     },
     {
       "id": "1299795",
@@ -17198,7 +17198,7 @@
       "aka": [
         "Vicky Cristina Barcelona",
         "情迷巴塞隆拿(港)",
-        "情遇巴塞隆纳(台)"
+        "情遇巴塞隆纳(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1981242/",
       "cover": "data/posters/1981242.jpg",
