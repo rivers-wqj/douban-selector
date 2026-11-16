@@ -2,10 +2,98 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 806,
-  "fetched": 804,
-  "fetched_at": "2026-11-15T05:44:59+0000",
+  "total_declared": 808,
+  "fetched": 806,
+  "fetched_at": "2026-11-16T05:44:30+0000",
   "movies": [
+    {
+      "id": "36847425",
+      "cid": "4990185045",
+      "title": "可能的爱",
+      "aka": [
+        "가능한 사랑",
+        "假如爱有如果(台)",
+        "可能的爱情"
+      ],
+      "url": "https://movie.douban.com/subject/36847425/",
+      "cover": "data/posters/36847425.jpg",
+      "year": "2026",
+      "mark_date": "2026-11-16",
+      "rating": 4,
+      "comment": "时刻担心drama的场景出现，但都还好，度假屋那一段确实不错！",
+      "countries": [
+        "韩国"
+      ],
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "languages": [
+        "韩语"
+      ],
+      "runtime": "166分钟",
+      "intro_raw": "2026-09-06(威尼斯电影节) / 2026-09-23(韩国) / 2026-11-06(韩国网络) / 全度妍 / 薛景求 / 赵寅成 / 赵汝贞 / 郑燮 / 曺柔理 / 崔珉 / 姜昌权 / 全云重 / 李柱焕 / 韩国 / 李沧东 / 166分钟 / 可能的爱 / 剧情 / 爱情 / 李沧东 Chang-dong Lee / 吴政美 Jung-mi Oh / 韩语",
+      "people": [
+        "全度妍",
+        "薛景求",
+        "赵寅成",
+        "赵汝贞",
+        "郑燮",
+        "曺柔理",
+        "崔珉",
+        "姜昌权",
+        "全云重",
+        "李柱焕",
+        "李沧东",
+        "可能的爱",
+        "李沧东 Chang-dong Lee",
+        "吴政美 Jung-mi Oh"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935488630.jpg"
+    },
+    {
+      "id": "35740379",
+      "cid": "4990042759",
+      "title": "弗吉尼亚·伍尔夫的夜与日",
+      "aka": [
+        "Virginia Woolf’s Night &amp; Day",
+        "Virginia Woolf’s Night & Day"
+      ],
+      "url": "https://movie.douban.com/subject/35740379/",
+      "cover": "data/posters/35740379.jpg",
+      "year": "2026",
+      "mark_date": "2026-11-15",
+      "rating": 3,
+      "comment": "When we know what we want, only then will we truly be free.",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "95分钟",
+      "intro_raw": "2026-06-01(SXSW London) / 2026-06-19(英国) / 海莉·贝内特 / 埃利亚斯·穆巴里克 / 莉莉·艾伦 / 杰克·怀特霍尔 / 珍妮弗·桑德斯 / 蒂莫西·斯波 / 西蒙·飞利普斯 / 莎莉·菲利普斯 / 卡米拉·伯尔格萨尼 / 米西亚·巴特勒 / 英国 / 蒂娜·加拉威 / 95分钟 / 弗吉尼亚·伍尔夫的夜与日 / 剧情 / 贾斯蒂恩·瓦戴尔 Justine Waddell / 弗吉尼亚·伍尔芙 Virginia Woolf / 英语",
+      "people": [
+        "海莉·贝内特",
+        "埃利亚斯·穆巴里克",
+        "莉莉·艾伦",
+        "杰克·怀特霍尔",
+        "珍妮弗·桑德斯",
+        "蒂莫西·斯波",
+        "西蒙·飞利普斯",
+        "莎莉·菲利普斯",
+        "卡米拉·伯尔格萨尼",
+        "米西亚·巴特勒",
+        "蒂娜·加拉威",
+        "弗吉尼亚·伍尔夫的夜与日",
+        "贾斯蒂恩·瓦戴尔 Justine Waddell",
+        "弗吉尼亚·伍尔芙 Virginia Woolf"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933835450.jpg"
+    },
     {
       "id": "36452545",
       "cid": "4980234785",
@@ -14801,7 +14889,7 @@
         "汉语普通话"
       ],
       "runtime": "156分钟",
-      "intro_raw": "2021-09-03(威尼斯电影节) / 2021-10-22(美国/中国大陆) / 2024-03-01(中国大陆重映) / 提莫西·查拉梅 / 丽贝卡·弗格森 / 奥斯卡·伊萨克 / 戴夫·巴蒂斯塔 / 赞达亚 / 杰森·莫玛 / 乔什·布洛林 / 哈维尔·巴登 / 斯特兰·斯卡斯加德 / 夏洛特·兰普林 / 美国 / www.dunemovie.net / 丹尼斯·维伦纽瓦 / 156分钟 / 沙丘 / 剧情 / 科幻 / 冒险 / 丹尼斯·维伦纽瓦 Denis Villeneuve / 乔·斯派茨 Jon Spaihts / 艾瑞克·罗斯 Eric Roth / 弗兰克·赫伯特 Frank Herbert / 英语 / 汉语普通话",
+      "intro_raw": "2021-09-03(威尼斯电影节) / 2021-10-22(美国/中国大陆) / 2024-03-01(中国大陆重映) / 2026-11-27(中国大陆重映) / 提莫西·查拉梅 / 丽贝卡·弗格森 / 奥斯卡·伊萨克 / 戴夫·巴蒂斯塔 / 赞达亚 / 杰森·莫玛 / 乔什·布洛林 / 哈维尔·巴登 / 斯特兰·斯卡斯加德 / 夏洛特·兰普林 / 美国 / www.dunemovie.net / 丹尼斯·维伦纽瓦 / 156分钟 / 沙丘 / 剧情 / 科幻 / 冒险 / 丹尼斯·维伦纽瓦 Denis Villeneuve / 乔·斯派茨 Jon Spaihts / 艾瑞克·罗斯 Eric Roth / 弗兰克·赫伯特 Frank Herbert / 英语 / 汉语普通话",
       "people": [
         "中国大陆)",
         "提莫西·查拉梅",

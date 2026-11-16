@@ -2,10 +2,51 @@
   "user": "141769761",
   "type": "wish",
   "label": "想看",
-  "total_declared": 427,
-  "fetched": 418,
-  "fetched_at": "2026-11-15T05:41:59+0000",
+  "total_declared": 428,
+  "fetched": 419,
+  "fetched_at": "2026-11-16T05:41:37+0000",
   "movies": [
+    {
+      "id": "35700733",
+      "cid": "4990197364",
+      "title": "夏日细语",
+      "aka": [
+        "An Cailín Ciúin",
+        "夏日悄悄话(台)",
+        "恬静之夏(港) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35700733/",
+      "cover": "data/posters/35700733.jpg",
+      "year": "2022",
+      "mark_date": "2026-11-16",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "爱尔兰"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "94分钟",
+      "intro_raw": "2022-02-11(柏林电影节) / 2022-05-13(爱尔兰) / 凯瑟琳·克林奇 / 凯瑞·克劳利 / 安德鲁·班尼特 / 迈克尔·帕特里克 / 凯特·尼克·乔纳尼 / 卡罗琳·布莱肯 / 琼·希伊 / 爱尔兰 / 科尔姆·拜瑞德 / 94分钟 / 夏日细语 / 剧情 / 科鲁姆·拜瑞阿德 Colm Bairéad / 英语 / 爱尔兰语",
+      "people": [
+        "凯瑟琳·克林奇",
+        "凯瑞·克劳利",
+        "安德鲁·班尼特",
+        "迈克尔·帕特里克",
+        "凯特·尼克·乔纳尼",
+        "卡罗琳·布莱肯",
+        "琼·希伊",
+        "科尔姆·拜瑞德",
+        "夏日细语",
+        "科鲁姆·拜瑞阿德 Colm Bairéad",
+        "爱尔兰语"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2868413486.jpg"
+    },
     {
       "id": "26952704",
       "cid": "4986576743",
