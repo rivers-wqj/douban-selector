@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 428,
   "fetched": 419,
-  "fetched_at": "2026-11-23T06:43:42+0000",
+  "fetched_at": "2026-11-24T09:11:54+0000",
   "movies": [
     {
       "id": "35700733",
@@ -10850,7 +10850,7 @@
       ],
       "url": "https://movie.douban.com/subject/1306130/",
       "cover": "data/posters/1306130.jpg",
-      "year": "1999",
+      "year": "1998",
       "mark_date": "2023-07-02",
       "rating": 0,
       "comment": "",
@@ -10865,7 +10865,7 @@
         "汉语普通话"
       ],
       "runtime": "105分钟",
-      "intro_raw": "1999-11-08(夏威夷电影节) / 高圆圆 / 徐静蕾 / 邵兵 / 濮存昕 / 周华健 / 郭涛 / 徐帆 / 文兴宇 / 王学兵 / 赵淼 / 中国大陆 / 张杨 / 105分钟 / 剧情 / 爱情 / 刘奋斗 Fendou Liu / 刁亦男 Yi&#39;nan Diao / 蔡尚君 Shangjun Cai / 张杨 Yang Zhang / 皮特·洛尔 Peter Loehr / 汉语普通话",
+      "intro_raw": "1998(中国大陆) / 1999-11-08(夏威夷电影节) / 高圆圆 / 徐静蕾 / 邵兵 / 濮存昕 / 周华健 / 郭涛 / 徐帆 / 文兴宇 / 王学兵 / 赵淼 / 中国大陆 / 张杨 / 105分钟 / 剧情 / 爱情 / 刘奋斗 Fendou Liu / 刁亦男 Yi&#39;nan Diao / 蔡尚君 Shangjun Cai / 张杨 Yang Zhang / 皮特·洛尔 Peter Loehr / 汉语普通话",
       "people": [
         "高圆圆",
         "徐静蕾",

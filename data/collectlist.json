@@ -2,10 +2,54 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 809,
-  "fetched": 807,
-  "fetched_at": "2026-11-23T06:47:14+0000",
+  "total_declared": 810,
+  "fetched": 808,
+  "fetched_at": "2026-11-24T09:14:50+0000",
   "movies": [
+    {
+      "id": "37869561",
+      "cid": "4996498374",
+      "title": "人生暂停键",
+      "aka": [
+        "Paaz",
+        "Honestly, I'm Fine"
+      ],
+      "url": "https://movie.douban.com/subject/37869561/",
+      "cover": "data/posters/37869561.jpg",
+      "year": "2026",
+      "mark_date": "2026-11-23",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "荷兰"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [],
+      "runtime": "107分钟",
+      "intro_raw": "2026-02-26(荷兰) / 盖特·杨森 / 乔纳斯·斯莫德斯 / 吉斯·布洛姆 / 阿丽亚娜·施洛特 / 彼得·勃洛克 / 乔治娜·芜班 / 比安卡·克里格斯曼 / Joke Tjalsma / Martin van Waardenberg / Malou Gorter / 荷兰 / Anne de Clercq / 107分钟 / 人生暂停键 / 剧情 / Anne de Clercq / Eva Aben / Myrthe van der Meer / Lineke van den Boezem / 荷兰语",
+      "people": [
+        "盖特·杨森",
+        "乔纳斯·斯莫德斯",
+        "吉斯·布洛姆",
+        "阿丽亚娜·施洛特",
+        "彼得·勃洛克",
+        "乔治娜·芜班",
+        "比安卡·克里格斯曼",
+        "Joke Tjalsma",
+        "Martin van Waardenberg",
+        "Malou Gorter",
+        "Anne de Clercq",
+        "人生暂停键",
+        "Anne de Clercq",
+        "Eva Aben",
+        "Myrthe van der Meer",
+        "Lineke van den Boezem",
+        "荷兰语"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931977173.jpg"
+    },
     {
       "id": "37215318",
       "cid": "4991353024",
