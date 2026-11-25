@@ -2,10 +2,54 @@
   "user": "141769761",
   "type": "collect",
   "label": "看过",
-  "total_declared": 810,
-  "fetched": 808,
-  "fetched_at": "2026-11-24T09:14:50+0000",
+  "total_declared": 811,
+  "fetched": 809,
+  "fetched_at": "2026-11-25T07:51:00+0000",
   "movies": [
+    {
+      "id": "35876302",
+      "cid": "4997318961",
+      "title": "晒后假日",
+      "aka": [
+        "Aftersun",
+        "日丽(台)",
+        "日丽追忆(港) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/35876302/",
+      "cover": "data/posters/35876302.jpg",
+      "year": "2022",
+      "mark_date": "2026-11-24",
+      "rating": 3,
+      "comment": "",
+      "countries": [
+        "英国",
+        "美国"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "101分钟",
+      "intro_raw": "2022-05-21(戛纳电影节) / 2022-10-21(美国) / 保罗·麦斯卡 / 弗兰基·科里奥 / 西莉亚·罗森-豪尔 / 萨莉·梅瑟姆 / 艾斯·帕拉克 / 索菲亚·拉玛诺瓦 / 布鲁克林·托尔森 / 斯派克·费恩 / 弗兰克·科利奥 / 哈里·佩迪奥斯 / 英国 / 美国 / 夏洛特·威尔斯 / 101分钟 / 晒后假日 / 剧情 / 夏洛特·威尔斯 Charlotte Wells / 英语",
+      "people": [
+        "保罗·麦斯卡",
+        "弗兰基·科里奥",
+        "西莉亚·罗森-豪尔",
+        "萨莉·梅瑟姆",
+        "艾斯·帕拉克",
+        "索菲亚·拉玛诺瓦",
+        "布鲁克林·托尔森",
+        "斯派克·费恩",
+        "弗兰克·科利奥",
+        "哈里·佩迪奥斯",
+        "夏洛特·威尔斯",
+        "晒后假日",
+        "夏洛特·威尔斯 Charlotte Wells"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2880990688.jpg"
+    },
     {
       "id": "37869561",
       "cid": "4996498374",
@@ -29169,7 +29213,7 @@
         "第七封印",
         "英格玛·伯格曼 Ingmar Bergman"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1530862943.jpg"
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2917053741.jpg"
     },
     {
       "id": "27010768",

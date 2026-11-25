@@ -2,10 +2,129 @@
   "user": "141769761",
   "type": "wish",
   "label": "想看",
-  "total_declared": 428,
-  "fetched": 419,
-  "fetched_at": "2026-11-24T09:11:54+0000",
+  "total_declared": 431,
+  "fetched": 422,
+  "fetched_at": "2026-11-25T07:48:01+0000",
   "movies": [
+    {
+      "id": "5279593",
+      "cid": "4997325079",
+      "title": "幸福的面包",
+      "aka": [
+        "しあわせのパン",
+        "幸福面包",
+        "Shiawase no pan [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/5279593/",
+      "cover": "data/posters/5279593.jpg",
+      "year": "2012",
+      "mark_date": "2026-11-24",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "日本"
+      ],
+      "genres": [
+        "剧情"
+      ],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "114分钟",
+      "intro_raw": "2012-01-28(日本) / 大泉洋 / 原田知世 / 森宽和 / 光石研 / 平冈祐太 / 八木优希 / 中村嘉葎雄 / 渡边美佐子 / 县森鱼 / 余贵美子 / 日本 / shiawase-pan.asmik-ace.co.jp/index.html / 三岛有纪子 / 114分钟 / 幸福的面包 / 剧情 / 三岛有纪子 Yukiko Mishima / 日语",
+      "people": [
+        "大泉洋",
+        "原田知世",
+        "森宽和",
+        "光石研",
+        "平冈祐太",
+        "八木优希",
+        "中村嘉葎雄",
+        "渡边美佐子",
+        "县森鱼",
+        "余贵美子",
+        "shiawase-pan.asmik-ace.co.jp",
+        "index.html",
+        "三岛有纪子",
+        "幸福的面包",
+        "三岛有纪子 Yukiko Mishima"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1421989266.jpg"
+    },
+    {
+      "id": "26698262",
+      "cid": "4997323364",
+      "title": "与鹤瓶的家人干杯 -小栗旬 说走就走的北海道旭川之旅",
+      "aka": [
+        "鶴瓶の家族に乾杯 小栗旬 北海道旭川市ぶっつけ本番旅"
+      ],
+      "url": "https://movie.douban.com/subject/26698262/",
+      "cover": "data/posters/26698262.jpg",
+      "year": "2015",
+      "mark_date": "2026-11-24",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "日本"
+      ],
+      "genres": [],
+      "languages": [
+        "日语"
+      ],
+      "runtime": "",
+      "intro_raw": "2015-12-14 / 小栗旬 / 笑福亭鹤瓶 / 日本 / 与鹤瓶的家人干杯 -小栗旬 说走就走的北海道旭川之旅 / NHK / 日语",
+      "people": [
+        "小栗旬",
+        "笑福亭鹤瓶",
+        "与鹤瓶的家人干杯 -小栗旬 说走就走的北海道旭川之旅",
+        "NHK"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2306697189.jpg"
+    },
+    {
+      "id": "36871702",
+      "cid": "4997319597",
+      "title": "社交清算",
+      "aka": [
+        "The Social Reckoning",
+        "社群清算(台)",
+        "社交网络2"
+      ],
+      "url": "https://movie.douban.com/subject/36871702/",
+      "cover": "data/posters/36871702.jpg",
+      "year": "2026",
+      "mark_date": "2026-11-24",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "传记"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "112分钟",
+      "intro_raw": "2026-10-07(法国) / 2026-10-09(美国) / 2026(中国大陆) / 米奇·麦迪森 / 杰瑞米·艾伦·怀特 / 杰瑞米·斯特朗 / 乌米·马萨库 / 贝蒂·吉尔平 / 比利·马格努森 / 比尔·伯尔 / 派特里克·费斯克勒 / 格本加·阿金纳格贝 / 安娜·兰贝 / 美国 / 艾伦·索金 / 112分钟 / 社交清算 / 剧情 / 传记 / 艾伦·索金 Aaron Sorkin / 英语",
+      "people": [
+        "米奇·麦迪森",
+        "杰瑞米·艾伦·怀特",
+        "杰瑞米·斯特朗",
+        "乌米·马萨库",
+        "贝蒂·吉尔平",
+        "比利·马格努森",
+        "比尔·伯尔",
+        "派特里克·费斯克勒",
+        "格本加·阿金纳格贝",
+        "安娜·兰贝",
+        "艾伦·索金",
+        "社交清算",
+        "艾伦·索金 Aaron Sorkin"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934585536.jpg"
+    },
     {
       "id": "35700733",
       "cid": "4990197364",
