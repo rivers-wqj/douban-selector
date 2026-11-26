@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 431,
   "fetched": 422,
-  "fetched_at": "2026-11-25T07:48:01+0000",
+  "fetched_at": "2026-11-26T07:38:39+0000",
   "movies": [
     {
       "id": "5279593",
@@ -123,7 +123,7 @@
         "社交清算",
         "艾伦·索金 Aaron Sorkin"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934585536.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937741434.jpg"
     },
     {
       "id": "35700733",
@@ -1783,7 +1783,7 @@
         "艾玛·汤普森 Emma Thompson",
         "简·奥斯汀 Jane Austen"
       ],
-      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1107322461.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493639845.jpg"
     },
     {
       "id": "4832288",
@@ -13803,7 +13803,7 @@
         "英语"
       ],
       "runtime": "102分钟",
-      "intro_raw": "2016-02-13(柏林电影节) / 2016-04-06(法国) / 伊莎贝尔·于佩尔 / 安德烈·马尔孔 / 罗曼·科兰卡 / 爱迪丝·斯考博 / 伊莉斯·洛蒙 / 让-查理·克里切特 / 莱昂内尔·德雷 / 索拉尔·福特 / Sarah Le Picard / 法国 / 德国 / www.filmsdulosange.fr/en/film/224/things-to-come / 米娅·汉森-洛夫 / 102分钟 / 将来的事 / 剧情 / 米娅·汉森-洛夫 Mia Hansen-Løve / 法语 / 德语 / 英语",
+      "intro_raw": "2016-02-13(柏林电影节) / 2016-04-06(法国) / 伊莎贝尔·于佩尔 / 安德烈·马尔孔 / 罗曼·科兰卡 / 爱迪丝·斯考博 / 伊莉斯·洛蒙 / 让-查理·克里切特 / 莱昂内尔·德雷 / 索拉尔·福特 / Sarah Le Picard / 夏琳·布儒瓦-塔凯 / 法国 / 德国 / www.filmsdulosange.fr/en/film/224/things-to-come / 米娅·汉森-洛夫 / 102分钟 / 将来的事 / 剧情 / 米娅·汉森-洛夫 Mia Hansen-Løve / 法语 / 德语 / 英语",
       "people": [
         "伊莎贝尔·于佩尔",
         "安德烈·马尔孔",
@@ -13814,6 +13814,7 @@
         "莱昂内尔·德雷",
         "索拉尔·福特",
         "Sarah Le Picard",
+        "夏琳·布儒瓦-塔凯",
         "www.filmsdulosange.fr",
         "en",
         "film",
@@ -16054,7 +16055,7 @@
       ],
       "url": "https://movie.douban.com/subject/30438224/",
       "cover": "data/posters/30438224.jpg",
-      "year": "",
+      "year": "1975",
       "mark_date": "2022-09-12",
       "rating": 0,
       "comment": "",
@@ -16068,7 +16069,7 @@
         "法语"
       ],
       "runtime": "50分钟",
-      "intro_raw": "西蒙娜·德·波伏瓦 / Jean-Louis Servan-Schreiber / 法国 / Arlette François / 50分钟 / 西蒙娜·德·波伏娃：为什么我是女性主义者 / 纪录片 / 法语",
+      "intro_raw": "1975-04-06(法国) / 西蒙娜·德·波伏瓦 / Jean-Louis Servan-Schreiber / 法国 / Arlette François / 50分钟 / 西蒙娜·德·波伏娃：为什么我是女性主义者 / 纪录片 / 法语",
       "people": [
         "西蒙娜·德·波伏瓦",
         "Jean-Louis Servan-Schreiber",
