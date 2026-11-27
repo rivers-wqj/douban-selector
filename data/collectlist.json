@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 811,
   "fetched": 809,
-  "fetched_at": "2026-11-26T07:41:23+0000",
+  "fetched_at": "2026-11-27T07:40:44+0000",
   "movies": [
     {
       "id": "35876302",
@@ -748,7 +748,7 @@
       "cid": "4913792543",
       "title": "欢迎来龙餐馆",
       "aka": [
-        "Once Upon a Time in the Middle East"
+        "Once Upon a Time in the Middle East [可播放]"
       ],
       "url": "https://movie.douban.com/subject/35811064/",
       "cover": "data/posters/35811064.jpg",
